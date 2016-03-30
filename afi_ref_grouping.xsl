@@ -101,7 +101,7 @@ First pass, preparing reference extraction.
 			<xsl:when test="$elementName = 'p' and
 				$current_automatic_style/style:text-properties[@fo:font-style='italic']">
 				<xsl:element name="{$elementName}">
-					<italic><xsl:apply-templates/></italic>
+					<i><xsl:apply-templates/></i>
 				</xsl:element>
 			</xsl:when>
 			<xsl:when test="$elementName !=''">

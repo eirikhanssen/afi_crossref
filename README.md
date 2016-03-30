@@ -10,4 +10,4 @@ mkdir to_referanser && cd to_referanser
 unzip ../to_referanser.odt && cd ..
 
 sample command to run the stylesheet:
-saxon afi_refparser.xsl -it:main folder=to_referanser
+saxon afi_ref_grouping.xsl -it:main folder=to_referanser
