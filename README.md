@@ -11,3 +11,6 @@ unzip ../to_referanser.odt && cd ..
 
 sample command to run the stylesheet:
 saxon afi_ref_grouping.xsl -it:main folder=to_referanser
+
+running the pipeline with calabash:
+calabash -p folder=to_referanser afi2crossref.xpl
