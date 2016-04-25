@@ -31,5 +31,16 @@
 		</p:input>
 	</p:xslt>
 
+	<p:xslt name="parse_authors" version="2.0">
+		<!-- get source from previous transform -->
+		<p:input port="source"/>
+		<p:input port="stylesheet">
+			<p:document href="afi_parse_authors.xsl"/>
+		</p:input>
+		<p:input port="parameters">
+			<p:empty/>
+		</p:input>
+	</p:xslt>
+
 	<p:identity/>
 </p:declare-step>
