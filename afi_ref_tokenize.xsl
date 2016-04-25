@@ -40,11 +40,11 @@
 		<xsl:value-of select="replace($input_string, '^\s*[^:]+?:\s*([^,]+)(,\s(.+?))[.]?\s*http.+?$' , '$3')"/>
 	</xsl:function>
 
-	<xsl:function name="hfw:getAuthorsXML" as="element()*">
-		<!-- refine this function to generate the proper xml for authors -->
+	<xsl:function name="hfw:getContributorsXML" as="element()*">
+		<!-- refine this function to generate the proper xml for contributors -->
 		<xsl:param name="input_string" as="xs:string"/>
-		<xsl:variable name="author_string" select="replace($input_string, '^(.+?)\s*[(].*$','$1')"/>
-		<authors><xsl:value-of select="$author_string"/></authors>
+		<xsl:variable name="contributor_string" select="replace($input_string, '^(.+?)\s*[(].*$','$1')"/>
+		<contributors><xsl:value-of select="$contributor_string"/></contributors>
 	</xsl:function>
 
 	<xsl:function name="hfw:getURI" as="xs:string">
@@ -61,7 +61,7 @@
 
 	<xsl:template match="ref">
 		<xsl:variable name="this" select="."/>
-		<xsl:variable name="authors" select="hfw:getAuthorsXML($this/text()[1])"></xsl:variable>
+		<xsl:variable name="contributors" select="hfw:getContributorsXML($this/text()[1])"></xsl:variable>
 		<xsl:variable name="year"><xsl:value-of select="hfw:getYear($this/text()[1])"/></xsl:variable>
 		<xsl:variable name="title"><xsl:value-of select="i"/></xsl:variable>
 		<xsl:variable name="publisher_loc"><xsl:value-of select="hfw:getPublisherLoc($this/text()[position()=last()])"/></xsl:variable>
@@ -71,7 +71,7 @@
 		<ref>
 			<title><xsl:value-of select="$title"/></title>
 			<year><xsl:value-of select="$year"/></year>
-			<xsl:sequence select="$authors"></xsl:sequence>
+			<xsl:sequence select="$contributors"></xsl:sequence>
 			<publisher>
 				<publisher_loc><xsl:value-of select="$publisher_loc"/></publisher_loc>
 				<publisher_name><xsl:value-of select="$publisher_name"/></publisher_name>
