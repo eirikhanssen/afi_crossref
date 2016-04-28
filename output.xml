@@ -25,11 +25,11 @@
                   <given_names>Frøyland</given_names>
                   <surname>Kjetil</surname>
                </person_name>
-               <person_name contributor_role="author">
+               <person_name contributor_role="author" sequence="additional">
                   <given_names>Maximova-Mentzoni</given_names>
                   <surname>Tatiana</surname>
                </person_name>
-               <person_name contributor_role="author">
+               <person_name contributor_role="author" sequence="additional">
                   <given_names>Fossestøl</given_names>
                   <surname>Knut</surname>
                </person_name>
@@ -71,15 +71,15 @@
                   <given_names>Bergene</given_names>
                   <surname>Ann Cecilie</surname>
                </person_name>
-               <person_name contributor_role="author">
+               <person_name contributor_role="author" sequence="additional">
                   <given_names>Egeland</given_names>
                   <surname>Cathrine</surname>
                </person_name>
-               <person_name contributor_role="author">
+               <person_name contributor_role="author" sequence="additional">
                   <given_names>Hansen</given_names>
                   <surname>Per Bonde</surname>
                </person_name>
-               <person_name contributor_role="author">
+               <person_name contributor_role="author" sequence="additional">
                   <given_names>Wathne</given_names>
                   <surname>Christin Thea</surname>
                </person_name>
