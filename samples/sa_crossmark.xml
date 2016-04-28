@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<doi_batch version="4.3.5" xmlns="http://www.crossref.org/doi_resources_schema/4.3.5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/doi_resources_schema/4.3.5 http://www.crossref.org/schemas/doi_resources4.3.5.xsd" xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" xmlns:fr="http://www.crossref.org/fundref.xsd"> 
+    <head> 
+        <doi_batch_id>123456</doi_batch_id> 
+        <depositor> 
+            <depositor_name>xyz</depositor_name> 
+            <email_address>support@crossref.org</email_address> 
+        </depositor> 
+    </head> 
+    <body> 
+        <crossmark_data>
+            <!--the DOI being updated with CrossMark metadata-->
+            <doi>10.5555/12345678</doi>
+            
+            <!--CrossMark metadata-->
+            <crossmark>
+                <crossmark_version>1</crossmark_version>
+                <crossmark_policy>10.5555/crossmark_policy</crossmark_policy>
+                <crossmark_domains>
+                    <crossmark_domain>
+                        <domain>psychoceramics.labs.crossref.org</domain>
+                    </crossmark_domain>
+                </crossmark_domains>
+                <crossmark_domain_exclusive>true</crossmark_domain_exclusive>
+                <custom_metadata>
+                    <assertion name="orcid" label="ORCID" group_name="identifiers" group_label="Identifiers" order="0" href="http://orcid.org/0000-0002-1825-0097">http://orcid.org/0000-0002-1825-0097</assertion>
+                    <assertion name="received" label="Received" group_name="publication_history" group_label="Publication History" order="0">2012-07-24</assertion>
+                    <assertion name="accepted" label="Accepted" group_name="publication_history" group_label="Publication History" order="1">2012-08-29</assertion>
+                    <assertion name="published" label="Published" group_name="publication_history" group_label="Publication History" order="2">2012-09-10</assertion>
+                    <fr:program name="fundref">
+                        <fr:assertion name="funder_name">National Science Foundation
+                            <fr:assertion name="funder_identifier">http://dx.doi.org/10.13039/100000001</fr:assertion>
+                        </fr:assertion>
+                        <fr:assertion name="award_number">psychoceramics-1152342</fr:assertion>
+                    </fr:program>
+                </custom_metadata>
+            </crossmark>
+        </crossmark_data>
+    </body> 
+</doi_batch>
+

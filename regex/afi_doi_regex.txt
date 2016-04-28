@@ -1,0 +1,39 @@
+http://userguide.icu-project.org/strings/regexp#TOC-Regular-Expression-Metacharacters
+
+
+http://doi.org/10.7577/afi.1
+
+
+Fossestøl, Knut og Ingebjørg Skarpaas (2013): Modellutprøving av psykologer i kommunehelsetjenesten. En evaluering. Oslo: Arbeidsforskningsinstituttet, AFI-rapport 2013:8. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Modellutproeving-av-psykologer-i-kommunehelsetjenesten
+
+Fossestøl, Knut, & Ingebjørg Skarpaas (2013). Modellutprøving av psykologer i kommunehelsetjenesten. En evaluering. Oslo: Arbeidsforskningsinstituttet, AFI-rapport 2013:8. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Modellutproeving-av-psykologer-i-kommunehelsetjenesten
+
+Erstatt og med ,& og erstatt kolon etter parantes med årstall med punktum.
+
+søk: ^(.+)\sog\s(.+[(]\d\d\d\d[)]):\s*(.+)$
+erstatt: $1, \& $2. $3
+
+må lage regex for å invertere navn.
+
+Få satt inn årstall:
+søk:
+^([^:0-9()]+):
+^([^:0-9()]+)(:.+AFI-[a-zA-Z]+\s*)(\d\d\d\d)
+
+ertatt:
+$1 ($3)$2
+
+Erstatt 'og' i forfatterstrengen med &
+Søk:
+^(.+\s*)(og)(?=.+[(]\d\d\d\d[)])
+
+^(.+\s*)(og)(.+[(]\d\d\d\d)
+Erstatt:
+$1\&$3
+
+Søk:
+Finn tittelen. (teksten mellom årstall og Oslo:)
+lookbehind og lookahead
+(?<=[(]\d\d\d\d[)]:\s).+?(?=\s*Oslo:)
+
+kursiver!

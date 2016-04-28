@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch version="4.3.4" xmlns="http://www.crossref.org/schema/4.3.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 
+http://www.crossref.org/schema/deposit/crossref4.3.4.xsd">
+	<head>
+		<doi_batch_id>123456</doi_batch_id>
+		<timestamp>20050606110604</timestamp>
+		<depositor>
+			<depositor_name>Sample Master</depositor_name>
+			<email_address>support@crossref.org</email_address>
+		</depositor>
+		<registrant>CrossRef</registrant>
+	</head>
+	<body>
+		<report-paper>
+			<report-paper_metadata language = "en">
+				<contributors>
+					<person_name sequence = "first" contributor_role = "author">
+						<given_name>D.S.</given_name>
+						<surname>McShane</surname>
+					</person_name>
+				</contributors>
+				<titles>
+					<title>Title Sludge Handling System Conceptual Design Document</title>
+				</titles>
+				<edition_number>0</edition_number>
+				<publication_date media_type = "online">
+					<month>03</month>
+					<day>03</day>
+					<year>2001</year>
+				</publication_date>
+				<publisher>
+					<publisher_name>Office of Scientific and Technical Information</publisher_name>
+					<publisher_place>Washington, DC</publisher_place>
+				</publisher>
+				<institution>
+					<institution_name>United States Department of Energy</institution_name>
+					<institution_acronym>USDOE(EM)</institution_acronym>
+					<institution_place>Washington, DC</institution_place>
+					<institution_department>Office of Environmental Management</institution_department>
+				</institution>
+				<institution>
+					<institution_name>Fluor Daniel Northwest</institution_name>
+					<institution_acronym>FDNW</institution_acronym>
+					<institution_place>Aliso Viejo, CA</institution_place>
+				</institution>
+				<publisher_item>
+					<identifier id_type="report-number">abc123</identifier>
+				</publisher_item>
+				<contract_number>AC06-96RL13200</contract_number>
+				<doi_data>
+					<doi>10.9999/osti-806888</doi>
+					<resource>http://198.232.211.23/pdwdocs/fsd0001/osti/2001/I0004856.pdf</resource>
+				</doi_data>
+			</report-paper_metadata>
+		</report-paper>
+	</body>
+</doi_batch>

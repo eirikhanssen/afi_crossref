@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch version="4.3.6" xmlns="http://www.crossref.org/schema/4.3.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.6 
+http://www.crossref.org/schemas/crossref4.3.6.xsd">
+	<head>
+		<doi_batch_id>123456</doi_batch_id>
+		<timestamp>20050606110604</timestamp>
+		<depositor>
+			<depositor_name>CrossRef</depositor_name>
+			<email_address>support@crossref.org</email_address>
+		</depositor>
+		<registrant>CrossRef</registrant>
+	</head>
+	<body>
+		<report-paper>
+			<report-paper_series_metadata language = "en">
+			<series_metadata>
+				<titles>
+					<title>CrossRef Report Series</title>
+				</titles>
+				<issn>5555-5555</issn>
+			</series_metadata>
+				<contributors>
+					<person_name sequence = "first" contributor_role = "author">
+						<given_name>Bob</given_name>
+						<surname>Surname</surname>
+					</person_name>
+				</contributors>
+				<titles>
+					<title>Depositing report series with CrossRef</title>
+				</titles>
+				<edition_number>0</edition_number>
+				<publication_date media_type = "online">
+					<month>03</month>
+					<day>03</day>
+					<year>2009</year>
+				</publication_date>
+				<publisher>
+					<publisher_name>Publishers International Linking Association</publisher_name>
+					<publisher_place>Lynnfield, MA</publisher_place>
+				</publisher>
+				<institution>
+					<institution_name>CrossRef</institution_name>
+					<institution_acronym>CR</institution_acronym>
+					<institution_place>Lynnfield, MA</institution_place>
+					<institution_department>Metadata Quality</institution_department>
+				</institution>
+				<publisher_item>
+					<item_number item_number_type="Report Number">IMA-RPT</item_number>
+				</publisher_item>
+				<contract_number>AC06-96RL13200</contract_number>
+				<doi_data>
+					<doi>10.5555/sampledoi</doi>
+					<resource>http://www.crossref.org/help/</resource>
+				</doi_data>
+			</report-paper_series_metadata>
+		</report-paper>
+	</body>
+</doi_batch>

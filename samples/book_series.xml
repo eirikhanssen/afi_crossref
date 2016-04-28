@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch version="4.3.6"
+xmlns="http://www.crossref.org/schema/4.3.6"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.crossref.org/schema/4.3.6
+http://www.crossref.org/schemas/crossref4.3.6.xsd">
+	<head>
+		<doi_batch_id>123456</doi_batch_id>
+		<timestamp>20082003110604</timestamp>
+		<depositor>
+			<depositor_name>test data</depositor_name>
+			<email_address>support@crossref.org</email_address>
+		</depositor>
+		<registrant>test data</registrant>
+	</head>
+	<body>
+		<book book_type="edited_book">
+<book_series_metadata language="en">
+<series_metadata>
+<titles><title>Electrochemistry</title></titles>
+<issn>0305-9979</issn>
+</series_metadata>
+<contributors>
+<person_name sequence="first" contributor_role="editor">
+<given_name>D</given_name>
+<surname>Pletcher</surname>
+</person_name>
+</contributors>
+<titles><title>Electrochemistry</title></titles>
+<volume>8</volume>
+<publication_date media_type="print">
+<year>1983</year>
+</publication_date>
+<isbn>978-0-85186-067-1</isbn>
+<publisher>
+<publisher_name>Royal Society of Chemistry</publisher_name>
+<publisher_place>Cambridge</publisher_place>
+</publisher>
+<doi_data>
+<doi>10.50505/testdoi13</doi>
+<resource>http://ebook.rsc.org/?DOI=10.1039/9781847557179</resource>
+</doi_data>
+</book_series_metadata>
+<content_item component_type="other" publication_type="full_text"><contributors>
+<person_name sequence="first" contributor_role="editor">
+<given_name>D.</given_name>
+<surname>Pletcher</surname>
+</person_name>
+</contributors>
+<titles><title>Front cover</title></titles>
+<pages><first_page>X001</first_page><last_page>X002</last_page></pages>
+<doi_data>
+<doi>10.50505/testdoi14</doi>
+<resource>http://ebook.rsc.org/?DOI=10.1039/9781847557179-FX001</resource>
+</doi_data>
+</content_item>
+</book>
+	</body>
+</doi_batch>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<doi_batch version="4.3.5" xmlns="http://www.crossref.org/doi_resources_schema/4.3.5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/doi_resources_schema/4.3.5 http://www.crossref.org/schemas/doi_resources4.3.5.xsd"> 
+    <head> 
+        <doi_batch_id>123456</doi_batch_id> 
+        <depositor> 
+            <depositor_name>xyz</depositor_name> 
+            <email_address>support@crossref.org</email_address> 
+        </depositor> 
+    </head> 
+    <body> 
+        <doi_resources> 
+            <doi>10.50505/mrtest</doi> 
+            <collection property="list-based" multi-resolution="unlock"/> 
+        </doi_resources> 
+        <doi_resources> 
+            <doi>10.50505/mrtest2</doi> 
+            <collection property="list-based" multi-resolution="unlock"/> 
+        </doi_resources> 
+        <doi_resources> 
+            <doi>10.50505/mrtest3</doi> 
+            <collection property="list-based" multi-resolution="unlock"/> 
+        </doi_resources> 
+    </body> 
+</doi_batch>
+

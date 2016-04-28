@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch version="4.3.4" xmlns="http://www.crossref.org/schema/4.3.4"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schemas/crossref4.3.4.xsd">	<head>
+		<doi_batch_id>123456</doi_batch_id>
+		<timestamp>19990628123304</timestamp>
+		<depositor>
+			<depositor_name>xyz</depositor_name>
+			<email_address>xyz@authorized_depositor.com</email_address>
+		</depositor>
+		<registrant>Molecular Cell</registrant>
+	</head>
+	<body>
+		<sa_component parent_doi="10.9876/molcell/10/4">
+			<component_list>
+				<component parent_relation="isPartOf">
+					<description>Cover Image, Molecular Cell, Volume 10, Issue 4, January 2004</description>
+					<format mime_type="image/tiff"/>
+					<doi_data>
+						<doi>10.9876/molcell/10/4/cover</doi>
+						<resource>http://molcell.org/10/4/cover</resource>
+					</doi_data>
+				</component>
+			</component_list>
+		</sa_component>
+	</body>
+</doi_batch>

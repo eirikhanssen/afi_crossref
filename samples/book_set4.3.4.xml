@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch version="4.3.4"
+xmlns="http://www.crossref.org/schema/4.3.4"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.crossref.org/schema/4.3.4
+http://www.crossref.org/schema/deposit/crossref4.3.4.xsd">
+  <head>
+    <doi_batch_id>20080305081200</doi_batch_id>
+    <timestamp>200815071200</timestamp>
+    <depositor>
+      <depositor_name>Sample Master</depositor_name>
+      <email_address>support@crossref.org</email_address>
+    </depositor>
+    <registrant>Sample Data</registrant>
+  </head>
+  <body>
+  <book book_type="edited_book">
+    <book_set_metadata language="en">
+<set_metadata>
+	<titles><title>Sample Set Title</title></titles>
+      <isbn media_type="print">0 571 08989 5</isbn>
+</set_metadata>
+      <titles><title>Sample Volume Title</title></titles>
+      <volume>1</volume>
+      <publication_date media_type="print"><year>2007</year></publication_date>
+<isbn media_type="print">0064410145</isbn>
+      <publisher><publisher_name>Sample Publisher</publisher_name></publisher>
+    </book_set_metadata>
+    <content_item component_type="chapter" level_sequence_number="1" publication_type="full_text" language="en">
+      <contributors><person_name sequence="first" contributor_role="author"><given_name>Patricia</given_name><surname>Feeney</surname></person_name></contributors>
+      <titles><title>Sample Chapter Title</title></titles>
+      <publication_date media_type="print"><year>2007</year></publication_date>
+      <pages><first_page>1</first_page><last_page>200</last_page></pages>
+<publisher_item><item_number item_number_type="sequence-number">S0091679X0861064X</item_number></publisher_item>
+      <doi_data><doi>10.50505/testset1</doi><resource>http://www.crossref.org/</resource></doi_data>
+    </content_item>
+  </book>
+  </body>
+</doi_batch>

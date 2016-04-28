@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch version="4.3.4" xmlns="http://www.crossref.org/schema/4.3.4"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 
+http://www.crossref.org/schema/deposit/crossref4.3.4.xsd">
+
+	<head>
+		<doi_batch_id>123456</doi_batch_id>
+		<timestamp>19990628123306</timestamp>
+		<depositor>
+			<depositor_name>CrossRef Support</depositor_name>
+			<email_address>support@crossref.org</email_address>
+		</depositor>
+		<registrant>CrossRef</registrant>
+	</head>
+	<body>
+		<journal>
+			<journal_metadata language="en">
+				<full_title>Journal of Test Deposits</full_title>
+				<abbrev_title>JRT</abbrev_title>
+				<issn media_type="print">0198-8220</issn>
+				<doi_data>
+					<doi>10.5555/jtd</doi>
+					<resource>http://www.crossref.org/jtd</resource>
+				</doi_data>
+			</journal_metadata>
+		</journal>
+		<journal>
+			<journal_metadata language="en">
+				<full_title>CrossRef Journal</full_title>
+				<abbrev_title>CrossRef</abbrev_title>
+				<issn media_type="print">5555-5555</issn>
+				<doi_data>
+					<doi>10.5555/tt2</doi>
+					<resource>http://www.crossref.org/tt2</resource>
+				</doi_data>
+			</journal_metadata>
+		</journal>
+	</body>
+</doi_batch>
