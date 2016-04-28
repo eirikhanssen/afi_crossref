@@ -7,7 +7,7 @@
 
 	<xsl:function name="hfw:hasMultipleContributors" as="xs:boolean">
 		<xsl:param name="contributors_string" as="xs:string"/>
-		<xsl:message><xsl:value-of select="$contributors_string"/><xsl:text>  :::  </xsl:text><xsl:value-of select="count(tokenize($contributors_string, ','))"/></xsl:message>
+		<!--<xsl:message><xsl:value-of select="$contributors_string"/><xsl:text>  :::  </xsl:text><xsl:value-of select="count(tokenize($contributors_string, ','))"/></xsl:message>-->
 		<xsl:variable name="has_multiple_commas" select="
 			if(count(tokenize($contributors_string, ','))>1 or contains($contributors_string, ' og ') or contains($contributors_string, ' &amp; '))  
 			then true()
@@ -50,8 +50,8 @@
 		<xsl:variable name="has_multiple_contributors" select="hfw:hasMultipleContributors(./text())"/>
 		<xsl:variable name="primary_contributor" select="replace($contributors_string, '^([^,]+),\s*([^,]+).+$', '$2 $1')"/>
 		<xsl:variable name="secondary_contributors" select="replace($contributors_string, '^([^,]+),\s*([^,]+)(\s*,\s*)?(.+)$', '$4')"/>
-		<xsl:message>Primary contributor: <xsl:value-of select="$primary_contributor"/></xsl:message>
-		<xsl:message>Secondary contributors: <xsl:value-of select="$secondary_contributors"/></xsl:message>
+		<!--<xsl:message>Primary contributor: <xsl:value-of select="$primary_contributor"/></xsl:message>-->
+		<!--<xsl:message>Secondary contributors: <xsl:value-of select="$secondary_contributors"/></xsl:message>-->
 		<xsl:variable name="contributors">
 		<xsl:comment><xsl:apply-templates/></xsl:comment>
 		<contributors>

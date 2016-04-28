@@ -33,16 +33,22 @@
 		<xsl:sequence select="$style_doc//style:style, $content_doc//style:style"/>
 	</xsl:variable>
 	<xsl:template name="main">
-		<result>
-			<xsl:message>
-First pass, preparing reference extraction.
-<xsl:value-of select="count($style_defs)"/><xsl:text> styles in </xsl:text><xsl:value-of select="$style_filepath"/> and <xsl:value-of select="$content_filepath"/> 
-<xsl:text>&#xa;</xsl:text>
-			</xsl:message>
-			<refs>
+		<doi_batch><xsl:text>&#xa;</xsl:text>
+			<xsl:comment>TODO: remember to add namespace to doi_batch!</xsl:comment><xsl:text>&#xa;</xsl:text>
+			<xsl:comment>xmlns="http://www.crossref.org/schema/4.3.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.4" xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd"</xsl:comment><xsl:text>&#xa;</xsl:text>
+			<head>
+				<doi_batch_id><xsl:comment>TODO!</xsl:comment></doi_batch_id>
+				<timestamp><xsl:comment>TODO!</xsl:comment></timestamp>
+				<depositor>
+					<depositor_name><xsl:comment>TODO!</xsl:comment></depositor_name>
+					<email_address><xsl:comment>TODO!</xsl:comment></email_address>
+				</depositor>
+				<registrant><xsl:comment>TODO!</xsl:comment></registrant>
+			</head>
+			<references>
 				<xsl:apply-templates select="$content_doc//text:p"></xsl:apply-templates>
-			</refs>
-		</result>
+			</references>
+		</doi_batch>
 		
 	</xsl:template>
 

@@ -35,11 +35,6 @@
 		<xsl:value-of select="replace($input_string, '^\s*[^:]+?:\s*([^,]+).+?$' , '$1')"/>
 	</xsl:function>
 
-	<!--<xsl:function name="hfw:getSeriesTitle" as="xs:string">
-		<xsl:param name="input_string" as="xs:string"/>
-		<xsl:value-of select="replace($input_string, '^\s*[^:]+?:\s*([^,]+)(,\s(.+?))[.]?\s*http.+?$' , '$3')"/>
-	</xsl:function> -->
-
 	<xsl:function name="hfw:getContributorsXML" as="element()*">
 		<!-- refine this function to generate the proper xml for contributors -->
 		<xsl:param name="input_string" as="xs:string"/>
@@ -51,13 +46,11 @@
 		<xsl:param name="input_string" as="xs:string"/>
 		<xsl:value-of select="replace($input_string, '^.+?(http.+?)\s*$' , '$1')"/>
 	</xsl:function>
-
-	<xsl:template match="serietittel">
-		<xsl:variable name="serietittel" select="hfw:getSeriesTitle(.)"/>
-		<xsl:variable name="issn" select="hfw:getISSN(.)"/>
-		<serietittel><xsl:value-of select="$serietittel"/></serietittel>
-		<issn><xsl:value-of select="$issn"/></issn>
-	</xsl:template>
+	
+	<xsl:variable name="serietittel" select="hfw:getSeriesTitle(//serietittel)"/>
+	<xsl:variable name="issn" select="hfw:getISSN(//serietittel)"/>
+	
+	<xsl:template match="serietittel"/>
 
 	<xsl:template match="ref">
 		<xsl:variable name="this" select="."/>
@@ -66,15 +59,13 @@
 		<xsl:variable name="title"><xsl:value-of select="i"/></xsl:variable>
 		<xsl:variable name="publisher_place"><xsl:value-of select="hfw:getPublisherLoc($this/text()[position()=last()])"/></xsl:variable>
 		<xsl:variable name="publisher_name"><xsl:value-of select="hfw:getPublisherName($this/text()[position()=last()])"/></xsl:variable>
-		<xsl:variable name="seriesTitle"><xsl:value-of select="hfw:getSeriesTitle($this/text()[position()=last()])"/></xsl:variable>
 		<xsl:variable name="uri"><xsl:value-of select="hfw:getURI($this/text()[position()=last()])"/></xsl:variable>
-		<xsl:variable name="issn" select="hfw:getISSN(ancestor::serietittel)"/>
 		<report-paper>
 			<report-paper_series_metadata>
 				<xsl:attribute name="language" select="'no'"/>
 				<series_metadata>
 					<titles>
-						<title><xsl:value-of select="$seriesTitle"/></title>
+						<title><xsl:value-of select="$serietittel"/></title>
 					</titles>
 					<xsl:if test="$issn != ''"><issn><xsl:value-of select="$issn"/></issn></xsl:if>
 				</series_metadata>
@@ -83,7 +74,8 @@
 					<title><xsl:value-of select="$title"/></title>
 				</titles>
 				<publication_date>
-					<xsl:attribute name="media_type" select="online"/>
+					<xsl:attribute name="media_type" select="'online'"/>
+					<xsl:comment>TODO: What about printed publication date?</xsl:comment>
 					<year><xsl:value-of select="$year"/></year>	
 				</publication_date>
 				<publisher>
@@ -91,14 +83,15 @@
 					<publisher_name><xsl:value-of select="$publisher_name"/></publisher_name>
 				</publisher>
 				<institution>
-					<institution_name></institution_name>
-					<institution_acronym></institution_acronym>
-					<institution_place></institution_place>
-					<institution_department></institution_department>
+					<institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+					<institution_acronym>HiOA</institution_acronym>
+					<institution_place>Oslo</institution_place>
+					<institution_department>Arbeidsforskningsinstituttet</institution_department>
 				</institution>
 				<doi_data>
-					<doi><!-- to be created later --></doi>
+					<doi><xsl:comment>TODO</xsl:comment></doi>
 					<resource><xsl:value-of select="$uri"/></resource>
+					<timestamp><xsl:comment>TODO</xsl:comment></timestamp>
 				</doi_data>
 			</report-paper_series_metadata>
 		</report-paper>

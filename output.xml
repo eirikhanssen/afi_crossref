@@ -1,61 +1,112 @@
-<result>
-   <refs>
-      <serietittel>AFIs rapportserie</serietittel>
-      <issn>0807-0865</issn>
-      <ref>
-         <title>Sosialt arbeid og oppfølging av utsatt ungdom i NAV. Tiltak, metoder, samarbeid og samordning i og rundt NAV-kontoret. Sluttrapport fra evaluering av utviklingsarbeid i 15 prosjektområder.</title>
-         <year>2016</year>
-         <!--Frøyland, Kjetil, Tatiana Maximova-Mentzoni & Knut Fossestøl-->
-         <contributors>
-            <person_name sequence="first" contributor_role="author">
-               <given_names>Frøyland</given_names>
-               <surname>Kjetil</surname>
-            </person_name>
-            <person_name contributor_role="author">
-               <given_names>Maximova-Mentzoni</given_names>
-               <surname>Tatiana</surname>
-            </person_name>
-            <person_name contributor_role="author">
-               <given_names>Fossestøl</given_names>
-               <surname>Knut</surname>
-            </person_name>
-         </contributors>
-         <publisher>
-            <publisher_loc>Oslo</publisher_loc>
-            <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-         </publisher>
-         <series>AFI-rapport 2016:01</series>
-         <uri>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Sosialt-arbeid-og-oppfoelging-av-utsatt-ungdom-i-NAV</uri>
-      </ref>
-      <ref>
-         <title>Når unntaket blir en del av regelen. En kunnskapsoversikt over forskning på midlertidig ansettelser.</title>
-         <year>2015</year>
-         <!--Bergene, Ann Cecilie, Cathrine Egeland, Per Bonde Hansen & Christin Thea Wathne-->
-         <contributors>
-            <person_name sequence="first" contributor_role="author">
-               <given_names>Bergene</given_names>
-               <surname>Ann Cecilie</surname>
-            </person_name>
-            <person_name contributor_role="author">
-               <given_names>Egeland</given_names>
-               <surname>Cathrine</surname>
-            </person_name>
-            <person_name contributor_role="author">
-               <given_names>Hansen</given_names>
-               <surname>Per Bonde</surname>
-            </person_name>
-            <person_name contributor_role="author">
-               <given_names>Wathne</given_names>
-               <surname>Christin Thea</surname>
-            </person_name>
-         </contributors>
-         <publisher>
-            <publisher_loc>Oslo</publisher_loc>
-            <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-         </publisher>
-         <series>AFI-rapport 2015:1</series>
-         <uri>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Naar-unntaket-blir-en-del-av-regelen</uri>
-      </ref>
-   </refs>
-</result>
+<doi_batch>
+<!--TODO: remember to add namespace to doi_batch!-->
+<!--xmlns="http://www.crossref.org/schema/4.3.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.4" xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd"-->
+   <head>
+      <doi_batch_id><!--TODO!--></doi_batch_id>
+      <timestamp><!--TODO!--></timestamp>
+      <depositor>
+         <depositor_name><!--TODO!--></depositor_name>
+         <email_address><!--TODO!--></email_address>
+      </depositor>
+      <registrant><!--TODO!--></registrant>
+   </head>
+   <references>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFIs rapportserie</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
+            <!--Frøyland, Kjetil, Tatiana Maximova-Mentzoni & Knut Fossestøl-->
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_names>Frøyland</given_names>
+                  <surname>Kjetil</surname>
+               </person_name>
+               <person_name contributor_role="author">
+                  <given_names>Maximova-Mentzoni</given_names>
+                  <surname>Tatiana</surname>
+               </person_name>
+               <person_name contributor_role="author">
+                  <given_names>Fossestøl</given_names>
+                  <surname>Knut</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Sosialt arbeid og oppfølging av utsatt ungdom i NAV. Tiltak, metoder, samarbeid og samordning i og rundt NAV-kontoret. Sluttrapport fra evaluering av utviklingsarbeid i 15 prosjektområder.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2016</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <doi_data>
+               <doi><!--TODO--></doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Sosialt-arbeid-og-oppfoelging-av-utsatt-ungdom-i-NAV</resource>
+               <timestamp><!--TODO--></timestamp>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFIs rapportserie</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
+            <!--Bergene, Ann Cecilie, Cathrine Egeland, Per Bonde Hansen & Christin Thea Wathne-->
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_names>Bergene</given_names>
+                  <surname>Ann Cecilie</surname>
+               </person_name>
+               <person_name contributor_role="author">
+                  <given_names>Egeland</given_names>
+                  <surname>Cathrine</surname>
+               </person_name>
+               <person_name contributor_role="author">
+                  <given_names>Hansen</given_names>
+                  <surname>Per Bonde</surname>
+               </person_name>
+               <person_name contributor_role="author">
+                  <given_names>Wathne</given_names>
+                  <surname>Christin Thea</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Når unntaket blir en del av regelen. En kunnskapsoversikt over forskning på midlertidig ansettelser.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2015</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <doi_data>
+               <doi><!--TODO--></doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Naar-unntaket-blir-en-del-av-regelen</resource>
+               <timestamp><!--TODO--></timestamp>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+   </references>
+</doi_batch>
 
