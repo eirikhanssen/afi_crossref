@@ -64,7 +64,7 @@
 		<xsl:variable name="contributors" select="hfw:getContributorsXML($this/text()[1])"></xsl:variable>
 		<xsl:variable name="year"><xsl:value-of select="hfw:getYear($this/text()[1])"/></xsl:variable>
 		<xsl:variable name="title"><xsl:value-of select="i"/></xsl:variable>
-		<xsl:variable name="publisher_loc"><xsl:value-of select="hfw:getPublisherLoc($this/text()[position()=last()])"/></xsl:variable>
+		<xsl:variable name="publisher_place"><xsl:value-of select="hfw:getPublisherLoc($this/text()[position()=last()])"/></xsl:variable>
 		<xsl:variable name="publisher_name"><xsl:value-of select="hfw:getPublisherName($this/text()[position()=last()])"/></xsl:variable>
 		<xsl:variable name="series"><xsl:value-of select="hfw:getSeries($this/text()[position()=last()])"/></xsl:variable>
 		<xsl:variable name="uri"><xsl:value-of select="hfw:getURI($this/text()[position()=last()])"/></xsl:variable>
@@ -73,7 +73,7 @@
 			<year><xsl:value-of select="$year"/></year>
 			<xsl:sequence select="$contributors"></xsl:sequence>
 			<publisher>
-				<publisher_loc><xsl:value-of select="$publisher_loc"/></publisher_loc>
+				<publisher_place><xsl:value-of select="$publisher_place"/></publisher_place>
 				<publisher_name><xsl:value-of select="$publisher_name"/></publisher_name>
 			</publisher>
 			<series><xsl:value-of select="$series"/></series>
