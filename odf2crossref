@@ -1,4 +1,13 @@
 #!/bin/bash
+
+# Modify these lines as needed
+# Use underscore instead of spaces!
+depositor_name=Eirik_Hanssen
+email_address=ojs@hioa.no
+registrant=HiOA
+
+# Don't modify below here unless you know what you are doing!
 timestamp="$(date +%Y%m%d%H%M%S)"
 input_folder=$1
-calabash -p timestamp=$timestamp -p folder=$input_folder afi2crossref.xpl | tee output.xml
+
+calabash -p registrant=$registrant -p email_address=$email_address -p depositor_name=$depositor_name -p timestamp=$timestamp -p folder=$input_folder afi2crossref.xpl | tee output.xml

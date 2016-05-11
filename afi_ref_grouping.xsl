@@ -15,6 +15,9 @@
 	<xsl:output method="xml" indent="yes" omit-xml-declaration="yes"/>
 	<xsl:param name="folder"/>
 	<xsl:param name="timestamp"/>
+	<xsl:param name="depositor_name"/>
+	<xsl:param name="email_address"/>
+	<xsl:param name="registrant"/>
 	<xsl:variable name="style-map" select="doc('')/xsl:stylesheet/sm:styles/sm:style" as="element(sm:style)+"/>
 
 	<xsl:function name="hfw:addFileToFolderPath" as="xs:string">
@@ -38,13 +41,13 @@
 			<xsl:comment>TODO: remember to add namespace to doi_batch!</xsl:comment><xsl:text>&#xa;</xsl:text>
 			<xsl:comment>xmlns="http://www.crossref.org/schema/4.3.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.4" xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd"</xsl:comment><xsl:text>&#xa;</xsl:text>
 			<head>
-				<doi_batch_id><xsl:comment>TODO!</xsl:comment></doi_batch_id>
+				<doi_batch_id><xsl:value-of select="concat('hioa_',$timestamp)"/></doi_batch_id>
 				<timestamp><xsl:value-of select="$timestamp"/></timestamp>
 				<depositor>
-					<depositor_name><xsl:comment>TODO!</xsl:comment></depositor_name>
-					<email_address><xsl:comment>TODO!</xsl:comment></email_address>
+					<depositor_name><xsl:value-of select="replace($depositor_name,'_',' ')"/></depositor_name>
+					<email_address><xsl:value-of select="$email_address"/></email_address>
 				</depositor>
-				<registrant><xsl:comment>TODO!</xsl:comment></registrant>
+				<registrant><xsl:value-of select="$registrant"/></registrant>
 			</head>
 			<references>
 				<xsl:apply-templates select="$content_doc//text:p"></xsl:apply-templates>
