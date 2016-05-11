@@ -49,9 +49,9 @@
 				</depositor>
 				<registrant><xsl:value-of select="$registrant"/></registrant>
 			</head>
-			<references>
+			<body>
 				<xsl:apply-templates select="$content_doc//text:p"></xsl:apply-templates>
-			</references>
+			</body>
 		</doi_batch>
 		
 	</xsl:template>
