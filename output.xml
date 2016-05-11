@@ -2,8 +2,8 @@
 <!--TODO: remember to add namespace to doi_batch!-->
 <!--xmlns="http://www.crossref.org/schema/4.3.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.4" xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd"-->
    <head>
-      <doi_batch_id>hioa_20160511190733</doi_batch_id>
-      <timestamp>20160511190733</timestamp>
+      <doi_batch_id>hioa_20160511191454</doi_batch_id>
+      <timestamp>20160511191454</timestamp>
       <depositor>
          <depositor_name>Eirik Hanssen</depositor_name>
          <email_address>ojs@hioa.no</email_address>
@@ -769,15 +769,11 @@
                </titles>
                <issn>0807-0865</issn>
             </series_metadata>
-            <!--Contributors: Kjetil Frøyland & Knut Fossestøl-->
-            <!--Primary contributor: Kjetil Frøyland & Knut Fossestøl-->
-            <!--Secondary contributors: Kjetil Frøyland & Knut Fossestøl-->
+            <!--Contributors: Frøyland, Kjetil & Knut Fossestøl-->
+            <!--Primary contributor: Kjetil Frøyland-->
+            <!--Secondary contributors: Knut Fossestøl-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
-                  <given_names>Kjetil Frøyland &amp; Knut</given_names>
-                  <surname>Fossestøl</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
                   <given_names>Kjetil</given_names>
                   <surname>Frøyland</surname>
                </person_name>
