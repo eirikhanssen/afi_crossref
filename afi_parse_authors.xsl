@@ -15,13 +15,13 @@
  		<xsl:value-of select="$has_multiple_commas"/>
 	</xsl:function>
 	
-	<xsl:function name="hfw:getGivenNamesFromContributorString" as="xs:string">
+	<xsl:function name="hfw:getSurnameFromContributorString" as="xs:string">
 		<xsl:param name="contributor_name_string" as="xs:string"/>
 		<xsl:variable name="given_names" select="replace($contributor_name_string, '^.+?([^\s]+)$' , '$1')"/>
 		<xsl:value-of select="$given_names"/>
 	</xsl:function>
 
-	<xsl:function name="hfw:getSurnameFromContributorString" as="xs:string">
+	<xsl:function name="hfw:getGivenNamesFromContributorString" as="xs:string">
 		<xsl:param name="contributor_name_string" as="xs:string"/>
 		<xsl:variable name="surname" select="replace($contributor_name_string, '^\s*(.+?)\s*([^\s]+)$' , '$1')"/>
 		<xsl:value-of select="$surname"/>
@@ -42,20 +42,35 @@
 			then 'editor'
 			else 'author'
 		"/>
-	</xsl:function>	
+	</xsl:function>
+	
+	<xsl:function name="hfw:toString" as="xs:string">
+		<xsl:param name="input" as="node()*"></xsl:param>
+		<xsl:value-of select="$input"/>
+	</xsl:function>
+	
+	<xsl:function name="hfw:collapseWhitespace" as="xs:string">
+		<xsl:param name="input" as="xs:string"/>
+		<xsl:value-of select="replace($input, '\s+', ' ')"/>
+	</xsl:function>
+	
+	<xsl:function name="hfw:trimSecondaryContributors" as="xs:string">
+		<xsl:param name="input" as="xs:string"/>
+		<xsl:value-of select="replace($input, '^([ ,&amp;]*)?(.+)$','$2')"/>
+	</xsl:function>
 
 	<xsl:template match="contributors">
-		<xsl:variable name="contributors_string" select="./text()"/>
+		<xsl:variable name="contributors_string" select="hfw:toString(.)"/>
 		<xsl:variable name="contributor_role" select="hfw:getContributorRole($contributors_string)"/>
-		<xsl:variable name="has_multiple_contributors" select="hfw:hasMultipleContributors(./text())"/>
-		<xsl:variable name="primary_contributor" select="replace($contributors_string, '^([^,]+),\s*([^,]+).+$', '$2 $1')"/>
-		<xsl:variable name="secondary_contributors" select="replace($contributors_string, '^([^,]+),\s*([^,]+)(\s*,\s*)?(.+)$', '$4')"/>
-		<!--<xsl:message>Primary contributor: <xsl:value-of select="$primary_contributor"/></xsl:message>-->
-		<!--<xsl:message>Secondary contributors: <xsl:value-of select="$secondary_contributors"/></xsl:message>-->
+		<xsl:variable name="has_multiple_contributors" select="hfw:hasMultipleContributors($contributors_string)"/>
+		<xsl:variable name="primary_contributor" select="hfw:collapseWhitespace(replace($contributors_string, '^\s*([^,]+),\s*([^,&amp;]+).*$', '$2 $1'))"/>
+		<xsl:variable name="secondary_contributors" select="hfw:collapseWhitespace(hfw:trimSecondaryContributors(replace($contributors_string, '\s*[^,]+,\s*[^,&amp;]+(.*)$', '$1')))"/>
+		<xsl:comment>Contributors: <xsl:value-of select="$contributors_string"/></xsl:comment>
+		<xsl:comment>Primary contributor: <xsl:value-of select="$primary_contributor"/></xsl:comment>
+		<xsl:comment>Secondary contributors: <xsl:value-of select="$secondary_contributors"/></xsl:comment>
 		<xsl:variable name="contributors">
-		<xsl:comment><xsl:apply-templates/></xsl:comment>
 		<contributors>
-			<person_name sequence="first" contributor_role="{$contributor_role}">
+			<person_name contributor_role="{$contributor_role}" sequence="first">
 				<given_names><xsl:value-of select="hfw:getGivenNamesFromContributorString($primary_contributor)"/></given_names>
 				<surname><xsl:value-of select="hfw:getSurnameFromContributorString($primary_contributor)"/></surname>
 			</person_name>

@@ -32,7 +32,7 @@
 
 	<xsl:function name="hfw:getPublisherName" as="xs:string">
 		<xsl:param name="input_string" as="xs:string"/>
-		<xsl:value-of select="replace($input_string, '^\s*[^:]+?:\s*([^,]+).+?$' , '$1')"/>
+		<xsl:value-of select="replace($input_string, '^\s*[^:]+?:\s*([^,.]+).+?$' , '$1')"/>
 	</xsl:function>
 
 	<xsl:function name="hfw:getPublisherItemNumber" as="xs:string">
