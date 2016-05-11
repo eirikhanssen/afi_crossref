@@ -41,6 +41,36 @@
 			<p:empty/>
 		</p:input>
 	</p:xslt>
-
+	
+	<p:xslt name="sort_by_item_number" version="2.0">
+		<p:input port="source"/>
+		<p:input port="stylesheet">
+			<p:inline>
+				<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
+					
+					<xsl:template match="body">
+						<body>
+							<xsl:apply-templates select="report-paper">
+								<xsl:sort select="report-paper_series_metadata/publication_date/year"/>
+								<xsl:sort select="report-paper_series_metadata/publisher_item/item_number"/>
+							</xsl:apply-templates>
+						</body>
+					</xsl:template>
+					
+					<!-- Default Identity transform template -->
+					<xsl:template match="node()|@*">
+						<xsl:copy>
+							<xsl:apply-templates select="node()|@*"/>
+						</xsl:copy>
+					</xsl:template>
+				</xsl:stylesheet>
+			</p:inline>
+		</p:input>
+		<p:input port="parameters"><p:empty/></p:input>
+	</p:xslt>
+	<!-- TODO: 
+		- sort based on year/report number
+		- assign doi
+	-->
 	<p:identity/>
 </p:declare-step>
