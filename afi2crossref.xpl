@@ -4,8 +4,8 @@
 	xmlns:p="http://www.w3.org/ns/xproc"
 	xmlns:c="http://www.w3.org/ns/xproc-step"
 	exclude-inline-prefixes="c p">
-	<!-- take input document from parameter -->
-	<p:input port="folder" kind="parameter"/>
+	<!-- take input document folder and timestamp from parameters given on commandline -->
+	<p:input port="parameters" kind="parameter"/>
 	<p:output port="result"/>
 	<p:serialization port="result" indent="true"/>
 	
@@ -16,7 +16,7 @@
 			<p:document href="afi_ref_grouping.xsl"/>
 		</p:input>
 		<p:input port="parameters">
-			<p:pipe step="afi2crossref" port="folder"/>
+			<p:pipe step="afi2crossref" port="parameters"></p:pipe>
 		</p:input>
 	</p:xslt>
 

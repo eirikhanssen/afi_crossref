@@ -91,7 +91,6 @@
 				<doi_data>
 					<doi><xsl:comment>TODO</xsl:comment></doi>
 					<resource><xsl:value-of select="$uri"/></resource>
-					<timestamp><xsl:comment>TODO</xsl:comment></timestamp>
 				</doi_data>
 			</report-paper_series_metadata>
 		</report-paper>

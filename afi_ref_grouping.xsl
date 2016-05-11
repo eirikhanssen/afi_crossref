@@ -14,6 +14,7 @@
 	exclude-result-prefixes="xs sm style office text table fo draw svg xlink xsi mml hfw">
 	<xsl:output method="xml" indent="yes" omit-xml-declaration="yes"/>
 	<xsl:param name="folder"/>
+	<xsl:param name="timestamp"/>
 	<xsl:variable name="style-map" select="doc('')/xsl:stylesheet/sm:styles/sm:style" as="element(sm:style)+"/>
 
 	<xsl:function name="hfw:addFileToFolderPath" as="xs:string">
@@ -38,7 +39,7 @@
 			<xsl:comment>xmlns="http://www.crossref.org/schema/4.3.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.4" xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd"</xsl:comment><xsl:text>&#xa;</xsl:text>
 			<head>
 				<doi_batch_id><xsl:comment>TODO!</xsl:comment></doi_batch_id>
-				<timestamp><xsl:comment>TODO!</xsl:comment></timestamp>
+				<timestamp><xsl:value-of select="$timestamp"/></timestamp>
 				<depositor>
 					<depositor_name><xsl:comment>TODO!</xsl:comment></depositor_name>
 					<email_address><xsl:comment>TODO!</xsl:comment></email_address>

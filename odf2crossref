@@ -1,0 +1,4 @@
+#!/bin/bash
+timestamp="$(date +%Y%m%d%H%M%S)"
+input_folder=$1
+calabash -p timestamp=$timestamp -p folder=$input_folder afi2crossref.xpl | tee output.xml

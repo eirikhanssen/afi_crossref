@@ -3,7 +3,7 @@
 <!--xmlns="http://www.crossref.org/schema/4.3.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.4" xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd"-->
    <head>
       <doi_batch_id><!--TODO!--></doi_batch_id>
-      <timestamp><!--TODO!--></timestamp>
+      <timestamp>20160511152520</timestamp>
       <depositor>
          <depositor_name><!--TODO!--></depositor_name>
          <email_address><!--TODO!--></email_address>
@@ -53,7 +53,6 @@
             <doi_data>
                <doi><!--TODO--></doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Sosialt-arbeid-og-oppfoelging-av-utsatt-ungdom-i-NAV</resource>
-               <timestamp><!--TODO--></timestamp>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
@@ -103,7 +102,6 @@
             <doi_data>
                <doi><!--TODO--></doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Naar-unntaket-blir-en-del-av-regelen</resource>
-               <timestamp><!--TODO--></timestamp>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
