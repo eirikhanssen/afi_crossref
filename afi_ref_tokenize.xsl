@@ -35,6 +35,11 @@
 		<xsl:value-of select="replace($input_string, '^\s*[^:]+?:\s*([^,]+).+?$' , '$1')"/>
 	</xsl:function>
 
+	<xsl:function name="hfw:getPublisherItemNumber" as="xs:string">
+		<xsl:param name="input_string" as="xs:string"/>
+		<xsl:value-of select="replace($input_string, '^.+?(AFI-[^ \d]+\s*[^.]+).+$' , '$1')"/>
+	</xsl:function>
+
 	<xsl:function name="hfw:getContributorsXML" as="element()*">
 		<!-- refine this function to generate the proper xml for contributors -->
 		<xsl:param name="input_string" as="xs:string"/>
@@ -59,6 +64,7 @@
 		<xsl:variable name="title"><xsl:value-of select="i"/></xsl:variable>
 		<xsl:variable name="publisher_place"><xsl:value-of select="hfw:getPublisherLoc($this/text()[position()=last()])"/></xsl:variable>
 		<xsl:variable name="publisher_name"><xsl:value-of select="hfw:getPublisherName($this/text()[position()=last()])"/></xsl:variable>
+		<xsl:variable name="publisher_item_number"><xsl:value-of select="hfw:getPublisherItemNumber($this/text()[position()=last()])"/></xsl:variable>
 		<xsl:variable name="uri"><xsl:value-of select="hfw:getURI($this/text()[position()=last()])"/></xsl:variable>
 		<report-paper>
 			<report-paper_series_metadata>
@@ -88,6 +94,11 @@
 					<institution_place>Oslo</institution_place>
 					<institution_department>Arbeidsforskningsinstituttet</institution_department>
 				</institution>
+				<publisher_item>
+					<xsl:if test="$publisher_item_number != ''">
+						<item_number><xsl:value-of select="$publisher_item_number"/></item_number>
+					</xsl:if>
+				</publisher_item>
 				<doi_data>
 					<doi><xsl:comment>TODO</xsl:comment></doi>
 					<resource><xsl:value-of select="$uri"/></resource>

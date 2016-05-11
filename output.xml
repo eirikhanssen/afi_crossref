@@ -2,8 +2,8 @@
 <!--TODO: remember to add namespace to doi_batch!-->
 <!--xmlns="http://www.crossref.org/schema/4.3.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.4" xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd"-->
    <head>
-      <doi_batch_id>hioa_20160511164909</doi_batch_id>
-      <timestamp>20160511164909</timestamp>
+      <doi_batch_id>hioa_20160511175342</doi_batch_id>
+      <timestamp>20160511175342</timestamp>
       <depositor>
          <depositor_name>Eirik Hanssen</depositor_name>
          <email_address>ojs@hioa.no</email_address>
@@ -15,7 +15,7 @@
          <report-paper_series_metadata language="no">
             <series_metadata>
                <titles>
-                  <title>AFIs rapportserie</title>
+                  <title>AFI-rapporter</title>
                </titles>
                <issn>0807-0865</issn>
             </series_metadata>
@@ -50,6 +50,9 @@
                <institution_place>Oslo</institution_place>
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2016:1</item_number>
+            </publisher_item>
             <doi_data>
                <doi><!--TODO--></doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Sosialt-arbeid-og-oppfoelging-av-utsatt-ungdom-i-NAV</resource>
@@ -60,7 +63,7 @@
          <report-paper_series_metadata language="no">
             <series_metadata>
                <titles>
-                  <title>AFIs rapportserie</title>
+                  <title>AFI-rapporter</title>
                </titles>
                <issn>0807-0865</issn>
             </series_metadata>
@@ -99,6 +102,9 @@
                <institution_place>Oslo</institution_place>
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2015:1</item_number>
+            </publisher_item>
             <doi_data>
                <doi><!--TODO--></doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Naar-unntaket-blir-en-del-av-regelen</resource>
