@@ -1,0 +1,100 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.4"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+           version="4.3.4"
+           xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd">
+   <head>
+      <doi_batch_id>hioa_20160512181046</doi_batch_id>
+      <timestamp>20160512181046</timestamp>
+      <depositor>
+         <depositor_name>Eirik Hanssen</depositor_name>
+         <email_address>ojs@hioa.no</email_address>
+      </depositor>
+      <registrant>HiOA</registrant>
+   </head>
+   <body>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-skriftserie</title>
+               </titles>
+               <issn>0806-394X</issn>
+            </series_metadata>
+            <!--Contributors: Grimsmo, Asbjørn & Anne Inga Hilsen-->
+            <!--Primary contributor: Asbjørn Grimsmo-->
+            <!--Secondary contributors: Anne Inga Hilsen-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Asbjørn</given_name>
+                  <surname>Grimsmo</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Anne Inga</given_name>
+                  <surname>Hilsen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Arbeidsmiljø og omstilling</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2000</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Høgskolen i Oslo</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <doi_data>
+               <doi>10.7577/afi/2000/1</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Arbeidsmiljoe-og-omstilling</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-skriftserie</title>
+               </titles>
+               <issn>0806-394X</issn>
+            </series_metadata>
+            <!--Contributors: Alm Andreassen, T.-->
+            <!--Primary contributor: T. Alm Andreassen-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>T. Alm</given_name>
+                  <surname>Andreassen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Brukermedvirkning, politikk og velferdsstat</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2004</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Universitetet i Oslo</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <doi_data>
+               <doi>10.7577/afi/2004/1</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Brukermedvirkning-politikk-og-velferdsstat</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+   </body>
+</doi_batch>
+
