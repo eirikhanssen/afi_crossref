@@ -7,7 +7,7 @@
     <xsl:function name="hfw:generateDoi" as="xs:string">
         <xsl:param name="input_string" as="xs:string"/>
         <xsl:param name="input_seq" as="xs:string"/>
-        <xsl:variable name="doi_prefix" select="'http://doi.org/10.7577/afi/'"/>
+        <xsl:variable name="doi_prefix" select="'10.7577/afi/'"/>
         <xsl:variable name="year" select="replace($input_string, '^\D+(\d\d\d\d).*$','$1')"/>
         <!-- hvis inneholder FoU: fou
 						hvis inneholder rapport: rapport
@@ -29,15 +29,33 @@
     </xsl:function>
     
     <xsl:template match="doi">
-        <xsl:variable name="current_year" select="../../publication_date/year"/>
+        
+        
         <xsl:variable name="doi_seq">
+            <xsl:variable name="current_year" select="xs:integer(../../publication_date/year)"/>
             <!-- if there is a sequence after year, use it, otherwise, use the sequence of the entry with the same year -->
             <xsl:variable name="item_number_seq">
-                <xsl:value-of select="replace(../../publisher_item/item_number, '^.*?:(\d+)$','$1')"/>
+                <xsl:variable name="item_number" select="../../publisher_item/item_number"/>
+                <xsl:choose>
+                    <xsl:when test="matches($item_number, ':')">
+                        <xsl:value-of select="replace($item_number, '^.*?:(\d+)$','$1')"/>        
+                    </xsl:when>
+                    <xsl:otherwise><xsl:value-of select="''"/></xsl:otherwise>
+                </xsl:choose>
             </xsl:variable>
+            
             <xsl:variable name="current_report_seq_in_year">
-                <xsl:value-of select="count(ancestor::report-paper/preceding-sibling::report-paper[report-paper_series_metadata/publication_date/year = $current_year])+1"/>
+                <xsl:choose>
+                    <xsl:when test="ancestor::report-paper/report-paper_metadata">
+                        <xsl:value-of select="count(ancestor::report-paper/preceding-sibling::report-paper[xs:integer(report-paper_metadata/publication_date/year) eq $current_year])+1"/>        
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:value-of select="count(ancestor::report-paper/preceding-sibling::report-paper[xs:integer(report-paper_series_metadata/publication_date/year) eq $current_year])+1"/>
+                    </xsl:otherwise>
+                </xsl:choose>
+                
             </xsl:variable>
+            
             <xsl:choose>
                 <!--<xsl:when test="$item_number_seq != ''"><xsl:value-of select="$item_number_seq"/></xsl:when>-->
                 <xsl:when test="matches($item_number_seq,'^\d+$')">
