@@ -6,8 +6,8 @@
 <!--TODO: remember to add namespace to doi_batch!-->
 <!--xmlns="http://www.crossref.org/schema/4.3.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.4" xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd"-->
    <head>
-      <doi_batch_id>hioa_20160512140231</doi_batch_id>
-      <timestamp>20160512140231</timestamp>
+      <doi_batch_id>hioa_20160512140653</doi_batch_id>
+      <timestamp>20160512140653</timestamp>
       <depositor>
          <depositor_name>Eirik Hanssen</depositor_name>
          <email_address>ojs@hioa.no</email_address>
@@ -32,11 +32,11 @@
                   <surname>Lauvdal</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Espen</given_names>
+                  <given_name>Espen</given_name>
                   <surname>Rymoen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Bent-Ole</given_names>
+                  <given_name>Bent-Ole</given_name>
                   <surname>Grooss</surname>
                </person_name>
             </contributors>
@@ -82,15 +82,15 @@
                   <surname>Seierstad</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Ann Kristin</given_names>
+                  <given_name>Ann Kristin</given_name>
                   <surname>Eide</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Kari Marie</given_names>
+                  <given_name>Kari Marie</given_name>
                   <surname>Helle</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Angelika</given_names>
+                  <given_name>Angelika</given_name>
                   <surname>Schafft</surname>
                </person_name>
             </contributors>
@@ -136,11 +136,11 @@
                   <surname>Sørensen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Carla</given_names>
+                  <given_name>Carla</given_name>
                   <surname>Dahl-Jørgensen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Anders</given_names>
+                  <given_name>Anders</given_name>
                   <surname>Skogstad</surname>
                </person_name>
             </contributors>
@@ -186,19 +186,19 @@
                   <surname>Sørensen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Antje</given_names>
+                  <given_name>Antje</given_name>
                   <surname>Rapmund</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Kristin Skeide</given_names>
+                  <given_name>Kristin Skeide</given_name>
                   <surname>Fuglerud</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Anne Inga</given_names>
+                  <given_name>Anne Inga</given_name>
                   <surname>Hilsen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Asbjørn</given_names>
+                  <given_name>Asbjørn</given_name>
                   <surname>Grimsmo</surname>
                </person_name>
             </contributors>
@@ -286,15 +286,15 @@
                   <surname>Grimsmo</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Kristian</given_names>
+                  <given_name>Kristian</given_name>
                   <surname>Frøyland</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Per Halvor</given_names>
+                  <given_name>Per Halvor</given_name>
                   <surname>Lunde</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Kristian</given_names>
+                  <given_name>Kristian</given_name>
                   <surname>Gould</surname>
                </person_name>
             </contributors>
@@ -382,7 +382,7 @@
                   <surname>Brøgger</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Henrik Dons</given_names>
+                  <given_name>Henrik Dons</given_name>
                   <surname>Finsrud</surname>
                </person_name>
             </contributors>
@@ -428,11 +428,11 @@
                   <surname>Spjelkavik</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Ketil</given_names>
+                  <given_name>Ketil</given_name>
                   <surname>Frøyland</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Torbjørn</given_names>
+                  <given_name>Torbjørn</given_name>
                   <surname>Skarðhamar</surname>
                </person_name>
             </contributors>
@@ -520,7 +520,7 @@
                   <surname>Brøgger</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Christin Thea</given_names>
+                  <given_name>Christin Thea</given_name>
                   <surname>Wathne</surname>
                </person_name>
             </contributors>
@@ -608,11 +608,11 @@
                   <surname>Frøyland</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Asbjørn</given_names>
+                  <given_name>Asbjørn</given_name>
                   <surname>Grimsmo</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Bjørg Aase</given_names>
+                  <given_name>Bjørg Aase</given_name>
                   <surname>Sørensen</surname>
                </person_name>
             </contributors>
@@ -658,7 +658,7 @@
                   <surname>Hilsen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Trude</given_names>
+                  <given_name>Trude</given_name>
                   <surname>Steinum</surname>
                </person_name>
             </contributors>
@@ -704,7 +704,7 @@
                   <surname>Finsrud</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Jarle</given_names>
+                  <given_name>Jarle</given_name>
                   <surname>Hildrum</surname>
                </person_name>
             </contributors>
@@ -750,7 +750,7 @@
                   <surname>Heen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Sigtona</given_names>
+                  <given_name>Sigtona</given_name>
                   <surname>Halrynjo</surname>
                </person_name>
             </contributors>
@@ -796,7 +796,7 @@
                   <surname>Schafft</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Øystein</given_names>
+                  <given_name>Øystein</given_name>
                   <surname>Spjelkavik</surname>
                </person_name>
             </contributors>
@@ -842,7 +842,7 @@
                   <surname>Enehaug</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Taran</given_names>
+                  <given_name>Taran</given_name>
                   <surname>Thune</surname>
                </person_name>
             </contributors>
@@ -972,15 +972,15 @@
                   <surname>Andreassen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Ida</given_names>
+                  <given_name>Ida</given_name>
                   <surname>Drange</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Taran</given_names>
+                  <given_name>Taran</given_name>
                   <surname>Thune</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Lars Chr.</given_names>
+                  <given_name>Lars Chr.</given_name>
                   <surname>Monkerud</surname>
                </person_name>
             </contributors>
@@ -1026,11 +1026,11 @@
                   <surname>Holter</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Helge</given_names>
+                  <given_name>Helge</given_name>
                   <surname>Svare</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Cathrine</given_names>
+                  <given_name>Cathrine</given_name>
                   <surname>Egeland</surname>
                </person_name>
             </contributors>
@@ -1076,19 +1076,19 @@
                   <surname>Egeland</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Heidi</given_names>
+                  <given_name>Heidi</given_name>
                   <surname>Enehaug</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Sigtona</given_names>
+                  <given_name>Sigtona</given_name>
                   <surname>Halrynjo</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Selma</given_names>
+                  <given_name>Selma</given_name>
                   <surname>Lyng</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Helge</given_names>
+                  <given_name>Helge</given_name>
                   <surname>Svare</surname>
                </person_name>
             </contributors>
@@ -1218,7 +1218,7 @@
                   <surname>Egeland</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Cecilie</given_names>
+                  <given_name>Cecilie</given_name>
                   <surname>Neumann</surname>
                </person_name>
             </contributors>
@@ -1306,11 +1306,11 @@
                   <surname>Enehaug</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Migle</given_names>
+                  <given_name>Migle</given_name>
                   <surname>Gamperiene</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Christin Thea</given_names>
+                  <given_name>Christin Thea</given_name>
                   <surname>Wathne</surname>
                </person_name>
             </contributors>
@@ -1356,11 +1356,11 @@
                   <surname>Hilsen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Vigdis Mathisen</given_names>
+                  <given_name>Vigdis Mathisen</given_name>
                   <surname>Olsvik</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Trude</given_names>
+                  <given_name>Trude</given_name>
                   <surname>Steinum</surname>
                </person_name>
             </contributors>
@@ -1448,11 +1448,11 @@
                   <surname>Schafft</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Torbjørn</given_names>
+                  <given_name>Torbjørn</given_name>
                   <surname>Skardhamar</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Tao</given_names>
+                  <given_name>Tao</given_name>
                   <surname>Zhang</surname>
                </person_name>
             </contributors>
@@ -1498,7 +1498,7 @@
                   <surname>Enehaug</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Migle</given_names>
+                  <given_name>Migle</given_name>
                   <surname>Gamperiene</surname>
                </person_name>
             </contributors>
@@ -1544,23 +1544,23 @@
                   <surname>Lyng</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Sveinung</given_names>
+                  <given_name>Sveinung</given_name>
                   <surname>Legard</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Ann Cecilie</given_names>
+                  <given_name>Ann Cecilie</given_name>
                   <surname>Bergene</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Niels</given_names>
+                  <given_name>Niels</given_name>
                   <surname>Anker</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Jens Erik</given_names>
+                  <given_name>Jens Erik</given_name>
                   <surname>Jessen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Kristin</given_names>
+                  <given_name>Kristin</given_name>
                   <surname>Reichborn-Kjennerud</surname>
                </person_name>
             </contributors>
@@ -1606,27 +1606,27 @@
                   <surname>Hilsen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Robert</given_names>
+                  <given_name>Robert</given_name>
                   <surname>Salomon</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Hanne</given_names>
+                  <given_name>Hanne</given_name>
                   <surname>Heen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Kristin</given_names>
+                  <given_name>Kristin</given_name>
                   <surname>Reichborn-Kjennerud</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Ingrid</given_names>
+                  <given_name>Ingrid</given_name>
                   <surname>Rusnes</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Ingebjørg</given_names>
+                  <given_name>Ingebjørg</given_name>
                   <surname>Skarpaas</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Guro</given_names>
+                  <given_name>Guro</given_name>
                   <surname>Ødemark</surname>
                </person_name>
             </contributors>
@@ -1672,7 +1672,7 @@
                   <surname>Svare</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Lars</given_names>
+                  <given_name>Lars</given_name>
                   <surname>Klemsdal</surname>
                </person_name>
             </contributors>
@@ -1760,7 +1760,7 @@
                   <surname>Øystein</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Kristiin</given_names>
+                  <given_name>Kristiin</given_name>
                   <surname>Härkäpää</surname>
                </person_name>
             </contributors>
@@ -1806,7 +1806,7 @@
                   <surname>Schafft</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Øystein</given_names>
+                  <given_name>Øystein</given_name>
                   <surname>Spjelkavik</surname>
                </person_name>
             </contributors>
@@ -1852,7 +1852,7 @@
                   <surname>Enehaug</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Migle</given_names>
+                  <given_name>Migle</given_name>
                   <surname>Gamperiene</surname>
                </person_name>
             </contributors>
@@ -1898,7 +1898,7 @@
                   <surname>Enehaug</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Steinar</given_names>
+                  <given_name>Steinar</given_name>
                   <surname>Widding</surname>
                </person_name>
             </contributors>
@@ -1944,7 +1944,7 @@
                   <surname>Egeland</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Ann Cecilie</given_names>
+                  <given_name>Ann Cecilie</given_name>
                   <surname>Bergene</surname>
                </person_name>
             </contributors>
@@ -2116,19 +2116,19 @@
                   <surname>Steen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Sveinung</given_names>
+                  <given_name>Sveinung</given_name>
                   <surname>Legard</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Jes Erik</given_names>
+                  <given_name>Jes Erik</given_name>
                   <surname>Jessen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Niels</given_names>
+                  <given_name>Niels</given_name>
                   <surname>Anker</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Peter G.</given_names>
+                  <given_name>Peter G.</given_name>
                   <surname>Madsen</surname>
                </person_name>
             </contributors>
@@ -2174,7 +2174,7 @@
                   <surname>Frøylang</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Cecilie Basberg</given_names>
+                  <given_name>Cecilie Basberg</given_name>
                   <surname>Neumann</surname>
                </person_name>
             </contributors>
@@ -2220,7 +2220,7 @@
                   <surname>Skarpaas</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Knut</given_names>
+                  <given_name>Knut</given_name>
                   <surname>Fossestøl</surname>
                </person_name>
             </contributors>
@@ -2308,7 +2308,7 @@
                   <surname>Schafft</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Asbjørn</given_names>
+                  <given_name>Asbjørn</given_name>
                   <surname>Grimsmo</surname>
                </person_name>
             </contributors>
@@ -2354,7 +2354,7 @@
                   <surname>Bergene</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Anders</given_names>
+                  <given_name>Anders</given_name>
                   <surname>Underthun</surname>
                </person_name>
             </contributors>
@@ -2484,11 +2484,11 @@
                   <surname>Fossestøl</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Pål</given_names>
+                  <given_name>Pål</given_name>
                   <surname>Børing</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Ingebjørg</given_names>
+                  <given_name>Ingebjørg</given_name>
                   <surname>Skarpaas</surname>
                </person_name>
             </contributors>
@@ -2534,15 +2534,15 @@
                   <surname>Spjelkavik</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Pål</given_names>
+                  <given_name>Pål</given_name>
                   <surname>Børing</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Kjetil</given_names>
+                  <given_name>Kjetil</given_name>
                   <surname>Frøyland</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Ingebjørg</given_names>
+                  <given_name>Ingebjørg</given_name>
                   <surname>Skarpaas</surname>
                </person_name>
             </contributors>
@@ -2630,15 +2630,15 @@
                   <surname>Schafft</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Øystein</given_names>
+                  <given_name>Øystein</given_name>
                   <surname>Spjelkavik</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Benedicte</given_names>
+                  <given_name>Benedicte</given_name>
                   <surname>Brøgger</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Asbjørn</given_names>
+                  <given_name>Asbjørn</given_name>
                   <surname>Grimsmo</surname>
                </person_name>
             </contributors>
@@ -2726,7 +2726,7 @@
                   <surname>Bygdås</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Eivind</given_names>
+                  <given_name>Eivind</given_name>
                   <surname>Falkum</surname>
                </person_name>
             </contributors>
@@ -2772,11 +2772,11 @@
                   <surname>Terjesen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Bjørn</given_names>
+                  <given_name>Bjørn</given_name>
                   <surname>Lau</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Robert</given_names>
+                  <given_name>Robert</given_name>
                   <surname>Salomon</surname>
                </person_name>
             </contributors>
@@ -2906,7 +2906,7 @@
                   <surname>Qvortrup</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Øystein</given_names>
+                  <given_name>Øystein</given_name>
                   <surname>Spjelkavik</surname>
                </person_name>
             </contributors>
@@ -2952,7 +2952,7 @@
                   <surname>Talberg</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Ida</given_names>
+                  <given_name>Ida</given_name>
                   <surname>Drange</surname>
                </person_name>
             </contributors>
@@ -2998,11 +2998,11 @@
                   <surname>Egeland</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Cathrine</given_names>
+                  <given_name>Cathrine</given_name>
                   <surname>Tømte</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Hebe</given_names>
+                  <given_name>Hebe</given_name>
                   <surname>Gunnes</surname>
                </person_name>
             </contributors>
@@ -3048,7 +3048,7 @@
                   <surname>Enehaug</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Steinar</given_names>
+                  <given_name>Steinar</given_name>
                   <surname>Widding</surname>
                </person_name>
             </contributors>
@@ -3094,7 +3094,7 @@
                   <surname>Brøgger</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Robert</given_names>
+                  <given_name>Robert</given_name>
                   <surname>Salomon</surname>
                </person_name>
             </contributors>
@@ -3182,7 +3182,7 @@
                   <surname>Fossestøl</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Ingebjørg</given_names>
+                  <given_name>Ingebjørg</given_name>
                   <surname>Skarpaas</surname>
                </person_name>
             </contributors>
@@ -3228,7 +3228,7 @@
                   <surname>Fossestøl</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Ingebjørg</given_names>
+                  <given_name>Ingebjørg</given_name>
                   <surname>Skarpaas</surname>
                </person_name>
             </contributors>
@@ -3274,7 +3274,7 @@
                   <surname>Bragdø</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Øystein</given_names>
+                  <given_name>Øystein</given_name>
                   <surname>Spjelkavik</surname>
                </person_name>
             </contributors>
@@ -3362,7 +3362,7 @@
                   <surname>Neumann</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Karen-Sofie</given_names>
+                  <given_name>Karen-Sofie</given_name>
                   <surname>Pettersen</surname>
                </person_name>
             </contributors>
@@ -3408,11 +3408,11 @@
                   <surname>Schafft</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Ketil</given_names>
+                  <given_name>Ketil</given_name>
                   <surname>Frøyland</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Øystein</given_names>
+                  <given_name>Øystein</given_name>
                   <surname>Spjelkavik</surname>
                </person_name>
             </contributors>
@@ -3458,15 +3458,15 @@
                   <surname>Bergene</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Arild Henrik</given_names>
+                  <given_name>Arild Henrik</given_name>
                   <surname>Steen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Cathrine</given_names>
+                  <given_name>Cathrine</given_name>
                   <surname>Egeland</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Ida</given_names>
+                  <given_name>Ida</given_name>
                   <surname>Drange</surname>
                </person_name>
             </contributors>
@@ -3512,7 +3512,7 @@
                   <surname>Frøyland</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Knut</given_names>
+                  <given_name>Knut</given_name>
                   <surname>Fossestøl</surname>
                </person_name>
             </contributors>
@@ -3558,15 +3558,15 @@
                   <surname>Bergene</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Per Bonde</given_names>
+                  <given_name>Per Bonde</given_name>
                   <surname>Hansen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Cathrine</given_names>
+                  <given_name>Cathrine</given_name>
                   <surname>Egeland</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Arild H.</given_names>
+                  <given_name>Arild H.</given_name>
                   <surname>Steen</surname>
                </person_name>
             </contributors>
@@ -3654,7 +3654,7 @@
                   <surname>Egeland</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Ida</given_names>
+                  <given_name>Ida</given_name>
                   <surname>Drange</surname>
                </person_name>
             </contributors>
@@ -3700,7 +3700,7 @@
                   <surname>Schafft</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Øystein</given_names>
+                  <given_name>Øystein</given_name>
                   <surname>Spjelkavik</surname>
                </person_name>
             </contributors>
@@ -3746,7 +3746,7 @@
                   <surname>Fossestøl</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Eric</given_names>
+                  <given_name>Eric</given_name>
                   <surname>Breit</surname>
                </person_name>
             </contributors>
@@ -3792,11 +3792,11 @@
                   <surname>Terjesen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Helge</given_names>
+                  <given_name>Helge</given_name>
                   <surname>Svare</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Robert</given_names>
+                  <given_name>Robert</given_name>
                   <surname>Salomon</surname>
                </person_name>
             </contributors>
@@ -3842,15 +3842,15 @@
                   <surname>Borg</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Ida</given_names>
+                  <given_name>Ida</given_name>
                   <surname>Drange</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Knut</given_names>
+                  <given_name>Knut</given_name>
                   <surname>Fossestøl</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Harald</given_names>
+                  <given_name>Harald</given_name>
                   <surname>Jarning</surname>
                </person_name>
             </contributors>
@@ -3896,7 +3896,7 @@
                   <surname>Skarpaas</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Helge</given_names>
+                  <given_name>Helge</given_name>
                   <surname>Svare</surname>
                </person_name>
             </contributors>
@@ -3942,7 +3942,7 @@
                   <surname>Pettersen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Gudrun</given_names>
+                  <given_name>Gudrun</given_name>
                   <surname>Rudningen</surname>
                </person_name>
             </contributors>
@@ -3988,7 +3988,7 @@
                   <surname>Underthun</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Ann Cecilie</given_names>
+                  <given_name>Ann Cecilie</given_name>
                   <surname>Bergene</surname>
                </person_name>
             </contributors>
@@ -4034,7 +4034,7 @@
                   <surname>Grimsmo</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Hanne</given_names>
+                  <given_name>Hanne</given_name>
                   <surname>Heen</surname>
                </person_name>
             </contributors>
@@ -4080,11 +4080,11 @@
                   <surname>Fossestøl</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Eric</given_names>
+                  <given_name>Eric</given_name>
                   <surname>Breit</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Elin</given_names>
+                  <given_name>Elin</given_name>
                   <surname>Borg</surname>
                </person_name>
             </contributors>
@@ -4130,7 +4130,7 @@
                   <surname>Mamelund</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Steinar</given_names>
+                  <given_name>Steinar</given_name>
                   <surname>Widding</surname>
                </person_name>
             </contributors>
@@ -4218,15 +4218,15 @@
                   <surname>Bergene</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Cathrine</given_names>
+                  <given_name>Cathrine</given_name>
                   <surname>Egeland</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Per Bonde</given_names>
+                  <given_name>Per Bonde</given_name>
                   <surname>Hansen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Christin Thea</given_names>
+                  <given_name>Christin Thea</given_name>
                   <surname>Wathne</surname>
                </person_name>
             </contributors>
@@ -4272,7 +4272,7 @@
                   <surname>Falkum</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Arild H.</given_names>
+                  <given_name>Arild H.</given_name>
                   <surname>Steen</surname>
                </person_name>
             </contributors>
@@ -4318,11 +4318,11 @@
                   <surname>Drange</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Kjetil</given_names>
+                  <given_name>Kjetil</given_name>
                   <surname>Frøyland</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Svenn-Erik</given_names>
+                  <given_name>Svenn-Erik</given_name>
                   <surname>Mamelund</surname>
                </person_name>
             </contributors>
@@ -4410,7 +4410,7 @@
                   <surname>Falkum</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Anne Grethe</given_names>
+                  <given_name>Anne Grethe</given_name>
                   <surname>Solberg</surname>
                </person_name>
             </contributors>
@@ -4456,15 +4456,15 @@
                   <surname>Borg</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Hanne</given_names>
+                  <given_name>Hanne</given_name>
                   <surname>Christensen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Knut</given_names>
+                  <given_name>Knut</given_name>
                   <surname>Fossestøl</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Øyvind</given_names>
+                  <given_name>Øyvind</given_name>
                   <surname>Paalshaugen</surname>
                </person_name>
             </contributors>
@@ -4510,7 +4510,7 @@
                   <surname>Bergene</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Per Bonde</given_names>
+                  <given_name>Per Bonde</given_name>
                   <surname>Hansen</surname>
                </person_name>
             </contributors>
@@ -4556,31 +4556,31 @@
                   <surname>Brattbakk</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Aina Landsverk</given_names>
+                  <given_name>Aina Landsverk</given_name>
                   <surname>Hagen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Monika Grønli</given_names>
+                  <given_name>Monika Grønli</given_name>
                   <surname>Rosten</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Oddrun</given_names>
+                  <given_name>Oddrun</given_name>
                   <surname>Sæter</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Jenny</given_names>
+                  <given_name>Jenny</given_name>
                   <surname>Osuldsen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Bengt</given_names>
+                  <given_name>Bengt</given_name>
                   <surname>Andersen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Erik</given_names>
+                  <given_name>Erik</given_name>
                   <surname>Thorstensen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Katja</given_names>
+                  <given_name>Katja</given_name>
                   <surname>Bratseth</surname>
                </person_name>
             </contributors>
@@ -4626,7 +4626,7 @@
                   <surname>Breit</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Robert</given_names>
+                  <given_name>Robert</given_name>
                   <surname>Salomon</surname>
                </person_name>
             </contributors>
@@ -4672,23 +4672,23 @@
                   <surname>Enehaug</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Helge</given_names>
+                  <given_name>Helge</given_name>
                   <surname>Svare</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Pål</given_names>
+                  <given_name>Pål</given_name>
                   <surname>Klethagen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Mary</given_names>
+                  <given_name>Mary</given_name>
                   <surname>Anderson-Glenna</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Hans Christoffer Aargaard</given_names>
+                  <given_name>Hans Christoffer Aargaard</given_name>
                   <surname>Terjesen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Anne Marie</given_names>
+                  <given_name>Anne Marie</given_name>
                   <surname>Fatnes</surname>
                </person_name>
             </contributors>
@@ -4776,7 +4776,7 @@
                   <surname>Maximova-Mentzoni</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Steinar</given_names>
+                  <given_name>Steinar</given_name>
                   <surname>Widding</surname>
                </person_name>
             </contributors>
@@ -4822,11 +4822,11 @@
                   <surname>Terjesen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Robert</given_names>
+                  <given_name>Robert</given_name>
                   <surname>Salomon</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Vilde Hoff</given_names>
+                  <given_name>Vilde Hoff</given_name>
                   <surname>Bernstrøm</surname>
                </person_name>
             </contributors>
@@ -4872,7 +4872,7 @@
                   <surname>Schafft</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Tatiana</given_names>
+                  <given_name>Tatiana</given_name>
                   <surname>Maximova-Mentzoni</surname>
                </person_name>
             </contributors>
@@ -4918,11 +4918,11 @@
                   <surname>Frøyland</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Tatiana</given_names>
+                  <given_name>Tatiana</given_name>
                   <surname>Maximova-Mentzoni</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_names>Knut</given_names>
+                  <given_name>Knut</given_name>
                   <surname>Fossestøl</surname>
                </person_name>
             </contributors>
