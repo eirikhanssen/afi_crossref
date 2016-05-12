@@ -46,13 +46,17 @@
 		<p:input port="source"/>
 		<p:input port="stylesheet">
 			<p:inline>
-				<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
-					
+				<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+					xmlns:xs="http://www.w3.org/2001/XMLSchema"
+					exclude-result-prefixes="xs"
+					version="2.0">
 					<xsl:template match="body">
 						<body>
 							<xsl:apply-templates select="report-paper">
 								<xsl:sort select="report-paper_series_metadata/publication_date/year"/>
-								<xsl:sort select="report-paper_series_metadata/publisher_item/item_number"/>
+								<xsl:sort select="xs:integer(replace(report-paper_series_metadata/publisher_item/item_number, '^.*?:(\d+)$','$1'))"/>
+								<xsl:sort select="xs:string(report-paper_series_metadata/contributors/person_name[sequence=first]/surname)"/>
+								<xsl:sort select="string-join((report-paper_series_metadata/contributors/person_name[sequence=additional]/surname),'')"/>
 							</xsl:apply-templates>
 						</body>
 					</xsl:template>

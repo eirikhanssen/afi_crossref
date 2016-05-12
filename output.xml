@@ -2,8 +2,8 @@
 <!--TODO: remember to add namespace to doi_batch!-->
 <!--xmlns="http://www.crossref.org/schema/4.3.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.4" xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd"-->
    <head>
-      <doi_batch_id>hioa_20160512130738</doi_batch_id>
-      <timestamp>20160512130738</timestamp>
+      <doi_batch_id>hioa_20160512134405</doi_batch_id>
+      <timestamp>20160512134405</timestamp>
       <depositor>
          <depositor_name>Eirik Hanssen</depositor_name>
          <email_address>ojs@hioa.no</email_address>
@@ -1205,48 +1205,6 @@
                </titles>
                <issn>0807-0865</issn>
             </series_metadata>
-            <!--Contributors: Fossestøl, Knut-->
-            <!--Primary contributor: Knut Fossestøl-->
-            <!--Secondary contributors: -->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_names>Knut</given_names>
-                  <surname>Fossestøl</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Stairway to heaven?: ICT-policy, disability and employment in Denmark, the Netherlands, United Kingdom and Norway.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2009</year>
-            </publication_date>
-            <publisher>
-               <publisher_place>Oslo</publisher_place>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number>AFI-rapport 2007:5</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2007:5</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Stairway-to-Heaven</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-rapporter</title>
-               </titles>
-               <issn>0807-0865</issn>
-            </series_metadata>
             <!--Contributors: Egeland, Cathrine & Cecilie Neumann-->
             <!--Primary contributor: Cathrine Egeland-->
             <!--Secondary contributors: Cecilie Neumann-->
@@ -1424,6 +1382,48 @@
             <doi_data>
                <doi>http://doi.org/10.7577/afi/rapport/2009:4</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Paa-seniorvis</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-rapporter</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
+            <!--Contributors: Fossestøl, Knut-->
+            <!--Primary contributor: Knut Fossestøl-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_names>Knut</given_names>
+                  <surname>Fossestøl</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Stairway to heaven?: ICT-policy, disability and employment in Denmark, the Netherlands, United Kingdom and Norway.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2009</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2007:5</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/rapport/2007:5</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Stairway-to-Heaven</resource>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
@@ -1977,6 +1977,370 @@
                </titles>
                <issn>0807-0865</issn>
             </series_metadata>
+            <!--Contributors: Ann Bergene, Cecilie-->
+            <!--Primary contributor: Cecilie Ann Bergene-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_names>Cecilie Ann</given_names>
+                  <surname>Bergene</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>En analyse av de som er usikre på sin tilknytning til arbeidslivet.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2012</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2012:2</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/rapport/2012:2</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Faerre-paa-vei-ut</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-rapporter</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
+            <!--Contributors: Heen, Hanne-->
+            <!--Primary contributor: Hanne Heen-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_names>Hanne</given_names>
+                  <surname>Heen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Samliv i Forsvaret 2011.  Forholdet mellom familie og arbeid i befalsfamilier. En kvantitativ studie.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2012</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2012:3</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/rapport/2012:3</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Samliv-i-Forsvaret-2011</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-rapporter</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
+            <!--Contributors: Pettersen, Karen-Sofie-->
+            <!--Primary contributor: Karen-Sofie Pettersen-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_names>Karen-Sofie</given_names>
+                  <surname>Pettersen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Praksiskonsulenten som brobygger. Evaluering av prosjektet ”Allmennlegetjenesten og psykisk helse - Praksiskonsulentordningen”.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2012</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2012:4</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/rapport/2012:4</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Praksiskonsulenten-som-brobygger</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-rapporter</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
+            <!--Contributors: Steen, Arild Henrik, Sveinung Legard, Jes Erik Jessen, Niels Anker & Peter G. Madsen-->
+            <!--Primary contributor: Arild Henrik Steen-->
+            <!--Secondary contributors: Sveinung Legard, Jes Erik Jessen, Niels Anker & Peter G. Madsen-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_names>Arild Henrik</given_names>
+                  <surname>Steen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Sveinung</given_names>
+                  <surname>Legard</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Jes Erik</given_names>
+                  <surname>Jessen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Niels</given_names>
+                  <surname>Anker</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Peter G.</given_names>
+                  <surname>Madsen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Samfunnsøkonomisk analyse av økt sysselsetting av personer med nedsatt funksjonsevne.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2012</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2012:5</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/rapport/2012:5</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Samfunnsoekonomisk-analyse-av-oekt-sysselsetting-av-personer-med-nedsatt-funksjonsevne</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-rapporter</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
+            <!--Contributors: Frøylang, Kjetil & Cecilie Basberg Neumann-->
+            <!--Primary contributor: Kjetil Frøylang-->
+            <!--Secondary contributors: Cecilie Basberg Neumann-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_names>Kjetil</given_names>
+                  <surname>Frøylang</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Cecilie Basberg</given_names>
+                  <surname>Neumann</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Ungdom i Ny sjanse. Kvalifisering av ungdom med innvandrerbakgrunn til skole og arbeid – metoder og erfaringer fra åtte prosjekter.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2012</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2012:6</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/rapport/2012:6</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Ungdom-i-Ny-sjanse</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-rapporter</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
+            <!--Contributors: Skarpaas, Ingebjørg & Knut Fossestøl-->
+            <!--Primary contributor: Ingebjørg Skarpaas-->
+            <!--Secondary contributors: Knut Fossestøl-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_names>Ingebjørg</given_names>
+                  <surname>Skarpaas</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Knut</given_names>
+                  <surname>Fossestøl</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Evaluering av forsøk med fagutvikling av sosiale tjenester i utvalgte NAV-kontor.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2012</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2012:7</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/rapport/2012:7</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-forsoek-med-fagutvikling-av-sosiale-tjenester-i-utvalgte-NAV-kontor</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-rapporter</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
+            <!--Contributors: Widding, Steinar-->
+            <!--Primary contributor: Steinar Widding-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_names>Steinar</given_names>
+                  <surname>Widding</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Evaluering av Telenor Open Mind Integartion/Evaluation of Telenor Open Mind Integration.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2012</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2012:8</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/rapport/2012:8</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-Telenor-Open-Mind-Integartion-Evaluation-of-Telenor-Open-Mind-Integration</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-rapporter</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
+            <!--Contributors: Schafft, Angelika & Asbjørn Grimsmo-->
+            <!--Primary contributor: Angelika Schafft-->
+            <!--Secondary contributors: Asbjørn Grimsmo-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_names>Angelika</given_names>
+                  <surname>Schafft</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Asbjørn</given_names>
+                  <surname>Grimsmo</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Gode intensjoner – holder det? En undersøkelse blant deltakere på gjestebud om arbeid og psykisk helse.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2012</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2012:9</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/rapport/2012:9</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Gode-intensjoner-holder-det</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-rapporter</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
             <!--Contributors: Bergene, Ann Cecilie & Anders Underthun-->
             <!--Primary contributor: Ann Cecilie Bergene-->
             <!--Secondary contributors: Anders Underthun-->
@@ -2445,48 +2809,6 @@
                </titles>
                <issn>0807-0865</issn>
             </series_metadata>
-            <!--Contributors: Ann Bergene, Cecilie-->
-            <!--Primary contributor: Cecilie Ann Bergene-->
-            <!--Secondary contributors: -->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_names>Cecilie Ann</given_names>
-                  <surname>Bergene</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>En analyse av de som er usikre på sin tilknytning til arbeidslivet.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2012</year>
-            </publication_date>
-            <publisher>
-               <publisher_place>Oslo</publisher_place>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number>AFI-rapport 2012:2</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:2</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Faerre-paa-vei-ut</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-rapporter</title>
-               </titles>
-               <issn>0807-0865</issn>
-            </series_metadata>
             <!--Contributors: Frøyland, Kjetil-->
             <!--Primary contributor: Kjetil Frøyland-->
             <!--Secondary contributors: -->
@@ -2560,520 +2882,6 @@
             <doi_data>
                <doi>http://doi.org/10.7577/afi/rapport/2012:21</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Med-blikk-for-sammenhengen-mellom-barnehage-og-skole</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-rapporter</title>
-               </titles>
-               <issn>0807-0865</issn>
-            </series_metadata>
-            <!--Contributors: Heen, Hanne-->
-            <!--Primary contributor: Hanne Heen-->
-            <!--Secondary contributors: -->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_names>Hanne</given_names>
-                  <surname>Heen</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Samliv i Forsvaret 2011.  Forholdet mellom familie og arbeid i befalsfamilier. En kvantitativ studie.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2012</year>
-            </publication_date>
-            <publisher>
-               <publisher_place>Oslo</publisher_place>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number>AFI-rapport 2012:3</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:3</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Samliv-i-Forsvaret-2011</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-rapporter</title>
-               </titles>
-               <issn>0807-0865</issn>
-            </series_metadata>
-            <!--Contributors: Pettersen, Karen-Sofie-->
-            <!--Primary contributor: Karen-Sofie Pettersen-->
-            <!--Secondary contributors: -->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_names>Karen-Sofie</given_names>
-                  <surname>Pettersen</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Praksiskonsulenten som brobygger. Evaluering av prosjektet ”Allmennlegetjenesten og psykisk helse - Praksiskonsulentordningen”.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2012</year>
-            </publication_date>
-            <publisher>
-               <publisher_place>Oslo</publisher_place>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number>AFI-rapport 2012:4</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:4</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Praksiskonsulenten-som-brobygger</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-rapporter</title>
-               </titles>
-               <issn>0807-0865</issn>
-            </series_metadata>
-            <!--Contributors: Steen, Arild Henrik, Sveinung Legard, Jes Erik Jessen, Niels Anker & Peter G. Madsen-->
-            <!--Primary contributor: Arild Henrik Steen-->
-            <!--Secondary contributors: Sveinung Legard, Jes Erik Jessen, Niels Anker & Peter G. Madsen-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_names>Arild Henrik</given_names>
-                  <surname>Steen</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Sveinung</given_names>
-                  <surname>Legard</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Jes Erik</given_names>
-                  <surname>Jessen</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Niels</given_names>
-                  <surname>Anker</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Peter G.</given_names>
-                  <surname>Madsen</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Samfunnsøkonomisk analyse av økt sysselsetting av personer med nedsatt funksjonsevne.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2012</year>
-            </publication_date>
-            <publisher>
-               <publisher_place>Oslo</publisher_place>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number>AFI-rapport 2012:5</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:5</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Samfunnsoekonomisk-analyse-av-oekt-sysselsetting-av-personer-med-nedsatt-funksjonsevne</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-rapporter</title>
-               </titles>
-               <issn>0807-0865</issn>
-            </series_metadata>
-            <!--Contributors: Frøylang, Kjetil & Cecilie Basberg Neumann-->
-            <!--Primary contributor: Kjetil Frøylang-->
-            <!--Secondary contributors: Cecilie Basberg Neumann-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_names>Kjetil</given_names>
-                  <surname>Frøylang</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Cecilie Basberg</given_names>
-                  <surname>Neumann</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Ungdom i Ny sjanse. Kvalifisering av ungdom med innvandrerbakgrunn til skole og arbeid – metoder og erfaringer fra åtte prosjekter.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2012</year>
-            </publication_date>
-            <publisher>
-               <publisher_place>Oslo</publisher_place>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number>AFI-rapport 2012:6</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:6</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Ungdom-i-Ny-sjanse</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-rapporter</title>
-               </titles>
-               <issn>0807-0865</issn>
-            </series_metadata>
-            <!--Contributors: Skarpaas, Ingebjørg & Knut Fossestøl-->
-            <!--Primary contributor: Ingebjørg Skarpaas-->
-            <!--Secondary contributors: Knut Fossestøl-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_names>Ingebjørg</given_names>
-                  <surname>Skarpaas</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Knut</given_names>
-                  <surname>Fossestøl</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Evaluering av forsøk med fagutvikling av sosiale tjenester i utvalgte NAV-kontor.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2012</year>
-            </publication_date>
-            <publisher>
-               <publisher_place>Oslo</publisher_place>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number>AFI-rapport 2012:7</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:7</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-forsoek-med-fagutvikling-av-sosiale-tjenester-i-utvalgte-NAV-kontor</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-rapporter</title>
-               </titles>
-               <issn>0807-0865</issn>
-            </series_metadata>
-            <!--Contributors: Widding, Steinar-->
-            <!--Primary contributor: Steinar Widding-->
-            <!--Secondary contributors: -->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_names>Steinar</given_names>
-                  <surname>Widding</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Evaluering av Telenor Open Mind Integartion/Evaluation of Telenor Open Mind Integration.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2012</year>
-            </publication_date>
-            <publisher>
-               <publisher_place>Oslo</publisher_place>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number>AFI-rapport 2012:8</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:8</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-Telenor-Open-Mind-Integartion-Evaluation-of-Telenor-Open-Mind-Integration</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-rapporter</title>
-               </titles>
-               <issn>0807-0865</issn>
-            </series_metadata>
-            <!--Contributors: Schafft, Angelika & Asbjørn Grimsmo-->
-            <!--Primary contributor: Angelika Schafft-->
-            <!--Secondary contributors: Asbjørn Grimsmo-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_names>Angelika</given_names>
-                  <surname>Schafft</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Asbjørn</given_names>
-                  <surname>Grimsmo</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Gode intensjoner – holder det? En undersøkelse blant deltakere på gjestebud om arbeid og psykisk helse.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2012</year>
-            </publication_date>
-            <publisher>
-               <publisher_place>Oslo</publisher_place>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number>AFI-rapport 2012:9</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:9</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Gode-intensjoner-holder-det</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-rapporter</title>
-               </titles>
-               <issn>0807-0865</issn>
-            </series_metadata>
-            <!--Contributors: Rudningen, Gudrun-->
-            <!--Primary contributor: Gudrun Rudningen-->
-            <!--Secondary contributors: -->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_names>Gudrun</given_names>
-                  <surname>Rudningen</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Barrierer mot arbeid - for langtidsmottakere av sosialhjelp og deltakere i kvalifiseringsprogrammet.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2013</year>
-            </publication_date>
-            <publisher>
-               <publisher_place>Oslo</publisher_place>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number>AFI-rapport 2013:10</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2013:10</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Barrierer-mot-arbeid</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-rapporter</title>
-               </titles>
-               <issn>0807-0865</issn>
-            </series_metadata>
-            <!--Contributors: Neumann, Cecilie Basberg & Karen-Sofie Pettersen-->
-            <!--Primary contributor: Cecilie Basberg Neumann-->
-            <!--Secondary contributors: Karen-Sofie Pettersen-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_names>Cecilie Basberg</given_names>
-                  <surname>Neumann</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Karen-Sofie</given_names>
-                  <surname>Pettersen</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Tilbakeføringsgarantien i praksis Evaluering av prosjektet TAFU – Tilbakeføring gjennom arbeid, fritid og utdanning.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2013</year>
-            </publication_date>
-            <publisher>
-               <publisher_place>Oslo</publisher_place>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number>AFI-rapport 2013:11</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2013:11</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Tilbakefoeringsgarantien-i-praksis</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-rapporter</title>
-               </titles>
-               <issn>0807-0865</issn>
-            </series_metadata>
-            <!--Contributors: Schafft, Angelika, Ketil Frøyland & Øystein Spjelkavik-->
-            <!--Primary contributor: Angelika Schafft-->
-            <!--Secondary contributors: Ketil Frøyland & Øystein Spjelkavik-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_names>Angelika</given_names>
-                  <surname>Schafft</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Ketil</given_names>
-                  <surname>Frøyland</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Øystein</given_names>
-                  <surname>Spjelkavik</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>En ny rolle for NAV i fengsel. Evaluering av NAV-prosjektet ”Samordning av tiltak for tilbakeføring”.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2013</year>
-            </publication_date>
-            <publisher>
-               <publisher_place>Oslo</publisher_place>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number>AFI-rapport 2013:12</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2013:12</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-ny-rolle-for-NAV-i-fengsel</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-rapporter</title>
-               </titles>
-               <issn>0807-0865</issn>
-            </series_metadata>
-            <!--Contributors: Bergene, Ann Cecilie, Arild Henrik Steen, Cathrine Egeland & Ida Drange-->
-            <!--Primary contributor: Ann Cecilie Bergene-->
-            <!--Secondary contributors: Arild Henrik Steen, Cathrine Egeland & Ida Drange-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_names>Ann Cecilie</given_names>
-                  <surname>Bergene</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Arild Henrik</given_names>
-                  <surname>Steen</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Cathrine</given_names>
-                  <surname>Egeland</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Ida</given_names>
-                  <surname>Drange</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Hva kan forklare medlemsveksten i Forbundet for Ledelse og Teknikk?</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2013</year>
-            </publication_date>
-            <publisher>
-               <publisher_place>Oslo</publisher_place>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number>AFI-rapport 2013:13</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2013:13</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hva-kan-forklare-medlemsveksten-i-Forbundet-for-Ledelse-og-Teknikk</resource>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
@@ -3499,6 +3307,198 @@
                </titles>
                <issn>0807-0865</issn>
             </series_metadata>
+            <!--Contributors: Rudningen, Gudrun-->
+            <!--Primary contributor: Gudrun Rudningen-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_names>Gudrun</given_names>
+                  <surname>Rudningen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Barrierer mot arbeid - for langtidsmottakere av sosialhjelp og deltakere i kvalifiseringsprogrammet.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2013</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2013:10</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/rapport/2013:10</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Barrierer-mot-arbeid</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-rapporter</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
+            <!--Contributors: Neumann, Cecilie Basberg & Karen-Sofie Pettersen-->
+            <!--Primary contributor: Cecilie Basberg Neumann-->
+            <!--Secondary contributors: Karen-Sofie Pettersen-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_names>Cecilie Basberg</given_names>
+                  <surname>Neumann</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Karen-Sofie</given_names>
+                  <surname>Pettersen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Tilbakeføringsgarantien i praksis Evaluering av prosjektet TAFU – Tilbakeføring gjennom arbeid, fritid og utdanning.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2013</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2013:11</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/rapport/2013:11</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Tilbakefoeringsgarantien-i-praksis</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-rapporter</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
+            <!--Contributors: Schafft, Angelika, Ketil Frøyland & Øystein Spjelkavik-->
+            <!--Primary contributor: Angelika Schafft-->
+            <!--Secondary contributors: Ketil Frøyland & Øystein Spjelkavik-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_names>Angelika</given_names>
+                  <surname>Schafft</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Ketil</given_names>
+                  <surname>Frøyland</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Øystein</given_names>
+                  <surname>Spjelkavik</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>En ny rolle for NAV i fengsel. Evaluering av NAV-prosjektet ”Samordning av tiltak for tilbakeføring”.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2013</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2013:12</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/rapport/2013:12</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-ny-rolle-for-NAV-i-fengsel</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-rapporter</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
+            <!--Contributors: Bergene, Ann Cecilie, Arild Henrik Steen, Cathrine Egeland & Ida Drange-->
+            <!--Primary contributor: Ann Cecilie Bergene-->
+            <!--Secondary contributors: Arild Henrik Steen, Cathrine Egeland & Ida Drange-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_names>Ann Cecilie</given_names>
+                  <surname>Bergene</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Arild Henrik</given_names>
+                  <surname>Steen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Cathrine</given_names>
+                  <surname>Egeland</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Ida</given_names>
+                  <surname>Drange</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Hva kan forklare medlemsveksten i Forbundet for Ledelse og Teknikk?</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2013</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2013:13</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/rapport/2013:13</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hva-kan-forklare-medlemsveksten-i-Forbundet-for-Ledelse-og-Teknikk</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-rapporter</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
             <!--Contributors: Frøyland, Kjetil & Knut Fossestøl-->
             <!--Primary contributor: Kjetil Frøyland-->
             <!--Secondary contributors: Knut Fossestøl-->
@@ -3534,282 +3534,6 @@
             <doi_data>
                <doi>http://doi.org/10.7577/afi/rapport/2014:1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Inkludering-av-ungdom-i-skole-eller-arbeid-2</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-rapporter</title>
-               </titles>
-               <issn>0807-0865</issn>
-            </series_metadata>
-            <!--Contributors: Pettersen, Karen-Sofie & Gudrun Rudningen-->
-            <!--Primary contributor: Karen-Sofie Pettersen-->
-            <!--Secondary contributors: Gudrun Rudningen-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_names>Karen-Sofie</given_names>
-                  <surname>Pettersen</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Gudrun</given_names>
-                  <surname>Rudningen</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Samspill eller svarteperspill? En studie av ansvarsfordeling og gråsoner mellom kommuner og spesialisthelsetjenesten for mennesker med RoP-lidelser med voldsproblematikk.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2014</year>
-            </publication_date>
-            <publisher>
-               <publisher_place>Oslo</publisher_place>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number>AFI-rapport 2014:10</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2014:10</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Samspill-eller-svarteperspill</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-rapporter</title>
-               </titles>
-               <issn>0807-0865</issn>
-            </series_metadata>
-            <!--Contributors: Underthun, Anders & Ann Cecilie Bergene-->
-            <!--Primary contributor: Anders Underthun-->
-            <!--Secondary contributors: Ann Cecilie Bergene-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_names>Anders</given_names>
-                  <surname>Underthun</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Ann Cecilie</given_names>
-                  <surname>Bergene</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Framtida til norsk luftfart. Selskapsstrategier og partsrelasjoner i en liberalisert luftfartsvirkelighet.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2014</year>
-            </publication_date>
-            <publisher>
-               <publisher_place>Oslo</publisher_place>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number>AFI-rapport 2014:11</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2014:11</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Framtida-til-norsk-luftfart</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-rapporter</title>
-               </titles>
-               <issn>0807-0865</issn>
-            </series_metadata>
-            <!--Contributors: Grimsmo, Asbjørn & Hanne Heen-->
-            <!--Primary contributor: Asbjørn Grimsmo-->
-            <!--Secondary contributors: Hanne Heen-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_names>Asbjørn</given_names>
-                  <surname>Grimsmo</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Hanne</given_names>
-                  <surname>Heen</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Journalistisk kvalitet – hvilken rolle spiller arbeidsmiljøet i redaksjonen? Sammenhengen mellom redaksjonens sosiale kapital og journalistisk kvalitet, kreativitet og produktivitet.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2014</year>
-            </publication_date>
-            <publisher>
-               <publisher_place>Oslo</publisher_place>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number>AFI-rapport 2014:12</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2014:12</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Journalistisk-kvalitet-hvilken-rolle-spiller-arbeidsmiljoeet-i-redaksjonen</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-rapporter</title>
-               </titles>
-               <issn>0807-0865</issn>
-            </series_metadata>
-            <!--Contributors: Fossestøl, Knut, Eric Breit & Elin Borg-->
-            <!--Primary contributor: Knut Fossestøl-->
-            <!--Secondary contributors: Eric Breit & Elin Borg-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_names>Knut</given_names>
-                  <surname>Fossestøl</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Eric</given_names>
-                  <surname>Breit</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Elin</given_names>
-                  <surname>Borg</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>NAV-reformen 2014. En oppfølgingsstudie av lokalkontorenes organisering etter innholdsreformen.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2014</year>
-            </publication_date>
-            <publisher>
-               <publisher_place>Oslo</publisher_place>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number>AFI-rapport 2014:13</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2014:13</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/NAV-reformen-2014</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-rapporter</title>
-               </titles>
-               <issn>0807-0865</issn>
-            </series_metadata>
-            <!--Contributors: Mamelund, Svenn Erik & Steinar Widding-->
-            <!--Primary contributor: Svenn Erik Mamelund-->
-            <!--Secondary contributors: Steinar Widding-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_names>Svenn Erik</given_names>
-                  <surname>Mamelund</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Steinar</given_names>
-                  <surname>Widding</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>NAVs formidlings- rekrutteringstjenester.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2014</year>
-            </publication_date>
-            <publisher>
-               <publisher_place>Oslo</publisher_place>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number>AFI-rapport 2014:14</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2014:14</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/NAVs-formidlings-og-rekrutteringstjenester</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-rapporter</title>
-               </titles>
-               <issn>0807-0865</issn>
-            </series_metadata>
-            <!--Contributors: Maximova-Mentzoni, Tatiana-->
-            <!--Primary contributor: Tatiana Maximova-Mentzoni-->
-            <!--Secondary contributors: -->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_names>Tatiana</given_names>
-                  <surname>Maximova-Mentzoni</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Evaluering av arbeidstidsordningen - for medarbeidere i undervisnings- og forskerstillinger ved Høgskolen i Lillehammer.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2014</year>
-            </publication_date>
-            <publisher>
-               <publisher_place>Oslo</publisher_place>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number>AFI-rapport 2014:15</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2014:15</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-arbeidstidsordningen</resource>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
@@ -4205,6 +3929,282 @@
                </titles>
                <issn>0807-0865</issn>
             </series_metadata>
+            <!--Contributors: Pettersen, Karen-Sofie & Gudrun Rudningen-->
+            <!--Primary contributor: Karen-Sofie Pettersen-->
+            <!--Secondary contributors: Gudrun Rudningen-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_names>Karen-Sofie</given_names>
+                  <surname>Pettersen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Gudrun</given_names>
+                  <surname>Rudningen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Samspill eller svarteperspill? En studie av ansvarsfordeling og gråsoner mellom kommuner og spesialisthelsetjenesten for mennesker med RoP-lidelser med voldsproblematikk.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2014</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2014:10</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/rapport/2014:10</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Samspill-eller-svarteperspill</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-rapporter</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
+            <!--Contributors: Underthun, Anders & Ann Cecilie Bergene-->
+            <!--Primary contributor: Anders Underthun-->
+            <!--Secondary contributors: Ann Cecilie Bergene-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_names>Anders</given_names>
+                  <surname>Underthun</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Ann Cecilie</given_names>
+                  <surname>Bergene</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Framtida til norsk luftfart. Selskapsstrategier og partsrelasjoner i en liberalisert luftfartsvirkelighet.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2014</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2014:11</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/rapport/2014:11</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Framtida-til-norsk-luftfart</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-rapporter</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
+            <!--Contributors: Grimsmo, Asbjørn & Hanne Heen-->
+            <!--Primary contributor: Asbjørn Grimsmo-->
+            <!--Secondary contributors: Hanne Heen-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_names>Asbjørn</given_names>
+                  <surname>Grimsmo</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Hanne</given_names>
+                  <surname>Heen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Journalistisk kvalitet – hvilken rolle spiller arbeidsmiljøet i redaksjonen? Sammenhengen mellom redaksjonens sosiale kapital og journalistisk kvalitet, kreativitet og produktivitet.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2014</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2014:12</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/rapport/2014:12</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Journalistisk-kvalitet-hvilken-rolle-spiller-arbeidsmiljoeet-i-redaksjonen</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-rapporter</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
+            <!--Contributors: Fossestøl, Knut, Eric Breit & Elin Borg-->
+            <!--Primary contributor: Knut Fossestøl-->
+            <!--Secondary contributors: Eric Breit & Elin Borg-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_names>Knut</given_names>
+                  <surname>Fossestøl</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Eric</given_names>
+                  <surname>Breit</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Elin</given_names>
+                  <surname>Borg</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>NAV-reformen 2014. En oppfølgingsstudie av lokalkontorenes organisering etter innholdsreformen.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2014</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2014:13</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/rapport/2014:13</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/NAV-reformen-2014</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-rapporter</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
+            <!--Contributors: Mamelund, Svenn Erik & Steinar Widding-->
+            <!--Primary contributor: Svenn Erik Mamelund-->
+            <!--Secondary contributors: Steinar Widding-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_names>Svenn Erik</given_names>
+                  <surname>Mamelund</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Steinar</given_names>
+                  <surname>Widding</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>NAVs formidlings- rekrutteringstjenester.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2014</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2014:14</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/rapport/2014:14</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/NAVs-formidlings-og-rekrutteringstjenester</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-rapporter</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
+            <!--Contributors: Maximova-Mentzoni, Tatiana-->
+            <!--Primary contributor: Tatiana Maximova-Mentzoni-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_names>Tatiana</given_names>
+                  <surname>Maximova-Mentzoni</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Evaluering av arbeidstidsordningen - for medarbeidere i undervisnings- og forskerstillinger ved Høgskolen i Lillehammer.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2014</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2014:15</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/rapport/2014:15</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-arbeidstidsordningen</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-rapporter</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
             <!--Contributors: Bergene, Ann Cecilie, Cathrine Egeland, Per Bonde Hansen & Christin Thea Wathne-->
             <!--Primary contributor: Ann Cecilie Bergene-->
             <!--Secondary contributors: Cathrine Egeland, Per Bonde Hansen & Christin Thea Wathne-->
@@ -4248,252 +4248,6 @@
             <doi_data>
                <doi>http://doi.org/10.7577/afi/rapport/2015:1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Naar-unntaket-blir-en-del-av-regelen</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-rapporter</title>
-               </titles>
-               <issn>0807-0865</issn>
-            </series_metadata>
-            <!--Contributors: Enehaug, Heidi, Helge Svare, Pål Klethagen, Mary Anderson-Glenna, Hans Christoffer Aargaard Terjesen & Anne Marie Fatnes-->
-            <!--Primary contributor: Heidi Enehaug-->
-            <!--Secondary contributors: Helge Svare, Pål Klethagen, Mary Anderson-Glenna, Hans Christoffer Aargaard Terjesen & Anne Marie Fatnes-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_names>Heidi</given_names>
-                  <surname>Enehaug</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Helge</given_names>
-                  <surname>Svare</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Pål</given_names>
-                  <surname>Klethagen</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Mary</given_names>
-                  <surname>Anderson-Glenna</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Hans Christoffer Aargaard</given_names>
-                  <surname>Terjesen</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Anne Marie</given_names>
-                  <surname>Fatnes</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Kunnskapsdeling i travelhetens tid. Rapportering fra et forsknings- og utviklingsprosjekt i Abelias medlemsbedrifter.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2015</year>
-            </publication_date>
-            <publisher>
-               <publisher_place>Oslo</publisher_place>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number>AFI-rapport 2015:10</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2015:10</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Kunnskapsdeling-i-travelhetens-tid</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-rapporter</title>
-               </titles>
-               <issn>0807-0865</issn>
-            </series_metadata>
-            <!--Contributors: Bergene, Ann Cecilie-->
-            <!--Primary contributor: Ann Cecilie Bergene-->
-            <!--Secondary contributors: -->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_names>Ann Cecilie</given_names>
-                  <surname>Bergene</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Prinsipper og praksis. Erfaringer med tjenestemannsloven.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2015</year>
-            </publication_date>
-            <publisher>
-               <publisher_place>Oslo</publisher_place>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number>AFI-rapport 2015:11</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2015:11</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Prinsipper-og-praksis</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-rapporter</title>
-               </titles>
-               <issn>0807-0865</issn>
-            </series_metadata>
-            <!--Contributors: Maximova-Mentzoni, Tatiana & Steinar Widding-->
-            <!--Primary contributor: Tatiana Maximova-Mentzoni-->
-            <!--Secondary contributors: Steinar Widding-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_names>Tatiana</given_names>
-                  <surname>Maximova-Mentzoni</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Steinar</given_names>
-                  <surname>Widding</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Famler seg fram til god etteroppfølging. Resultater fra undersøkelsen om oppfølging av deltakere som har kommet i arbeid eller utdanning etter å ha fullført Jobbsjansen.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2015</year>
-            </publication_date>
-            <publisher>
-               <publisher_place>Oslo</publisher_place>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number>AFI-rapport 2015:12</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2015:12</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Famler-seg-fram-til-god-etteroppfoelging</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-rapporter</title>
-               </titles>
-               <issn>0807-0865</issn>
-            </series_metadata>
-            <!--Contributors: Terjesen, Hans Christoffer Aargaard, Robert Salomon & Vilde Hoff Bernstrøm-->
-            <!--Primary contributor: Hans Christoffer Aargaard Terjesen-->
-            <!--Secondary contributors: Robert Salomon & Vilde Hoff Bernstrøm-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_names>Hans Christoffer Aargaard</given_names>
-                  <surname>Terjesen</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Robert</given_names>
-                  <surname>Salomon</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Vilde Hoff</given_names>
-                  <surname>Bernstrøm</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>HR-funksjonens rolle i seniorpolitikken.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2015</year>
-            </publication_date>
-            <publisher>
-               <publisher_place>Oslo</publisher_place>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number>AFI-rapport 2015:13</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2015:13</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/HR-funksjonens-rolle-i-seniorpolitikken</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-rapporter</title>
-               </titles>
-               <issn>0807-0865</issn>
-            </series_metadata>
-            <!--Contributors: Schafft, Angelika & Tatiana Maximova-Mentzoni-->
-            <!--Primary contributor: Angelika Schafft-->
-            <!--Secondary contributors: Tatiana Maximova-Mentzoni-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_names>Angelika</given_names>
-                  <surname>Schafft</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_names>Tatiana</given_names>
-                  <surname>Maximova-Mentzoni</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>NAVs samarbeid med fylkeskommunen i Ny GIV-Oppfølgingsprosjektet.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2015</year>
-            </publication_date>
-            <publisher>
-               <publisher_place>Oslo</publisher_place>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number>AFI-rapport 2015:14</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2015:14</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/NAVs-samarbeid-med-fylkeskommunen-i-Ny-GIV-Oppfoelgingsprosjektet</resource>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
@@ -4894,6 +4648,252 @@
             <doi_data>
                <doi>http://doi.org/10.7577/afi/rapport/2015:9</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Kunnskap-og-informasjon-om-alderspensjon</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-rapporter</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
+            <!--Contributors: Enehaug, Heidi, Helge Svare, Pål Klethagen, Mary Anderson-Glenna, Hans Christoffer Aargaard Terjesen & Anne Marie Fatnes-->
+            <!--Primary contributor: Heidi Enehaug-->
+            <!--Secondary contributors: Helge Svare, Pål Klethagen, Mary Anderson-Glenna, Hans Christoffer Aargaard Terjesen & Anne Marie Fatnes-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_names>Heidi</given_names>
+                  <surname>Enehaug</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Helge</given_names>
+                  <surname>Svare</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Pål</given_names>
+                  <surname>Klethagen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Mary</given_names>
+                  <surname>Anderson-Glenna</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Hans Christoffer Aargaard</given_names>
+                  <surname>Terjesen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Anne Marie</given_names>
+                  <surname>Fatnes</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Kunnskapsdeling i travelhetens tid. Rapportering fra et forsknings- og utviklingsprosjekt i Abelias medlemsbedrifter.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2015</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2015:10</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/rapport/2015:10</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Kunnskapsdeling-i-travelhetens-tid</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-rapporter</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
+            <!--Contributors: Bergene, Ann Cecilie-->
+            <!--Primary contributor: Ann Cecilie Bergene-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_names>Ann Cecilie</given_names>
+                  <surname>Bergene</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Prinsipper og praksis. Erfaringer med tjenestemannsloven.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2015</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2015:11</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/rapport/2015:11</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Prinsipper-og-praksis</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-rapporter</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
+            <!--Contributors: Maximova-Mentzoni, Tatiana & Steinar Widding-->
+            <!--Primary contributor: Tatiana Maximova-Mentzoni-->
+            <!--Secondary contributors: Steinar Widding-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_names>Tatiana</given_names>
+                  <surname>Maximova-Mentzoni</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Steinar</given_names>
+                  <surname>Widding</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Famler seg fram til god etteroppfølging. Resultater fra undersøkelsen om oppfølging av deltakere som har kommet i arbeid eller utdanning etter å ha fullført Jobbsjansen.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2015</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2015:12</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/rapport/2015:12</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Famler-seg-fram-til-god-etteroppfoelging</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-rapporter</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
+            <!--Contributors: Terjesen, Hans Christoffer Aargaard, Robert Salomon & Vilde Hoff Bernstrøm-->
+            <!--Primary contributor: Hans Christoffer Aargaard Terjesen-->
+            <!--Secondary contributors: Robert Salomon & Vilde Hoff Bernstrøm-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_names>Hans Christoffer Aargaard</given_names>
+                  <surname>Terjesen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Robert</given_names>
+                  <surname>Salomon</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Vilde Hoff</given_names>
+                  <surname>Bernstrøm</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>HR-funksjonens rolle i seniorpolitikken.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2015</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2015:13</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/rapport/2015:13</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/HR-funksjonens-rolle-i-seniorpolitikken</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-rapporter</title>
+               </titles>
+               <issn>0807-0865</issn>
+            </series_metadata>
+            <!--Contributors: Schafft, Angelika & Tatiana Maximova-Mentzoni-->
+            <!--Primary contributor: Angelika Schafft-->
+            <!--Secondary contributors: Tatiana Maximova-Mentzoni-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_names>Angelika</given_names>
+                  <surname>Schafft</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_names>Tatiana</given_names>
+                  <surname>Maximova-Mentzoni</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>NAVs samarbeid med fylkeskommunen i Ny GIV-Oppfølgingsprosjektet.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2015</year>
+            </publication_date>
+            <publisher>
+               <publisher_place>Oslo</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>AFI-rapport 2015:14</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/rapport/2015:14</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/NAVs-samarbeid-med-fylkeskommunen-i-Ny-GIV-Oppfoelgingsprosjektet</resource>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
