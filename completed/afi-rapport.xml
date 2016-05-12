@@ -4,8 +4,8 @@
            version="4.3.4"
            xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd">
    <head>
-      <doi_batch_id>hioa_20160512143946</doi_batch_id>
-      <timestamp>20160512143946</timestamp>
+      <doi_batch_id>hioa_20160512180012</doi_batch_id>
+      <timestamp>20160512180012</timestamp>
       <depositor>
          <depositor_name>Eirik Hanssen</depositor_name>
          <email_address>ojs@hioa.no</email_address>
@@ -58,7 +58,7 @@
                <item_number>AFI-rapport 1998:3</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/1998:3</doi>
+               <doi>10.7577/afi/rapport/1998:3</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Kommuner-og-laerere-Farlige-forbindelser2</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -112,7 +112,7 @@
                <item_number>AFI-rapport 1998:5</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/1998:5</doi>
+               <doi>10.7577/afi/rapport/1998:5</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-de-statlige-arbeidssamvirketiltakene-og-de-kommunale-aktivitetstilbudene-for-yrkeshemmede</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -162,7 +162,7 @@
                <item_number>AFI-rapport 1998:6</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/1998:6</doi>
+               <doi>10.7577/afi/rapport/1998:6</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Arbeid-og-arbeidshelse-i-pleie-og-omsorgssektoren</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -220,7 +220,7 @@
                <item_number>AFI-rapport 1998:8</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/1998:8</doi>
+               <doi>10.7577/afi/rapport/1998:8</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Psykologiske-organisatoriske-og-sosiale-faktorer-i-arbeid-av-betydning-for-helse</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -262,7 +262,7 @@
                <item_number>AFI-rapport 2001:5</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2001:5</doi>
+               <doi>10.7577/afi/rapport/2001:5</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Et-nytt-Helse-Norge</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -316,7 +316,7 @@
                <item_number>AFI-rapport 2002:2</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2002:2</doi>
+               <doi>10.7577/afi/rapport/2002:2</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Maskinfoereres-arbeidsmiljoe-paa-godt-og-vondt</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -358,7 +358,7 @@
                <item_number>AFI-rapport 2002:3</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2002:3</doi>
+               <doi>10.7577/afi/rapport/2002:3</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-framtid-som-laerer</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -404,7 +404,7 @@
                <item_number>AFI-rapport 2003:2</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2003:2</doi>
+               <doi>10.7577/afi/rapport/2003:2</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Fylkeskommunen-som-regional-utviklingsaktoer</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -454,7 +454,7 @@
                <item_number>AFI-rapport 2003:3</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2003:3</doi>
+               <doi>10.7577/afi/rapport/2003:3</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Yrkeshemmede-i-det-ordinaere-arbeidslivet</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -496,7 +496,7 @@
                <item_number>AFI-rapport 2004:5</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2004:5</doi>
+               <doi>10.7577/afi/rapport/2004:5</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Redaktoerliv</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -542,7 +542,7 @@
                <item_number>AFI-rapport 2005:1</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2005:1</doi>
+               <doi>10.7577/afi/rapport/2005:1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hva-fremmer-og-hva-hemmer-vekst-i-smaa-og-mellomstore-bedrifter</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -584,7 +584,7 @@
                <item_number>AFI-rapport 2005:2</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2005:2</doi>
+               <doi>10.7577/afi/rapport/2005:2</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Munnkurv-og-varsling</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -634,7 +634,7 @@
                <item_number>AFI-rapport 2005:5</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2005:5</doi>
+               <doi>10.7577/afi/rapport/2005:5</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-AKAN</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -680,7 +680,7 @@
                <item_number>AFI-rapport 2006:2</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2006:2</doi>
+               <doi>10.7577/afi/rapport/2006:2</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Fortell-meg-at-jeg-er-oensket</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -726,7 +726,7 @@
                <item_number>AFI-rapport 2006:4</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2006:4</doi>
+               <doi>10.7577/afi/rapport/2006:4</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Paa-vei-mot-en-ny-region</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -772,7 +772,7 @@
                <item_number>AFI-rapport 2006:5</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2006:5</doi>
+               <doi>10.7577/afi/rapport/2006:5</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Samliv-i-Forsvaret</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -818,7 +818,7 @@
                <item_number>AFI-rapport 2006:7</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2006:7</doi>
+               <doi>10.7577/afi/rapport/2006:7</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Paa-vei-til-jobb</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -864,7 +864,7 @@
                <item_number>AFI-rapport 2007:1</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2007:1</doi>
+               <doi>10.7577/afi/rapport/2007:1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Organisasjonskultur-og-mennesker-i-fusjonsprosesser</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -906,7 +906,7 @@
                <item_number>AFI-rapport 2007:2</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2007:2</doi>
+               <doi>10.7577/afi/rapport/2007:2</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/For-at-ikke-pasientperspektivet-skal-bli-glemt</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -948,7 +948,7 @@
                <item_number>AFI-rapport 2007:3</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2007:3</doi>
+               <doi>10.7577/afi/rapport/2007:3</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Mot-en-ny-infrastruktur-for-laering-og-kontroll</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1002,7 +1002,7 @@
                <item_number>AFI-rapport 2007:4</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2007:4</doi>
+               <doi>10.7577/afi/rapport/2007:4</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Paa-vei-mot-en-integrert-velferdsforvaltning</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1052,7 +1052,7 @@
                <item_number>AFI-rapport 2008:1</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2008:1</doi>
+               <doi>10.7577/afi/rapport/2008:1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Likestilling-og-livskvalitet-20072</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1110,7 +1110,7 @@
                <item_number>AFI-rapport 2008:2</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2008:2</doi>
+               <doi>10.7577/afi/rapport/2008:2</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Erfaringer-med-og-konsekvenser-av-graviditet-og-uttak-av-foreldrepermisjon-i-norsk-arbeidsliv</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1152,7 +1152,7 @@
                <item_number>AFI-rapport 2008:3</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2008:3</doi>
+               <doi>10.7577/afi/rapport/2008:3</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Nye-muligheter-for-jobb-med-tidsubestemt-loennstilskudd</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1194,7 +1194,7 @@
                <item_number>AFI-rapport 2008:4</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2008:4</doi>
+               <doi>10.7577/afi/rapport/2008:4</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Psykiske-lidelser-og-arbeidsintegrering-i-Skandinavia</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1240,7 +1240,7 @@
                <item_number>AFI-rapport 2009:1</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2009:1</doi>
+               <doi>10.7577/afi/rapport/2009:1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-likestillings-og-diskrimineringsombudet</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1282,7 +1282,7 @@
                <item_number>AFI-rapport 2009:2</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2009:2</doi>
+               <doi>10.7577/afi/rapport/2009:2</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/ICT-and-employment</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1332,7 +1332,7 @@
                <item_number>AFI-rapport 2009:3</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2009:3</doi>
+               <doi>10.7577/afi/rapport/2009:3</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Gammel-industri-med-nytt-innhold</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1382,7 +1382,7 @@
                <item_number>AFI-rapport 2009:4</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2009:4</doi>
+               <doi>10.7577/afi/rapport/2009:4</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Paa-seniorvis</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1424,7 +1424,7 @@
                <item_number>AFI-rapport 2007:5</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2007:5</doi>
+               <doi>10.7577/afi/rapport/2007:5</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Stairway-to-Heaven</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1474,7 +1474,7 @@
                <item_number>AFI-rapport 2010:1</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2010:1</doi>
+               <doi>10.7577/afi/rapport/2010:1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Ny-evaluering-av-Tiltakssatsingen-for-sosialhjelpsmottakere</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1520,7 +1520,7 @@
                <item_number>AFI-rapport 2010:2</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2010:2</doi>
+               <doi>10.7577/afi/rapport/2010:2</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Naertransportsjaafoerens-arbeidsdag</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1582,7 +1582,7 @@
                <item_number>AFI-rapport 2010:3</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2010:3</doi>
+               <doi>10.7577/afi/rapport/2010:3</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Tilbake-til-framtiden</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1648,7 +1648,7 @@
                <item_number>AFI-rapport 2010:4</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2010:4</doi>
+               <doi>10.7577/afi/rapport/2010:4</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Seniorpolitikk-virker-virkemidlene</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1694,7 +1694,7 @@
                <item_number>AFI-rapport 2011:1</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2011:1</doi>
+               <doi>10.7577/afi/rapport/2011:1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hvordan-skape-oekt-mestring-blant-frontlinjeansatte-i-servicenaeringen</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1736,7 +1736,7 @@
                <item_number>AFI-rapport 2011:2</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2011:2</doi>
+               <doi>10.7577/afi/rapport/2011:2</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Samarbeidsraadet-for-tros-og-livssynssamfunn-som-dialogorganisasjon</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1782,7 +1782,7 @@
                <item_number>AFI-rapport 2011:3</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2011:3</doi>
+               <doi>10.7577/afi/rapport/2011:3</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Supported-Employment-i-Norden</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1828,7 +1828,7 @@
                <item_number>AFI-rapport 2011:4</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2011:4</doi>
+               <doi>10.7577/afi/rapport/2011:4</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-Kvalifiseringsprogrammet-sluttrapport</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1874,7 +1874,7 @@
                <item_number>AFI-rapport 2011:5</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2011:5</doi>
+               <doi>10.7577/afi/rapport/2011:5</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Rekruttering-til-ledelse</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1920,7 +1920,7 @@
                <item_number>AFI-rapport, 2011:6</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2011:6</doi>
+               <doi>10.7577/afi/rapport/2011:6</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Kompetanse-opplaering-og-mangfold</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1966,7 +1966,7 @@
                <item_number>AFI-rapport 2012:1</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:1</doi>
+               <doi>10.7577/afi/rapport/2012:1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Tidsbruk-arbeidstid-og-tidskonflikt-i-den-norske-universitets-og-hoegskolesektoren</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2008,7 +2008,7 @@
                <item_number>AFI-rapport 2012:2</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:2</doi>
+               <doi>10.7577/afi/rapport/2012:2</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Faerre-paa-vei-ut</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2050,7 +2050,7 @@
                <item_number>AFI-rapport 2012:3</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:3</doi>
+               <doi>10.7577/afi/rapport/2012:3</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Samliv-i-Forsvaret-2011</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2092,7 +2092,7 @@
                <item_number>AFI-rapport 2012:4</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:4</doi>
+               <doi>10.7577/afi/rapport/2012:4</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Praksiskonsulenten-som-brobygger</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2150,7 +2150,7 @@
                <item_number>AFI-rapport 2012:5</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:5</doi>
+               <doi>10.7577/afi/rapport/2012:5</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Samfunnsoekonomisk-analyse-av-oekt-sysselsetting-av-personer-med-nedsatt-funksjonsevne</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2196,7 +2196,7 @@
                <item_number>AFI-rapport 2012:6</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:6</doi>
+               <doi>10.7577/afi/rapport/2012:6</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Ungdom-i-Ny-sjanse</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2242,7 +2242,7 @@
                <item_number>AFI-rapport 2012:7</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:7</doi>
+               <doi>10.7577/afi/rapport/2012:7</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-forsoek-med-fagutvikling-av-sosiale-tjenester-i-utvalgte-NAV-kontor</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2284,7 +2284,7 @@
                <item_number>AFI-rapport 2012:8</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:8</doi>
+               <doi>10.7577/afi/rapport/2012:8</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-Telenor-Open-Mind-Integartion-Evaluation-of-Telenor-Open-Mind-Integration</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2330,7 +2330,7 @@
                <item_number>AFI-rapport 2012:9</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:9</doi>
+               <doi>10.7577/afi/rapport/2012:9</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Gode-intensjoner-holder-det</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2376,7 +2376,7 @@
                <item_number>AFI-rapport 2012:10</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:10</doi>
+               <doi>10.7577/afi/rapport/2012:10</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Transportarbeid-i-Norge</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2418,7 +2418,7 @@
                <item_number>AFI-rapport 2012:11</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:11</doi>
+               <doi>10.7577/afi/rapport/2012:11</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Risiko-og-inkludering</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2460,7 +2460,7 @@
                <item_number>AFI-rapport 2012:12</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:12</doi>
+               <doi>10.7577/afi/rapport/2012:12</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Foelgeevaluering-av-Langtidsfrisk-arbeidet-ved-SI-Kongsvinger</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2510,7 +2510,7 @@
                <item_number>AFI-rapport 2012:13</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:13</doi>
+               <doi>10.7577/afi/rapport/2012:13</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Noedvendig-differensiering-eller-overlappende-tiltak</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2564,7 +2564,7 @@
                <item_number>AFI-rapport 2012:14</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:14</doi>
+               <doi>10.7577/afi/rapport/2012:14</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Behovet-for-varig-tilrettelagt-arbeid</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2606,7 +2606,7 @@
                <item_number>AFI-rapport 2012:15</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:15</doi>
+               <doi>10.7577/afi/rapport/2012:15</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Seniorpolitikk-i-store-virksomheter-foelgeevaluering-ved-St.-Olavs-Hospital</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2660,7 +2660,7 @@
                <item_number>AFI-rapport 2012:16</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:16</doi>
+               <doi>10.7577/afi/rapport/2012:16</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Arbeidsgiverlos-lederstoette-i-arbeidet-med-psykiske-helse-paa-arbeidsplassen</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2702,7 +2702,7 @@
                <item_number>AFI-rapport 2012:17</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:17</doi>
+               <doi>10.7577/afi/rapport/2012:17</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Arbeid-helse-og-engasjement-blant-ansatte-i-Den-norske-kirke</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2748,7 +2748,7 @@
                <item_number>AFI-rapport 2012:18</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:18</doi>
+               <doi>10.7577/afi/rapport/2012:18</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/LEAN-i-solnedgang</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2798,7 +2798,7 @@
                <item_number>AFI-rapport 2012:19</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:19</doi>
+               <doi>10.7577/afi/rapport/2012:19</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Er-du-her-saa-regner-jeg-med-deg!</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2840,7 +2840,7 @@
                <item_number>AFI-rapport 2012:20</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:20</doi>
+               <doi>10.7577/afi/rapport/2012:20</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Inkludering-av-ungdom-i-skole-eller-arbeid</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2882,7 +2882,7 @@
                <item_number>AFI-rapport 2012:21</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2012:21</doi>
+               <doi>10.7577/afi/rapport/2012:21</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Med-blikk-for-sammenhengen-mellom-barnehage-og-skole</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2928,7 +2928,7 @@
                <item_number>AFI-rapport 2013:2</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2013:2</doi>
+               <doi>10.7577/afi/rapport/2013:2</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hva-er-god-Arbeid-med-bistand</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2974,7 +2974,7 @@
                <item_number>AFI-rapport 2013:3</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2013:3</doi>
+               <doi>10.7577/afi/rapport/2013:3</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hvem-skal-ut</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -3024,7 +3024,7 @@
                <item_number>AFI-rapport 2013:4</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2013:4</doi>
+               <doi>10.7577/afi/rapport/2013:4</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Historie-et-guttefag</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -3070,7 +3070,7 @@
                <item_number>AFI-rapport 2013:5</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2013:5</doi>
+               <doi>10.7577/afi/rapport/2013:5</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-prosjektet-Godt-nok-norsk</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -3116,7 +3116,7 @@
                <item_number>AFI-rapport 2013:6</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2013:6</doi>
+               <doi>10.7577/afi/rapport/2013:6</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/AA-jobbe-med-arbeidsglede-hva-kan-virksomheter-faa-ut-av-det</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -3158,7 +3158,7 @@
                <item_number>AFI-rapport 2013:7</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2013:7</doi>
+               <doi>10.7577/afi/rapport/2013:7</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/De-vanskelige-overgangene</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -3204,7 +3204,7 @@
                <item_number>AFI-rapport 2013:8</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2013:8</doi>
+               <doi>10.7577/afi/rapport/2013:8</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Modellutproeving-av-psykologer-i-kommunehelsetjenesten</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -3250,7 +3250,7 @@
                <item_number>AFI-rapport 2013:8</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2013:8</doi>
+               <doi>10.7577/afi/rapport/2013:8</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Modellutproeving-av-psykologer-i-kommunehelsetjenesten</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -3296,7 +3296,7 @@
                <item_number>AFI-rapport 2013:9</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2013:9</doi>
+               <doi>10.7577/afi/rapport/2013:9</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Individuell-oppfoelging-av-unge-i-ferd-med-aa-havne-utenfor-skole-og-arbeid</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -3338,7 +3338,7 @@
                <item_number>AFI-rapport 2013:10</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2013:10</doi>
+               <doi>10.7577/afi/rapport/2013:10</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Barrierer-mot-arbeid</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -3384,7 +3384,7 @@
                <item_number>AFI-rapport 2013:11</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2013:11</doi>
+               <doi>10.7577/afi/rapport/2013:11</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Tilbakefoeringsgarantien-i-praksis</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -3434,7 +3434,7 @@
                <item_number>AFI-rapport 2013:12</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2013:12</doi>
+               <doi>10.7577/afi/rapport/2013:12</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-ny-rolle-for-NAV-i-fengsel</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -3488,7 +3488,7 @@
                <item_number>AFI-rapport 2013:13</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2013:13</doi>
+               <doi>10.7577/afi/rapport/2013:13</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hva-kan-forklare-medlemsveksten-i-Forbundet-for-Ledelse-og-Teknikk</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -3534,7 +3534,7 @@
                <item_number>AFI-rapport 2014:1</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2014:1</doi>
+               <doi>10.7577/afi/rapport/2014:1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Inkludering-av-ungdom-i-skole-eller-arbeid-2</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -3588,7 +3588,7 @@
                <item_number>AFI-rapport 2014:2</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2014:2</doi>
+               <doi>10.7577/afi/rapport/2014:2</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Unntak-fra-arbeidstidsbestemmelsene-med-fokus-paa-arbeidstakere-i-saerlig-uavhengig-stilling</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -3630,7 +3630,7 @@
                <item_number>AFI-rapport 2014:3</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2014:3</doi>
+               <doi>10.7577/afi/rapport/2014:3</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Mangfoldsledelse</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -3676,7 +3676,7 @@
                <item_number>AFI-rapport 2014:4</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2014:4</doi>
+               <doi>10.7577/afi/rapport/2014:4</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Frivillig-deltid-kun-et-spoersmaal-om-tid</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -3722,7 +3722,7 @@
                <item_number>AFI-rapport 2014:5</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2014:5</doi>
+               <doi>10.7577/afi/rapport/2014:5</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Arbeidsgiverperspektiver-paa-inkludering</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -3768,7 +3768,7 @@
                <item_number>AFI-rapport 2014:6</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2014:6</doi>
+               <doi>10.7577/afi/rapport/2014:6</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Gjoere-sammen-eller-hver-for-seg</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -3818,7 +3818,7 @@
                <item_number>AFI-rapport 2014:7</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2014:7</doi>
+               <doi>10.7577/afi/rapport/2014:7</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Etter-1001-natt</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -3872,7 +3872,7 @@
                <item_number>AFI-rapport 2014:8</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2014:8</doi>
+               <doi>10.7577/afi/rapport/2014:8</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Et-lag-rundt-laereren</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -3918,7 +3918,7 @@
                <item_number>AFI-rapport 2014:9</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2014:9</doi>
+               <doi>10.7577/afi/rapport/2014:9</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Rekruttering-av-personer-med-nedsatt-funksjonsevne-paa-ordinaer-maate</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -3964,7 +3964,7 @@
                <item_number>AFI-rapport 2014:10</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2014:10</doi>
+               <doi>10.7577/afi/rapport/2014:10</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Samspill-eller-svarteperspill</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -4010,7 +4010,7 @@
                <item_number>AFI-rapport 2014:11</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2014:11</doi>
+               <doi>10.7577/afi/rapport/2014:11</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Framtida-til-norsk-luftfart</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -4056,7 +4056,7 @@
                <item_number>AFI-rapport 2014:12</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2014:12</doi>
+               <doi>10.7577/afi/rapport/2014:12</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Journalistisk-kvalitet-hvilken-rolle-spiller-arbeidsmiljoeet-i-redaksjonen</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -4106,7 +4106,7 @@
                <item_number>AFI-rapport 2014:13</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2014:13</doi>
+               <doi>10.7577/afi/rapport/2014:13</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/NAV-reformen-2014</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -4152,7 +4152,7 @@
                <item_number>AFI-rapport 2014:14</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2014:14</doi>
+               <doi>10.7577/afi/rapport/2014:14</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/NAVs-formidlings-og-rekrutteringstjenester</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -4194,7 +4194,7 @@
                <item_number>AFI-rapport 2014:15</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2014:15</doi>
+               <doi>10.7577/afi/rapport/2014:15</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-arbeidstidsordningen</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -4248,7 +4248,7 @@
                <item_number>AFI-rapport 2015:1</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2015:1</doi>
+               <doi>10.7577/afi/rapport/2015:1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Naar-unntaket-blir-en-del-av-regelen</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -4294,7 +4294,7 @@
                <item_number>AFI-rapport 2015:2</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2015:2</doi>
+               <doi>10.7577/afi/rapport/2015:2</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-gfor-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hoegskolen-i-Telemark-og-TEL-TEK</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -4344,7 +4344,7 @@
                <item_number>AFI-rapport 2015:3</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2015:3</doi>
+               <doi>10.7577/afi/rapport/2015:3</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Unge-mottakere-av-tiltakspenger</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -4386,7 +4386,7 @@
                <item_number>AFI-rapport 2015:4</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2015:4</doi>
+               <doi>10.7577/afi/rapport/2015:4</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Drivkrefter-bak-avgang-og-arbeidsfastholdelse</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -4432,7 +4432,7 @@
                <item_number>AFI-rapport 2015:5</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2015:5</doi>
+               <doi>10.7577/afi/rapport/2015:5</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Arbeidsgiveres-inkluderingsevne</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -4486,7 +4486,7 @@
                <item_number>AFI-rapport 2015:6</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2015:6</doi>
+               <doi>10.7577/afi/rapport/2015:6</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hva-laererne-ikke-kan!</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -4532,7 +4532,7 @@
                <item_number>AFI-rapport 2015:7</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2015:7</doi>
+               <doi>10.7577/afi/rapport/2015:7</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Jeg-forener</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -4602,7 +4602,7 @@
                <item_number>AFI-rapport 2015:8</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2015:8</doi>
+               <doi>10.7577/afi/rapport/2015:8</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hva-naa-Toeyen</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -4648,7 +4648,7 @@
                <item_number>AFI-rapport 2015:9</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2015:9</doi>
+               <doi>10.7577/afi/rapport/2015:9</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Kunnskap-og-informasjon-om-alderspensjon</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -4710,7 +4710,7 @@
                <item_number>AFI-rapport 2015:10</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2015:10</doi>
+               <doi>10.7577/afi/rapport/2015:10</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Kunnskapsdeling-i-travelhetens-tid</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -4752,7 +4752,7 @@
                <item_number>AFI-rapport 2015:11</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2015:11</doi>
+               <doi>10.7577/afi/rapport/2015:11</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Prinsipper-og-praksis</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -4798,7 +4798,7 @@
                <item_number>AFI-rapport 2015:12</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2015:12</doi>
+               <doi>10.7577/afi/rapport/2015:12</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Famler-seg-fram-til-god-etteroppfoelging</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -4848,7 +4848,7 @@
                <item_number>AFI-rapport 2015:13</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2015:13</doi>
+               <doi>10.7577/afi/rapport/2015:13</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/HR-funksjonens-rolle-i-seniorpolitikken</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -4894,7 +4894,7 @@
                <item_number>AFI-rapport 2015:14</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2015:14</doi>
+               <doi>10.7577/afi/rapport/2015:14</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/NAVs-samarbeid-med-fylkeskommunen-i-Ny-GIV-Oppfoelgingsprosjektet</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -4944,7 +4944,7 @@
                <item_number>AFI-rapport 2016:1</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/rapport/2016:1</doi>
+               <doi>10.7577/afi/rapport/2016:1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Sosialt-arbeid-og-oppfoelging-av-utsatt-ungdom-i-NAV</resource>
             </doi_data>
          </report-paper_series_metadata>
