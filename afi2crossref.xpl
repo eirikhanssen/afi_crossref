@@ -68,8 +68,19 @@
 		</p:input>
 		<p:input port="parameters"><p:empty/></p:input>
 	</p:xslt>
+
+	<p:xslt name="assign_doi" version="2.0">
+		<!-- get source from previous transform -->
+		<p:input port="source"/>
+		<p:input port="stylesheet">
+			<p:document href="doi_gen.xsl"/>
+		</p:input>
+		<p:input port="parameters">
+			<p:empty/>
+		</p:input>
+	</p:xslt>
+
 	<!-- TODO: 
-		- sort based on year/report number
 		- assign doi
 	-->
 	<p:identity/>
