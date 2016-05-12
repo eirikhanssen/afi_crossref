@@ -4,8 +4,8 @@
            version="4.3.4"
            xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd">
    <head>
-      <doi_batch_id>hioa_20160512145655</doi_batch_id>
-      <timestamp>20160512145655</timestamp>
+      <doi_batch_id>hioa_20160512152947</doi_batch_id>
+      <timestamp>20160512152947</timestamp>
       <depositor>
          <depositor_name>Eirik Hanssen</depositor_name>
          <email_address>ojs@hioa.no</email_address>
@@ -55,10 +55,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet. FoU-resultater 1998. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/NORAD-en-laerende-organisasjon</item_number>
+               <item_number>FoU-resultater 1998</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/1998/ Oslo: Arbeidsforskningsinstituttet. FoU-resultater 1998. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/NORAD-en-laerende-organisasjon</doi>
+               <doi>http://doi.org/10.7577/afi/fou/1998/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/NORAD-en-laerende-organisasjon</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -97,10 +97,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Work Research Institute. FoU-resultater 2002. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/New-start-for-ex-offenders-in-the-open-labour-market3</item_number>
+               <item_number>FoU-resultater 2002</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2002/ Oslo: Work Research Institute. FoU-resultater 2002. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/New-start-for-ex-offenders-in-the-open-labour-market3</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2002/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/New-start-for-ex-offenders-in-the-open-labour-market3</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -147,10 +147,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet. FoU-resultater 2003. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Bedre-trygghet-i-kollektivtransporten</item_number>
+               <item_number>FoU-resultater 2003</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2003/ Oslo: Arbeidsforskningsinstituttet. FoU-resultater 2003. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Bedre-trygghet-i-kollektivtransporten</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2003/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Bedre-trygghet-i-kollektivtransporten</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -193,10 +193,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number>Uhrig, Bettina &amp; Michael J. Evans (eds.) (2003): Strategies for Inclusion - co-ordinated approaches for quality employment -Phase I. Handbook of good practice. Oslo, Hønefoss: Arbeidsforskningsinstituttet and Eikli as - grafisk. FoU-resultater 2003. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Strategies-for-inclusion-co-ordinated-approaches-for-quality-employment</item_number>
+               <item_number>FoU-resultater 2003</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2003/Uhrig, Bettina &amp; Michael J. Evans (eds.) (2003): Strategies for Inclusion - co-ordinated approaches for quality employment -Phase I. Handbook of good practice. Oslo, Hønefoss: Arbeidsforskningsinstituttet and Eikli as - grafisk. FoU-resultater 2003. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Strategies-for-inclusion-co-ordinated-approaches-for-quality-employment</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2003/2</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Strategies-for-inclusion-co-ordinated-approaches-for-quality-employment</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -239,10 +239,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet. FoU-resultater 2004. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Ungdom-motivasjon-og-muligheter-i-industribedrifter</item_number>
+               <item_number>FoU-resultater 2004</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2004/ Oslo: Arbeidsforskningsinstituttet. FoU-resultater 2004. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Ungdom-motivasjon-og-muligheter-i-industribedrifter</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2004/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Ungdom-motivasjon-og-muligheter-i-industribedrifter</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -289,10 +289,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Work Research Institute, 2005. FoU-resultater 2005. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Achievements-results-and-proposals-from-the-transnational-partnership-Strategies-for-Inclusion-co-ordinated-approaches-for-quality-employment</item_number>
+               <item_number>FoU-resultater 2005</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2005/ Oslo: Work Research Institute, 2005. FoU-resultater 2005. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Achievements-results-and-proposals-from-the-transnational-partnership-Strategies-for-Inclusion-co-ordinated-approaches-for-quality-employment</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2005/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Achievements-results-and-proposals-from-the-transnational-partnership-Strategies-for-Inclusion-co-ordinated-approaches-for-quality-employment</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -335,10 +335,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, Andre FoU-resultater 2006. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Fortellinger-om-aa-faa-det-til</item_number>
+               <item_number>FoU-resultater 2006</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2006/ Oslo: Arbeidsforskningsinstituttet, Andre FoU-resultater 2006. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Fortellinger-om-aa-faa-det-til</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2006/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Fortellinger-om-aa-faa-det-til</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -381,10 +381,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, Andre FoU-resultater 2006. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Veien-til-yrkeslivet-for-personer-under-legemiddelassistert-rehabilitering</item_number>
+               <item_number>FoU-resultater 2006</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2006/ Oslo: Arbeidsforskningsinstituttet, Andre FoU-resultater 2006. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Veien-til-yrkeslivet-for-personer-under-legemiddelassistert-rehabilitering</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2006/2</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Veien-til-yrkeslivet-for-personer-under-legemiddelassistert-rehabilitering</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -427,10 +427,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, Andre FoU-resultater 2006. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Arbeid-og-psykisk-helse</item_number>
+               <item_number>FoU-resultater 2006</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2006/ Oslo: Arbeidsforskningsinstituttet, Andre FoU-resultater 2006. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Arbeid-og-psykisk-helse</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2006/3</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Arbeid-og-psykisk-helse</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -473,10 +473,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet og Sosial- og helsedirektoratet (distributør), FoU-resultat 2007. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hjerte-hode-hender</item_number>
+               <item_number>FoU-resultat 2007</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2007/ Oslo: Arbeidsforskningsinstituttet og Sosial- og helsedirektoratet (distributør), FoU-resultat 2007. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hjerte-hode-hender</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2007/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hjerte-hode-hender</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -527,10 +527,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, Andre FoU-artikler 2007. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-tilsynsmetodikken-i-Arbeidstilsynets-God-Vakt!-kampanje</item_number>
+               <item_number>FoU-artikler 2007</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2007/ Oslo: Arbeidsforskningsinstituttet, Andre FoU-artikler 2007. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-tilsynsmetodikken-i-Arbeidstilsynets-God-Vakt!-kampanje</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2007/2</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-tilsynsmetodikken-i-Arbeidstilsynets-God-Vakt!-kampanje</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -581,10 +581,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, Andre FoU-artikler 2007. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Capacity-Building-for-Employers-Organization-on-Productivity-and-Competitiveness</item_number>
+               <item_number>FoU-artikler 2007</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2007/ Oslo: Arbeidsforskningsinstituttet, Andre FoU-artikler 2007. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Capacity-Building-for-Employers-Organization-on-Productivity-and-Competitiveness</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2007/3</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Capacity-Building-for-Employers-Organization-on-Productivity-and-Competitiveness</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -631,10 +631,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, Andre FoU-artikler 2007. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Workers-Education-Programme-on-Social-Dialogue-Social-Dialoge-and-Youth-Employment</item_number>
+               <item_number>FoU-artikler 2007</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2007/ Oslo: Arbeidsforskningsinstituttet, Andre FoU-artikler 2007. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Workers-Education-Programme-on-Social-Dialogue-Social-Dialoge-and-Youth-Employment</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2007/4</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Workers-Education-Programme-on-Social-Dialogue-Social-Dialoge-and-Youth-Employment</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -677,10 +677,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, Andre FoU-artikler 2007. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-Kolslinjen</item_number>
+               <item_number>FoU-artikler 2007</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2007/ Oslo: Arbeidsforskningsinstituttet, Andre FoU-artikler 2007. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-Kolslinjen</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2007/5</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-Kolslinjen</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -719,10 +719,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Work Research Institute, Andre FoU-artikler 2007. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/The-organizational-challenge-for-health-care</item_number>
+               <item_number>FoU-artikler 2007</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2007/ Oslo: Work Research Institute, Andre FoU-artikler 2007. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/The-organizational-challenge-for-health-care</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2007/6</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/The-organizational-challenge-for-health-care</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -761,141 +761,11 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, Andre FoU-resultat 2008. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Principles-of-animal-ethics-in-Scandinavian-animal-welfare-legislation-and-governance</item_number>
+               <item_number>FoU-resultat 2008</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2008/ Oslo: Arbeidsforskningsinstituttet, Andre FoU-resultat 2008. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Principles-of-animal-ethics-in-Scandinavian-animal-welfare-legislation-and-governance</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2008/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Principles-of-animal-ethics-in-Scandinavian-animal-welfare-legislation-and-governance</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-               <issn>AFI-fou-resultater</issn>
-            </series_metadata>
-            <!--Contributors: Klemsdal, Lars & Helge Svare-->
-            <!--Primary contributor: Lars Klemsdal-->
-            <!--Secondary contributors: Helge Svare-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_name>Lars</given_name>
-                  <surname>Klemsdal</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_name>Helge</given_name>
-                  <surname>Svare</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Batterieffekten. Metoder i selvhjelp for organisasjoner.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2008</year>
-            </publication_date>
-            <publisher>
-               <publisher_name>Kirkens Bymisjon</publisher_name>
-               <publisher_place>Oslo</publisher_place>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number> Oslo: Kirkens Bymisjon, Andre FoU-resultat 2008. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Batterieffekten</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2008/ Oslo: Kirkens Bymisjon, Andre FoU-resultat 2008. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Batterieffekten</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Batterieffekten</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-               <issn>AFI-fou-resultater</issn>
-            </series_metadata>
-            <!--Contributors: Steen, Arild Henrik-->
-            <!--Primary contributor: Arild Henrik Steen-->
-            <!--Secondary contributors: -->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_name>Arild Henrik</given_name>
-                  <surname>Steen</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Menneskerettigheter, fagforeningsrettigheter og demokrati. Baseline.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2008</year>
-            </publication_date>
-            <publisher>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-               <publisher_place>Oslo</publisher_place>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, Andre FoU-resultat 2008. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Menneskerettigheter-fagforeningsrettigheter-og-demokrati</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2008/ Oslo: Arbeidsforskningsinstituttet, Andre FoU-resultat 2008. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Menneskerettigheter-fagforeningsrettigheter-og-demokrati</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Menneskerettigheter-fagforeningsrettigheter-og-demokrati</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-               <issn>AFI-fou-resultater</issn>
-            </series_metadata>
-            <!--Contributors: Steinum, Trude-->
-            <!--Primary contributor: Trude Steinum-->
-            <!--Secondary contributors: -->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_name>Trude</given_name>
-                  <surname>Steinum</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>”Hva kan vi lære av gode eksempler på seniorpolitikk?”</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2008</year>
-            </publication_date>
-            <publisher>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-               <publisher_place>Oslo</publisher_place>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, Andre FoU-resultat 2008. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hva-kan-vi-laere-av-gode-eksempler-paa-seniorpolitikk</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2008/ Oslo: Arbeidsforskningsinstituttet, Andre FoU-resultat 2008. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hva-kan-vi-laere-av-gode-eksempler-paa-seniorpolitikk</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hva-kan-vi-laere-av-gode-eksempler-paa-seniorpolitikk</resource>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
@@ -937,11 +807,233 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, Andre FoU-resultat 2008. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Review-of-the-Co-operation-between-NHO-and-APINDO-2003-2007</item_number>
+               <item_number>FoU-resultat 2008</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2008/ Oslo: Arbeidsforskningsinstituttet, Andre FoU-resultat 2008. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Review-of-the-Co-operation-between-NHO-and-APINDO-2003-2007</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2008/2</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Review-of-the-Co-operation-between-NHO-and-APINDO-2003-2007</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-fou-resultater</title>
+               </titles>
+               <issn>AFI-fou-resultater</issn>
+            </series_metadata>
+            <!--Contributors: Klemsdal, Lars & Helge Svare-->
+            <!--Primary contributor: Lars Klemsdal-->
+            <!--Secondary contributors: Helge Svare-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Lars</given_name>
+                  <surname>Klemsdal</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Helge</given_name>
+                  <surname>Svare</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Batterieffekten. Metoder i selvhjelp for organisasjoner.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2008</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Kirkens Bymisjon</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>FoU-resultat 2008</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/fou/2008/3</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Batterieffekten</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-fou-resultater</title>
+               </titles>
+               <issn>AFI-fou-resultater</issn>
+            </series_metadata>
+            <!--Contributors: Steen, Arild Henrik-->
+            <!--Primary contributor: Arild Henrik Steen-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Arild Henrik</given_name>
+                  <surname>Steen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Menneskerettigheter, fagforeningsrettigheter og demokrati. Baseline.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2008</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>FoU-resultat 2008</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/fou/2008/4</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Menneskerettigheter-fagforeningsrettigheter-og-demokrati</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-fou-resultater</title>
+               </titles>
+               <issn>AFI-fou-resultater</issn>
+            </series_metadata>
+            <!--Contributors: Steinum, Trude-->
+            <!--Primary contributor: Trude Steinum-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Trude</given_name>
+                  <surname>Steinum</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>”Hva kan vi lære av gode eksempler på seniorpolitikk?”</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2008</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>FoU-resultat 2008</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/fou/2008/5</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hva-kan-vi-laere-av-gode-eksempler-paa-seniorpolitikk</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-fou-resultater</title>
+               </titles>
+               <issn>AFI-fou-resultater</issn>
+            </series_metadata>
+            <!--Contributors: Amble, Nina & Elisabeth Gjerberg-->
+            <!--Primary contributor: Nina Amble-->
+            <!--Secondary contributors: Elisabeth Gjerberg-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Nina</given_name>
+                  <surname>Amble</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Elisabeth</given_name>
+                  <surname>Gjerberg</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Livspuslespillet. Partssammensatt prosjekt: Undersøkelse vedrørende balanse arbeid-familie, blant norske kvinner som arbeider som ledere. Sluttrapport.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2009</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>FoU-resultat 2009</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/fou/2009/1</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Livspuslespillet2</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-fou-resultater</title>
+               </titles>
+               <issn>AFI-fou-resultater</issn>
+            </series_metadata>
+            <!--Contributors: Amble, Nina & Elisabeth Gjerberg-->
+            <!--Primary contributor: Nina Amble-->
+            <!--Secondary contributors: Elisabeth Gjerberg-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Nina</given_name>
+                  <surname>Amble</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Elisabeth</given_name>
+                  <surname>Gjerberg</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Hjerte – hode – hender. Et refleksjonsverktøy for mestring i pleie og omsorgstjenesten. 2. utgave.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2009</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet og Sosial- og helsedirektoratet (distributør)</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>FoU-resultat 2009</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/fou/2009/2</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hjerte-hode-hender-2.-utgave</resource>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
@@ -983,11 +1075,61 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2009. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Sluttrapport-lederutviklingsprogrammet-Kunstens-kvinner</item_number>
+               <item_number>FoU-resultat 2009</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2009/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2009. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Sluttrapport-lederutviklingsprogrammet-Kunstens-kvinner</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2009/3</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Sluttrapport-lederutviklingsprogrammet-Kunstens-kvinner</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-fou-resultater</title>
+               </titles>
+               <issn>AFI-fou-resultater</issn>
+            </series_metadata>
+            <!--Contributors: Halrynjo, Sigtona, Arild Henrik Steen & Kjersti Thorbjørnsrud-->
+            <!--Primary contributor: Sigtona Halrynjo-->
+            <!--Secondary contributors: Arild Henrik Steen & Kjersti Thorbjørnsrud-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Sigtona</given_name>
+                  <surname>Halrynjo</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Arild Henrik</given_name>
+                  <surname>Steen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Kjersti</given_name>
+                  <surname>Thorbjørnsrud</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Norsk arbeidsliv - storm eller stille.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2009</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>FoU-resultat 2009</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/fou/2009/4</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2009</resource>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
@@ -1029,10 +1171,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2009. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Prosjekt-Ny-tilrettelagt-turnus-for-renholdere-paa-Feiring-klinikken</item_number>
+               <item_number>FoU-resultat 2009</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2009/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2009. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Prosjekt-Ny-tilrettelagt-turnus-for-renholdere-paa-Feiring-klinikken</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2009/5</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Prosjekt-Ny-tilrettelagt-turnus-for-renholdere-paa-Feiring-klinikken</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1091,153 +1233,11 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Høgskolen i Oslo, FoU-resultat 2009. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Paa-oppdrag</item_number>
+               <item_number>FoU-resultat 2009</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2009/ Oslo: Høgskolen i Oslo, FoU-resultat 2009. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Paa-oppdrag</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2009/6</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Paa-oppdrag</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-               <issn>AFI-fou-resultater</issn>
-            </series_metadata>
-            <!--Contributors: Amble, Nina & Elisabeth Gjerberg-->
-            <!--Primary contributor: Nina Amble-->
-            <!--Secondary contributors: Elisabeth Gjerberg-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_name>Nina</given_name>
-                  <surname>Amble</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_name>Elisabeth</given_name>
-                  <surname>Gjerberg</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Livspuslespillet. Partssammensatt prosjekt: Undersøkelse vedrørende balanse arbeid-familie, blant norske kvinner som arbeider som ledere. Sluttrapport.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2009</year>
-            </publication_date>
-            <publisher>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-               <publisher_place>Oslo</publisher_place>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2009. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Livspuslespillet2</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2009/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2009. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Livspuslespillet2</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Livspuslespillet2</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-               <issn>AFI-fou-resultater</issn>
-            </series_metadata>
-            <!--Contributors: Amble, Nina & Elisabeth Gjerberg-->
-            <!--Primary contributor: Nina Amble-->
-            <!--Secondary contributors: Elisabeth Gjerberg-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_name>Nina</given_name>
-                  <surname>Amble</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_name>Elisabeth</given_name>
-                  <surname>Gjerberg</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Hjerte – hode – hender. Et refleksjonsverktøy for mestring i pleie og omsorgstjenesten. 2. utgave.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2009</year>
-            </publication_date>
-            <publisher>
-               <publisher_name>Arbeidsforskningsinstituttet og Sosial- og helsedirektoratet (distributør)</publisher_name>
-               <publisher_place>Oslo</publisher_place>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet og Sosial- og helsedirektoratet (distributør), FoU-resultat 2009. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hjerte-hode-hender-2.-utgave</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2009/ Oslo: Arbeidsforskningsinstituttet og Sosial- og helsedirektoratet (distributør), FoU-resultat 2009. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hjerte-hode-hender-2.-utgave</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hjerte-hode-hender-2.-utgave</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-               <issn>AFI-fou-resultater</issn>
-            </series_metadata>
-            <!--Contributors: Halrynjo, Sigtona, Arild Henrik Steen & Kjersti Thorbjørnsrud-->
-            <!--Primary contributor: Sigtona Halrynjo-->
-            <!--Secondary contributors: Arild Henrik Steen & Kjersti Thorbjørnsrud-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_name>Sigtona</given_name>
-                  <surname>Halrynjo</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_name>Arild Henrik</given_name>
-                  <surname>Steen</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_name>Kjersti</given_name>
-                  <surname>Thorbjørnsrud</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Norsk arbeidsliv - storm eller stille.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2009</year>
-            </publication_date>
-            <publisher>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-               <publisher_place>Oslo</publisher_place>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2009. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2009</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2009/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2009. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2009</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2009</resource>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
@@ -1279,11 +1279,57 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2010. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Samarbeid-om-mangfold</item_number>
+               <item_number>FoU-resultat 2010</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2010/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2010. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Samarbeid-om-mangfold</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2010/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Samarbeid-om-mangfold</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-fou-resultater</title>
+               </titles>
+               <issn>AFI-fou-resultater</issn>
+            </series_metadata>
+            <!--Contributors: Halrynjo, Sigtona & Arild Henrik Steen-->
+            <!--Primary contributor: Sigtona Halrynjo-->
+            <!--Secondary contributors: Arild Henrik Steen-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Sigtona</given_name>
+                  <surname>Halrynjo</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Arild Henrik</given_name>
+                  <surname>Steen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Norsk arbeidsliv 2010. Høytrykk for mange – utrygt for noen. Hefte utgitt til YS-konferansen oktober 2010. Bestilles fra YS sentralt.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2010</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>FoU-resultat 2010</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/fou/2010/2</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2010</resource>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
@@ -1329,195 +1375,11 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number>Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2010. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Baerekraftige-familier-likestilte-livsloep</item_number>
+               <item_number>FoU-resultat 2010</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2010/Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2010. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Baerekraftige-familier-likestilte-livsloep</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2010/3</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Baerekraftige-familier-likestilte-livsloep</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-               <issn>AFI-fou-resultater</issn>
-            </series_metadata>
-            <!--Contributors: Halrynjo, Sigtona & Arild Henrik Steen-->
-            <!--Primary contributor: Sigtona Halrynjo-->
-            <!--Secondary contributors: Arild Henrik Steen-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_name>Sigtona</given_name>
-                  <surname>Halrynjo</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_name>Arild Henrik</given_name>
-                  <surname>Steen</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Norsk arbeidsliv 2010. Høytrykk for mange – utrygt for noen. Hefte utgitt til YS-konferansen oktober 2010. Bestilles fra YS sentralt.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2010</year>
-            </publication_date>
-            <publisher>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-               <publisher_place>Oslo</publisher_place>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2010. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2010</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2010/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2010. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2010</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2010</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-               <issn>AFI-fou-resultater</issn>
-            </series_metadata>
-            <!--Contributors: Enehaug, Heidi & Steinar Widding-->
-            <!--Primary contributor: Heidi Enehaug-->
-            <!--Secondary contributors: Steinar Widding-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_name>Heidi</given_name>
-                  <surname>Enehaug</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_name>Steinar</given_name>
-                  <surname>Widding</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Språkopplæring i bedrift. En veiviser.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2011</year>
-            </publication_date>
-            <publisher>
-               <publisher_name>Arbeidsforskningsinstuttet</publisher_name>
-               <publisher_place>Oslo</publisher_place>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstuttet, Andre FoU-resultat 2011. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Spraakopplaering-i-bedrift</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2011/ Oslo: Arbeidsforskningsinstuttet, Andre FoU-resultat 2011. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Spraakopplaering-i-bedrift</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Spraakopplaering-i-bedrift</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-               <issn>AFI-fou-resultater</issn>
-            </series_metadata>
-            <!--Contributors: Hilsen, Anne Inga & Asbjørn Grimsmo-->
-            <!--Primary contributor: Anne Inga Hilsen-->
-            <!--Secondary contributors: Asbjørn Grimsmo-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_name>Anne Inga</given_name>
-                  <surname>Hilsen</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_name>Asbjørn</given_name>
-                  <surname>Grimsmo</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Underveisrapport fra prosjektet Gravide i handelsnæringen.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2011</year>
-            </publication_date>
-            <publisher>
-               <publisher_name>Arbeidsforskningsinstuttet</publisher_name>
-               <publisher_place>Oslo</publisher_place>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstuttet, Andre FoU-resultat 2011. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Underveisrapport-fra-prosjektet-Gravide-i-handelsnaeringen</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2011/ Oslo: Arbeidsforskningsinstuttet, Andre FoU-resultat 2011. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Underveisrapport-fra-prosjektet-Gravide-i-handelsnaeringen</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Underveisrapport-fra-prosjektet-Gravide-i-handelsnaeringen</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-               <issn>AFI-fou-resultater</issn>
-            </series_metadata>
-            <!--Contributors: Svare, Helge & Lars Klemsdag-->
-            <!--Primary contributor: Helge Svare-->
-            <!--Secondary contributors: Lars Klemsdag-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_name>Helge</given_name>
-                  <surname>Svare</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_name>Lars</given_name>
-                  <surname>Klemsdag</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Mestring i arbeidet. Håndbok for mestringsgrupper.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2011</year>
-            </publication_date>
-            <publisher>
-               <publisher_name>Arbeidsforskningsinstuttet</publisher_name>
-               <publisher_place>Oslo</publisher_place>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstuttet, Andre FoU-resultat 2011. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Mestring-i-arbeidet</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2011/ Oslo: Arbeidsforskningsinstuttet, Andre FoU-resultat 2011. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Mestring-i-arbeidet</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Mestring-i-arbeidet</resource>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
@@ -1563,11 +1425,57 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstuttet, Andre FoU-resultat 2011. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2011</item_number>
+               <item_number>FoU-resultat 2011</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2011/ Oslo: Arbeidsforskningsinstuttet, Andre FoU-resultat 2011. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2011</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2011/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2011</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-fou-resultater</title>
+               </titles>
+               <issn>AFI-fou-resultater</issn>
+            </series_metadata>
+            <!--Contributors: Enehaug, Heidi & Steinar Widding-->
+            <!--Primary contributor: Heidi Enehaug-->
+            <!--Secondary contributors: Steinar Widding-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Heidi</given_name>
+                  <surname>Enehaug</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Steinar</given_name>
+                  <surname>Widding</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Språkopplæring i bedrift. En veiviser.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2011</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstuttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>FoU-resultat 2011</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/fou/2011/2</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Spraakopplaering-i-bedrift</resource>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
@@ -1609,10 +1517,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstuttet, Andre FoU-resultat 2011. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Kolslinjen-800-89-333</item_number>
+               <item_number>FoU-resultat 2011</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2011/ Oslo: Arbeidsforskningsinstuttet, Andre FoU-resultat 2011. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Kolslinjen-800-89-333</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2011/3</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Kolslinjen-800-89-333</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1625,27 +1533,27 @@
                </titles>
                <issn>AFI-fou-resultater</issn>
             </series_metadata>
-            <!--Contributors: Widding, Steinar & Heidi Enehaug-->
-            <!--Primary contributor: Steinar Widding-->
-            <!--Secondary contributors: Heidi Enehaug-->
+            <!--Contributors: Hilsen, Anne Inga & Asbjørn Grimsmo-->
+            <!--Primary contributor: Anne Inga Hilsen-->
+            <!--Secondary contributors: Asbjørn Grimsmo-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
-                  <given_name>Steinar</given_name>
-                  <surname>Widding</surname>
+                  <given_name>Anne Inga</given_name>
+                  <surname>Hilsen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_name>Heidi</given_name>
-                  <surname>Enehaug</surname>
+                  <given_name>Asbjørn</given_name>
+                  <surname>Grimsmo</surname>
                </person_name>
             </contributors>
             <titles>
-               <title>Livsfaseorienterte personalstrategier i byggenæringen. Idealer og realiteter.</title>
+               <title>Underveisrapport fra prosjektet Gravide i handelsnæringen.</title>
             </titles>
             <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2012</year>
+               <year>2011</year>
             </publication_date>
             <publisher>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_name>Arbeidsforskningsinstuttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
             <institution>
@@ -1655,11 +1563,11 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2012. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Livsfaseorienterte-personalstrategier-i-byggenaeringen</item_number>
+               <item_number>FoU-resultat 2011</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2012/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2012. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Livsfaseorienterte-personalstrategier-i-byggenaeringen</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Livsfaseorienterte-personalstrategier-i-byggenaeringen</resource>
+               <doi>http://doi.org/10.7577/afi/fou/2011/4</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Underveisrapport-fra-prosjektet-Gravide-i-handelsnaeringen</resource>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
@@ -1671,69 +1579,27 @@
                </titles>
                <issn>AFI-fou-resultater</issn>
             </series_metadata>
-            <!--Contributors: Legard, Sveinung-->
-            <!--Primary contributor: Sveinung Legard-->
-            <!--Secondary contributors: -->
+            <!--Contributors: Svare, Helge & Lars Klemsdag-->
+            <!--Primary contributor: Helge Svare-->
+            <!--Secondary contributors: Lars Klemsdag-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
-                  <given_name>Sveinung</given_name>
-                  <surname>Legard</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Overgangen mellom utdanning og arbeid for unge med nedsatt funksjonsevne. Hovedfunn fra en spørreundersøkelse gjennomført av Arbeidsforskningsinstituttet.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2012</year>
-            </publication_date>
-            <publisher>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-               <publisher_place>Oslo</publisher_place>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2012. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Overgang-mellom-utdanning-og-arbeid-for-unge-med-nedsatt-funksjonsevne</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2012/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2012. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Overgang-mellom-utdanning-og-arbeid-for-unge-med-nedsatt-funksjonsevne</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Overgang-mellom-utdanning-og-arbeid-for-unge-med-nedsatt-funksjonsevne</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-               <issn>AFI-fou-resultater</issn>
-            </series_metadata>
-            <!--Contributors: Schafft, Angelika & Øystein Spjelkavik-->
-            <!--Primary contributor: Angelika Schafft-->
-            <!--Secondary contributors: Øystein Spjelkavik-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_name>Angelika</given_name>
-                  <surname>Schafft</surname>
+                  <given_name>Helge</given_name>
+                  <surname>Svare</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_name>Øystein</given_name>
-                  <surname>Spjelkavik</surname>
+                  <given_name>Lars</given_name>
+                  <surname>Klemsdag</surname>
                </person_name>
             </contributors>
             <titles>
-               <title>Evaluering av prosjektet ”Samordning av tiltak for tilbakeføring - fra fengsel til kvalifiseringsprogram”. Underveisrapport.</title>
+               <title>Mestring i arbeidet. Håndbok for mestringsgrupper.</title>
             </titles>
             <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2012</year>
+               <year>2011</year>
             </publication_date>
             <publisher>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_name>Arbeidsforskningsinstuttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
             <institution>
@@ -1743,95 +1609,11 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2012. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-prosjektet-Samordning-av-tiltak-for-tilbakefoering-fra-fengsel-til-kvalifiseringsprogram</item_number>
+               <item_number>FoU-resultat 2011</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2012/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2012. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-prosjektet-Samordning-av-tiltak-for-tilbakefoering-fra-fengsel-til-kvalifiseringsprogram</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-prosjektet-Samordning-av-tiltak-for-tilbakefoering-fra-fengsel-til-kvalifiseringsprogram</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-               <issn>AFI-fou-resultater</issn>
-            </series_metadata>
-            <!--Contributors: Neumann, Cecilie Basberg-->
-            <!--Primary contributor: Cecilie Basberg Neumann-->
-            <!--Secondary contributors: -->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_name>Cecilie Basberg</given_name>
-                  <surname>Neumann</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Midtveisevaluering av prosjekt for universitetspedagogikk ved Universitetet i Stavanger.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2012</year>
-            </publication_date>
-            <publisher>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-               <publisher_place>Oslo</publisher_place>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2012. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Midtveisevaluering-av-prosjekt-for-universitetspedagogikk-ved-Universitetet-i-Stavanger</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2012/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2012. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Midtveisevaluering-av-prosjekt-for-universitetspedagogikk-ved-Universitetet-i-Stavanger</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Midtveisevaluering-av-prosjekt-for-universitetspedagogikk-ved-Universitetet-i-Stavanger</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-               <issn>AFI-fou-resultater</issn>
-            </series_metadata>
-            <!--Contributors: Bergene, Ann Cecilie-->
-            <!--Primary contributor: Ann Cecilie Bergene-->
-            <!--Secondary contributors: -->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_name>Ann Cecilie</given_name>
-                  <surname>Bergene</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>En fagbevegelse for fremtiden? Analyse av trender, utfordringer og muligheter for fagorganisering generelt, i Norge og UNIO spesielt.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2012</year>
-            </publication_date>
-            <publisher>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-               <publisher_place>Oslo</publisher_place>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2012. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-fagbevegelse-for-fremtiden</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2012/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2012. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-fagbevegelse-for-fremtiden</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-fagbevegelse-for-fremtiden</resource>
+               <doi>http://doi.org/10.7577/afi/fou/2011/5</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Mestring-i-arbeidet</resource>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
@@ -1881,11 +1663,187 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number>Widding, Steinar, Asbjørn Grimsmo, Kirsti Jacobsen &amp; Annik Apall Austad (2012): Conflict Prevention and Management. A Survival Kit for Small Workplaces. European Commission under the Life Long Learning program Leonardo da Vinci – Transfer og Innovation, Andre FoU-resultat 2012. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Conflict-prevention-and-Management</item_number>
+               <item_number>FoU-resultat 2012</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2012/Widding, Steinar, Asbjørn Grimsmo, Kirsti Jacobsen &amp; Annik Apall Austad (2012): Conflict Prevention and Management. A Survival Kit for Small Workplaces. European Commission under the Life Long Learning program Leonardo da Vinci – Transfer og Innovation, Andre FoU-resultat 2012. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Conflict-prevention-and-Management</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2012/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Conflict-prevention-and-Management</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-fou-resultater</title>
+               </titles>
+               <issn>AFI-fou-resultater</issn>
+            </series_metadata>
+            <!--Contributors: Brøgger, Benedicte-->
+            <!--Primary contributor: Benedicte Brøgger-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Benedicte</given_name>
+                  <surname>Brøgger</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Evaluation report on the NECA-NHO collaboration program 2003-2011.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2012</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>FoU-resultat 2012</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/fou/2012/2</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluation-report-on-the-NECA-NHO-collaboration-program-2003-2011</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-fou-resultater</title>
+               </titles>
+               <issn>AFI-fou-resultater</issn>
+            </series_metadata>
+            <!--Contributors: Widding, Steinar & Heidi Enehaug-->
+            <!--Primary contributor: Steinar Widding-->
+            <!--Secondary contributors: Heidi Enehaug-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Steinar</given_name>
+                  <surname>Widding</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Heidi</given_name>
+                  <surname>Enehaug</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Livsfaseorienterte personalstrategier i byggenæringen. Idealer og realiteter.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2012</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>FoU-resultat 2012</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/fou/2012/3</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Livsfaseorienterte-personalstrategier-i-byggenaeringen</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-fou-resultater</title>
+               </titles>
+               <issn>AFI-fou-resultater</issn>
+            </series_metadata>
+            <!--Contributors: Legard, Sveinung-->
+            <!--Primary contributor: Sveinung Legard-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Sveinung</given_name>
+                  <surname>Legard</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Overgangen mellom utdanning og arbeid for unge med nedsatt funksjonsevne. Hovedfunn fra en spørreundersøkelse gjennomført av Arbeidsforskningsinstituttet.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2012</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>FoU-resultat 2012</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/fou/2012/4</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Overgang-mellom-utdanning-og-arbeid-for-unge-med-nedsatt-funksjonsevne</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-fou-resultater</title>
+               </titles>
+               <issn>AFI-fou-resultater</issn>
+            </series_metadata>
+            <!--Contributors: Schafft, Angelika & Øystein Spjelkavik-->
+            <!--Primary contributor: Angelika Schafft-->
+            <!--Secondary contributors: Øystein Spjelkavik-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Angelika</given_name>
+                  <surname>Schafft</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Øystein</given_name>
+                  <surname>Spjelkavik</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Evaluering av prosjektet ”Samordning av tiltak for tilbakeføring - fra fengsel til kvalifiseringsprogram”. Underveisrapport.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2012</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>FoU-resultat 2012</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/fou/2012/5</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-prosjektet-Samordning-av-tiltak-for-tilbakefoering-fra-fengsel-til-kvalifiseringsprogram</resource>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
@@ -1923,10 +1881,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number>Schafft, Angelika. (2012). Jobpics – et billedbasert interesseutforskingsverktøy. Erfaringsrapport. Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2012. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Jobpics</item_number>
+               <item_number>FoU-resultat 2012</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2012/Schafft, Angelika. (2012). Jobpics – et billedbasert interesseutforskingsverktøy. Erfaringsrapport. Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2012. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Jobpics</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2012/6</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Jobpics</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1973,10 +1931,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2012. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2012</item_number>
+               <item_number>FoU-resultat 2012</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2012/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2012. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2012</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2012/7</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2012</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -1989,17 +1947,17 @@
                </titles>
                <issn>AFI-fou-resultater</issn>
             </series_metadata>
-            <!--Contributors: Brøgger, Benedicte-->
-            <!--Primary contributor: Benedicte Brøgger-->
+            <!--Contributors: Neumann, Cecilie Basberg-->
+            <!--Primary contributor: Cecilie Basberg Neumann-->
             <!--Secondary contributors: -->
             <contributors>
                <person_name contributor_role="author" sequence="first">
-                  <given_name>Benedicte</given_name>
-                  <surname>Brøgger</surname>
+                  <given_name>Cecilie Basberg</given_name>
+                  <surname>Neumann</surname>
                </person_name>
             </contributors>
             <titles>
-               <title>Evaluation report on the NECA-NHO collaboration program 2003-2011.</title>
+               <title>Midtveisevaluering av prosjekt for universitetspedagogikk ved Universitetet i Stavanger.</title>
             </titles>
             <publication_date media_type="online"><!--TODO: What about printed publication date?-->
                <year>2012</year>
@@ -2015,11 +1973,53 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2012. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluation-report-on-the-NECA-NHO-collaboration-program-2003-2011</item_number>
+               <item_number>FoU-resultat 2012</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2012/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2012. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluation-report-on-the-NECA-NHO-collaboration-program-2003-2011</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluation-report-on-the-NECA-NHO-collaboration-program-2003-2011</resource>
+               <doi>http://doi.org/10.7577/afi/fou/2012/8</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Midtveisevaluering-av-prosjekt-for-universitetspedagogikk-ved-Universitetet-i-Stavanger</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-fou-resultater</title>
+               </titles>
+               <issn>AFI-fou-resultater</issn>
+            </series_metadata>
+            <!--Contributors: Bergene, Ann Cecilie-->
+            <!--Primary contributor: Ann Cecilie Bergene-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Ann Cecilie</given_name>
+                  <surname>Bergene</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>En fagbevegelse for fremtiden? Analyse av trender, utfordringer og muligheter for fagorganisering generelt, i Norge og UNIO spesielt.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2012</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>FoU-resultat 2012</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/fou/2012/9</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-fagbevegelse-for-fremtiden</resource>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
@@ -2065,57 +2065,11 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2013. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-Verneombudstjenesten-i-Statoil-UPN</item_number>
+               <item_number>FoU-resultat 2013</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2013/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2013. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-Verneombudstjenesten-i-Statoil-UPN</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2013/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-Verneombudstjenesten-i-Statoil-UPN</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-               <issn>AFI-fou-resultater</issn>
-            </series_metadata>
-            <!--Contributors: Terjesen, Hans Christoffer Aargaard & Anne Inga Hilsen-->
-            <!--Primary contributor: Hans Christoffer Aargaard Terjesen-->
-            <!--Secondary contributors: Anne Inga Hilsen-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_name>Hans Christoffer Aargaard</given_name>
-                  <surname>Terjesen</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_name>Anne Inga</given_name>
-                  <surname>Hilsen</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Samarbeid om redusert sykefravær i prosessindustrien.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2013</year>
-            </publication_date>
-            <publisher>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-               <publisher_place>Oslo</publisher_place>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2013. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Samarbeid-om-redusert-sykefravaer-i-prosessindustrien</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2013/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2013. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Samarbeid-om-redusert-sykefravaer-i-prosessindustrien</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Samarbeid-om-redusert-sykefravaer-i-prosessindustrien</resource>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
@@ -2169,11 +2123,57 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2013. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2013</item_number>
+               <item_number>FoU-resultat 2013</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2013/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2013. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2013</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2013/2</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2013</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-fou-resultater</title>
+               </titles>
+               <issn>AFI-fou-resultater</issn>
+            </series_metadata>
+            <!--Contributors: Terjesen, Hans Christoffer Aargaard & Anne Inga Hilsen-->
+            <!--Primary contributor: Hans Christoffer Aargaard Terjesen-->
+            <!--Secondary contributors: Anne Inga Hilsen-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Hans Christoffer Aargaard</given_name>
+                  <surname>Terjesen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Anne Inga</given_name>
+                  <surname>Hilsen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Samarbeid om redusert sykefravær i prosessindustrien.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2013</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>FoU-resultat 2013</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/fou/2013/3</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Samarbeid-om-redusert-sykefravaer-i-prosessindustrien</resource>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
@@ -2215,10 +2215,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2014. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-Forsoeket-Arbeidsavklaringspenger-AAP-som-loennstilskudd</item_number>
+               <item_number>FoU-resultat 2014</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2014/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2014. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-Forsoeket-Arbeidsavklaringspenger-AAP-som-loennstilskudd</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2014/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-Forsoeket-Arbeidsavklaringspenger-AAP-som-loennstilskudd</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2269,10 +2269,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2014. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-forsoeket-Kjerneoppgaver-i-NAV</item_number>
+               <item_number>FoU-resultat 2014</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2014/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2014. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-forsoeket-Kjerneoppgaver-i-NAV</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2014/2</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-forsoeket-Kjerneoppgaver-i-NAV</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2311,10 +2311,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2014. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-organisasjon-i-utvikling</item_number>
+               <item_number>FoU-resultat 2014</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2014/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2014. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-organisasjon-i-utvikling</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2014/3</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-organisasjon-i-utvikling</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2357,11 +2357,61 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2014. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Lederutdanning-innen-helse-og-omsorgssektoren</item_number>
+               <item_number>FoU-resultat 2014</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2014/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2014. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Lederutdanning-innen-helse-og-omsorgssektoren</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2014/4</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Lederutdanning-innen-helse-og-omsorgssektoren</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-fou-resultater</title>
+               </titles>
+               <issn>AFI-fou-resultater</issn>
+            </series_metadata>
+            <!--Contributors: Bergene, Ann Cecilie, Vilde Hoff Bernstrøm & Arild Henrik Steen-->
+            <!--Primary contributor: Ann Cecilie Bergene-->
+            <!--Secondary contributors: Vilde Hoff Bernstrøm & Arild Henrik Steen-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Ann Cecilie</given_name>
+                  <surname>Bergene</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Vilde Hoff</given_name>
+                  <surname>Bernstrøm</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Arild Henrik</given_name>
+                  <surname>Steen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Norsk arbeidsliv 2014. Økt intensitet – med måling eller tillit.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2014</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>FoU-resultat 2014</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/fou/2014/5</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2014</resource>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
@@ -2403,10 +2453,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2014. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Nyskaping-i-demensomsorgen</item_number>
+               <item_number>FoU-resultat 2014</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2014/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2014. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Nyskaping-i-demensomsorgen</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2014/6</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Nyskaping-i-demensomsorgen</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2453,10 +2503,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, Andre FoU-resultat 2014. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-kontrollert-framtid</item_number>
+               <item_number>FoU-resultat 2014</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2014/ Oslo: Arbeidsforskningsinstituttet, Andre FoU-resultat 2014. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-kontrollert-framtid</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2014/7</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-kontrollert-framtid</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2469,28 +2519,20 @@
                </titles>
                <issn>AFI-fou-resultater</issn>
             </series_metadata>
-            <!--Contributors: Bergene, Ann Cecilie, Vilde Hoff Bernstrøm & Arild Henrik Steen-->
-            <!--Primary contributor: Ann Cecilie Bergene-->
-            <!--Secondary contributors: Vilde Hoff Bernstrøm & Arild Henrik Steen-->
+            <!--Contributors: Schafft, Angelika-->
+            <!--Primary contributor: Angelika Schafft-->
+            <!--Secondary contributors: -->
             <contributors>
                <person_name contributor_role="author" sequence="first">
-                  <given_name>Ann Cecilie</given_name>
-                  <surname>Bergene</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_name>Vilde Hoff</given_name>
-                  <surname>Bernstrøm</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_name>Arild Henrik</given_name>
-                  <surname>Steen</surname>
+                  <given_name>Angelika</given_name>
+                  <surname>Schafft</surname>
                </person_name>
             </contributors>
             <titles>
-               <title>Norsk arbeidsliv 2014. Økt intensitet – med måling eller tillit.</title>
+               <title>En ny rolle for NAV i fengsel. Tilleggsrapport.</title>
             </titles>
             <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2014</year>
+               <year>2015</year>
             </publication_date>
             <publisher>
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
@@ -2503,11 +2545,103 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2014. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2014</item_number>
+               <item_number>FoU-resultat 2015</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2014/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2014. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2014</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2014</resource>
+               <doi>http://doi.org/10.7577/afi/fou/2015/1</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-ny-rolle-for-NAV-i-fengsel2</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-fou-resultater</title>
+               </titles>
+               <issn>AFI-fou-resultater</issn>
+            </series_metadata>
+            <!--Contributors: Asbjørn Grimsmo, Svenn-Erik Mamelund & Øystein Spjelkavik-->
+            <!--Primary contributor: Svenn-Erik Mamelund Asbjørn Grimsmo-->
+            <!--Secondary contributors: Øystein Spjelkavik-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Svenn-Erik Mamelund Asbjørn</given_name>
+                  <surname>Grimsmo</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Øystein</given_name>
+                  <surname>Spjelkavik</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Evaluering av forsøket Kjerneoppgaver i NAV. Delrapport 2.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2015</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>FoU-resultat 2015</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/fou/2015/2</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-forsoeket-Kjerneoppgaver-i-NAV2</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-fou-resultater</title>
+               </titles>
+               <issn>AFI-fou-resultater</issn>
+            </series_metadata>
+            <!--Contributors: Pettersen, Karen-Sofie & Øystein Spjelkavik i samarbeid med Proba samfunnsanalyse-->
+            <!--Primary contributor: Karen-Sofie Pettersen-->
+            <!--Secondary contributors: Øystein Spjelkavik i samarbeid med Proba samfunnsanalyse-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Karen-Sofie</given_name>
+                  <surname>Pettersen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Øystein Spjelkavik i samarbeid med Proba</given_name>
+                  <surname>samfunnsanalyse</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>E valuering av «Forsøket Arbeidsavklarings penger (AAP) som lønnstilskudd”. Delrapport 2.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2015</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>FoU-resultat 2015</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/fou/2015/3</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-Forsoeket-Arbeidsavklaringspenger-AAP-som-loennstilskudd2</resource>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
@@ -2565,11 +2699,65 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2015. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hvordan-skape-et-rettssikkert-lavterskeltilbud</item_number>
+               <item_number>FoU-resultat 2015</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2015/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2015. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hvordan-skape-et-rettssikkert-lavterskeltilbud</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2015/4</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hvordan-skape-et-rettssikkert-lavterskeltilbud</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-fou-resultater</title>
+               </titles>
+               <issn>AFI-fou-resultater</issn>
+            </series_metadata>
+            <!--Contributors: Bergene, Anne Cecilie, Ingar Brattbakk, Cathrine Egeland & Arild Henrik Steen-->
+            <!--Primary contributor: Anne Cecilie Bergene-->
+            <!--Secondary contributors: Ingar Brattbakk, Cathrine Egeland & Arild Henrik Steen-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Anne Cecilie</given_name>
+                  <surname>Bergene</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Ingar</given_name>
+                  <surname>Brattbakk</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Cathrine</given_name>
+                  <surname>Egeland</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Arild Henrik</given_name>
+                  <surname>Steen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Norsk arbeidsliv 2015. «Det nye arbeidslivet»: hvem, hva, hvor?</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2015</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <institution>
+               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
+               <institution_acronym>HiOA</institution_acronym>
+               <institution_place>Oslo</institution_place>
+               <institution_department>Arbeidsforskningsinstituttet</institution_department>
+            </institution>
+            <publisher_item>
+               <item_number>FoU-resultat 2015</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>http://doi.org/10.7577/afi/fou/2015/5</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2015</resource>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
@@ -2611,10 +2799,10 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2015. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Har-flygeledere-hoeyere-doedelighet-enn-sammenliknbare-yrkesgrupper</item_number>
+               <item_number>FoU-resultat 2015</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2015/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2015. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Har-flygeledere-hoeyere-doedelighet-enn-sammenliknbare-yrkesgrupper</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2015/6</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Har-flygeledere-hoeyere-doedelighet-enn-sammenliknbare-yrkesgrupper</resource>
             </doi_data>
          </report-paper_series_metadata>
@@ -2665,199 +2853,11 @@
                <institution_department>Arbeidsforskningsinstituttet</institution_department>
             </institution>
             <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2015. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Terskler-i-barnevernet</item_number>
+               <item_number>FoU-resultat 2015</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2015/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2015. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Terskler-i-barnevernet</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2015/7</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Terskler-i-barnevernet</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-               <issn>AFI-fou-resultater</issn>
-            </series_metadata>
-            <!--Contributors: Schafft, Angelika-->
-            <!--Primary contributor: Angelika Schafft-->
-            <!--Secondary contributors: -->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_name>Angelika</given_name>
-                  <surname>Schafft</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>En ny rolle for NAV i fengsel. Tilleggsrapport.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2015</year>
-            </publication_date>
-            <publisher>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-               <publisher_place>Oslo</publisher_place>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2015. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-ny-rolle-for-NAV-i-fengsel2</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2015/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2015. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-ny-rolle-for-NAV-i-fengsel2</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-ny-rolle-for-NAV-i-fengsel2</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-               <issn>AFI-fou-resultater</issn>
-            </series_metadata>
-            <!--Contributors: Asbjørn Grimsmo, Svenn-Erik Mamelund & Øystein Spjelkavik-->
-            <!--Primary contributor: Svenn-Erik Mamelund Asbjørn Grimsmo-->
-            <!--Secondary contributors: Øystein Spjelkavik-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_name>Svenn-Erik Mamelund Asbjørn</given_name>
-                  <surname>Grimsmo</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_name>Øystein</given_name>
-                  <surname>Spjelkavik</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Evaluering av forsøket Kjerneoppgaver i NAV. Delrapport 2.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2015</year>
-            </publication_date>
-            <publisher>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-               <publisher_place>Oslo</publisher_place>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2015. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-forsoeket-Kjerneoppgaver-i-NAV2</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2015/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2015. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-forsoeket-Kjerneoppgaver-i-NAV2</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-forsoeket-Kjerneoppgaver-i-NAV2</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-               <issn>AFI-fou-resultater</issn>
-            </series_metadata>
-            <!--Contributors: Pettersen, Karen-Sofie & Øystein Spjelkavik i samarbeid med Proba samfunnsanalyse-->
-            <!--Primary contributor: Karen-Sofie Pettersen-->
-            <!--Secondary contributors: Øystein Spjelkavik i samarbeid med Proba samfunnsanalyse-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_name>Karen-Sofie</given_name>
-                  <surname>Pettersen</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_name>Øystein Spjelkavik i samarbeid med Proba</given_name>
-                  <surname>samfunnsanalyse</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>E valuering av «Forsøket Arbeidsavklarings penger (AAP) som lønnstilskudd”. Delrapport 2.</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2015</year>
-            </publication_date>
-            <publisher>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-               <publisher_place>Oslo</publisher_place>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2015. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-Forsoeket-Arbeidsavklaringspenger-AAP-som-loennstilskudd2</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2015/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2015. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-Forsoeket-Arbeidsavklaringspenger-AAP-som-loennstilskudd2</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-Forsoeket-Arbeidsavklaringspenger-AAP-som-loennstilskudd2</resource>
-            </doi_data>
-         </report-paper_series_metadata>
-      </report-paper>
-      <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-               <issn>AFI-fou-resultater</issn>
-            </series_metadata>
-            <!--Contributors: Bergene, Anne Cecilie, Ingar Brattbakk, Cathrine Egeland & Arild Henrik Steen-->
-            <!--Primary contributor: Anne Cecilie Bergene-->
-            <!--Secondary contributors: Ingar Brattbakk, Cathrine Egeland & Arild Henrik Steen-->
-            <contributors>
-               <person_name contributor_role="author" sequence="first">
-                  <given_name>Anne Cecilie</given_name>
-                  <surname>Bergene</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_name>Ingar</given_name>
-                  <surname>Brattbakk</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_name>Cathrine</given_name>
-                  <surname>Egeland</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_name>Arild Henrik</given_name>
-                  <surname>Steen</surname>
-               </person_name>
-            </contributors>
-            <titles>
-               <title>Norsk arbeidsliv 2015. «Det nye arbeidslivet»: hvem, hva, hvor?</title>
-            </titles>
-            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
-               <year>2015</year>
-            </publication_date>
-            <publisher>
-               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-               <publisher_place>Oslo</publisher_place>
-            </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
-            <publisher_item>
-               <item_number> Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2015. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2015</item_number>
-            </publisher_item>
-            <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2015/ Oslo: Arbeidsforskningsinstituttet, FoU-resultat 2015. http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2015</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2015</resource>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
