@@ -4,8 +4,8 @@
            version="4.3.4"
            xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd">
    <head>
-      <doi_batch_id>hioa_20160512152947</doi_batch_id>
-      <timestamp>20160512152947</timestamp>
+      <doi_batch_id>hioa_20160512154532</doi_batch_id>
+      <timestamp>20160512154532</timestamp>
       <depositor>
          <depositor_name>Eirik Hanssen</depositor_name>
          <email_address>ojs@hioa.no</email_address>
@@ -19,7 +19,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Heen, Hanne, Grethe Moen Johansen, Hans Christian Sørhaug-->
             <!--Primary contributor: Hanne Heen-->
@@ -69,7 +68,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Schafft, Angelika-->
             <!--Primary contributor: Angelika Schafft-->
@@ -111,7 +109,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Hilsen, Anne Inga, Kathrine Holstad & Katrine S. Hanssen-->
             <!--Primary contributor: Anne Inga Hilsen-->
@@ -161,7 +158,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Uhrig, Bettina & Michael J. Evans-->
             <!--Primary contributor: Bettina Uhrig-->
@@ -207,7 +203,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Hilsen, Anne Inga & Helle Suseg-->
             <!--Primary contributor: Anne Inga Hilsen-->
@@ -253,7 +248,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Uhrig, Bettina, Michael J. Evans, Kees Meijer-->
             <!--Primary contributor: Bettina Uhrig-->
@@ -303,7 +297,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Hilsen, Anne Inga & Britt Elin Strand-->
             <!--Primary contributor: Anne Inga Hilsen-->
@@ -349,7 +342,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Schafft, Angelika & Kjetil Frøyland-->
             <!--Primary contributor: Angelika Schafft-->
@@ -395,7 +387,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Schafft, Angelika & Ø. Spjelkavik-->
             <!--Primary contributor: Angelika Schafft-->
@@ -441,7 +432,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Amble, Nina & Elisabeth Gjerberg-->
             <!--Primary contributor: Nina Amble-->
@@ -487,7 +477,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Forsberg, Ellen-Marie, Christin Thea Wathne, Bjørg Aase Sørensen & Migle Gamperiene-->
             <!--Primary contributor: Ellen-Marie Forsberg-->
@@ -541,11 +530,10 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
-            <!--Contributors: Salomon, Robert, Anne Inga Hilsen & Whist, Erik-->
+            <!--Contributors: Salomon, Robert, Anne Inga Hilsen & Erik Whist-->
             <!--Primary contributor: Robert Salomon-->
-            <!--Secondary contributors: Anne Inga Hilsen & Whist, Erik-->
+            <!--Secondary contributors: Anne Inga Hilsen & Erik Whist-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Robert</given_name>
@@ -556,12 +544,8 @@
                   <surname>Hilsen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_name>W</given_name>
-                  <surname>hist</surname>
-               </person_name>
-               <person_name contributor_role="author" sequence="additional">
-                  <given_name>E</given_name>
-                  <surname>rik</surname>
+                  <given_name>Erik</given_name>
+                  <surname>Whist</surname>
                </person_name>
             </contributors>
             <titles>
@@ -595,7 +579,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Salomon, R., H. Løvdal & E. M. Osmundsen-->
             <!--Primary contributor: R. Salomon-->
@@ -645,7 +628,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Steen, Jørgen Emaus & Arild H. Steen-->
             <!--Primary contributor: Jørgen Emaus Steen-->
@@ -691,7 +673,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Aas, I. H. Monrad-->
             <!--Primary contributor: I. H. Monrad Aas-->
@@ -733,7 +714,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Forsberg, Ellen-Marie-->
             <!--Primary contributor: Ellen-Marie Forsberg-->
@@ -775,7 +755,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Hilsen, Anne Inga & Nina Amble-->
             <!--Primary contributor: Anne Inga Hilsen-->
@@ -821,7 +800,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Klemsdal, Lars & Helge Svare-->
             <!--Primary contributor: Lars Klemsdal-->
@@ -867,7 +845,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Steen, Arild Henrik-->
             <!--Primary contributor: Arild Henrik Steen-->
@@ -909,7 +886,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Steinum, Trude-->
             <!--Primary contributor: Trude Steinum-->
@@ -951,7 +927,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Amble, Nina & Elisabeth Gjerberg-->
             <!--Primary contributor: Nina Amble-->
@@ -997,7 +972,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Amble, Nina & Elisabeth Gjerberg-->
             <!--Primary contributor: Nina Amble-->
@@ -1043,7 +1017,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Amble, Nina & Øyvind Pålshaugen-->
             <!--Primary contributor: Nina Amble-->
@@ -1089,7 +1062,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Halrynjo, Sigtona, Arild Henrik Steen & Kjersti Thorbjørnsrud-->
             <!--Primary contributor: Sigtona Halrynjo-->
@@ -1139,7 +1111,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Hilsen, Anne Inga & Nina Amble-->
             <!--Primary contributor: Anne Inga Hilsen-->
@@ -1185,7 +1156,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Thilesen, Ragnvald, Olgunn Ranserokken, Sveinung Skule, Marit Stenberg, Arild Henrik Steen & André Alfredsen-->
             <!--Primary contributor: Ragnvald Thilesen-->
@@ -1247,7 +1217,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Hilsen, Anne Inga & Reidun Eggesbø-->
             <!--Primary contributor: Anne Inga Hilsen-->
@@ -1293,7 +1262,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Halrynjo, Sigtona & Arild Henrik Steen-->
             <!--Primary contributor: Sigtona Halrynjo-->
@@ -1339,7 +1307,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Rasmussen, Paal, Pål Klethagen & Helge Svare-->
             <!--Primary contributor: Paal Rasmussen-->
@@ -1389,7 +1356,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Bergene, Ann Cecilie, Arild Henrik Steen & Migle Gamperiene-->
             <!--Primary contributor: Ann Cecilie Bergene-->
@@ -1439,7 +1405,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Enehaug, Heidi & Steinar Widding-->
             <!--Primary contributor: Heidi Enehaug-->
@@ -1485,7 +1450,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Floer, Kristin Elisabeth & Jørgen Emaus Steen-->
             <!--Primary contributor: Kristin Elisabeth Floer-->
@@ -1531,7 +1495,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Hilsen, Anne Inga & Asbjørn Grimsmo-->
             <!--Primary contributor: Anne Inga Hilsen-->
@@ -1577,7 +1540,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Svare, Helge & Lars Klemsdag-->
             <!--Primary contributor: Helge Svare-->
@@ -1623,7 +1585,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Widding, Steinar, Asbjørn Grimsmo, Kirsti Jacobsen & Annik Apall Austad-->
             <!--Primary contributor: Steinar Widding-->
@@ -1677,7 +1638,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Brøgger, Benedicte-->
             <!--Primary contributor: Benedicte Brøgger-->
@@ -1719,7 +1679,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Widding, Steinar & Heidi Enehaug-->
             <!--Primary contributor: Steinar Widding-->
@@ -1765,7 +1724,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Legard, Sveinung-->
             <!--Primary contributor: Sveinung Legard-->
@@ -1807,7 +1765,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Schafft, Angelika & Øystein Spjelkavik-->
             <!--Primary contributor: Angelika Schafft-->
@@ -1853,7 +1810,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Schafft, Angelika.-->
             <!--Primary contributor: Angelika. Schafft-->
@@ -1895,7 +1851,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Bergene, Ann Cecilie, Svenn-Erik Mamelund & Arild Henrik Steen-->
             <!--Primary contributor: Ann Cecilie Bergene-->
@@ -1945,7 +1900,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Neumann, Cecilie Basberg-->
             <!--Primary contributor: Cecilie Basberg Neumann-->
@@ -1987,7 +1941,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Bergene, Ann Cecilie-->
             <!--Primary contributor: Ann Cecilie Bergene-->
@@ -2029,7 +1982,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Fossen, Øystein, Eivind Falkum & Niri Talberg-->
             <!--Primary contributor: Øystein Fossen-->
@@ -2079,7 +2031,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Bergene, Ann Cecilie, Ida Drange, Cathrine Egeland, Svenn-Erik Mamelund & Arild Henrik Steen-->
             <!--Primary contributor: Ann Cecilie Bergene-->
@@ -2137,7 +2088,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Terjesen, Hans Christoffer Aargaard & Anne Inga Hilsen-->
             <!--Primary contributor: Hans Christoffer Aargaard Terjesen-->
@@ -2183,7 +2133,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Pettersen, Karen-Sofie & Øystein Spjelkavik-->
             <!--Primary contributor: Karen-Sofie Pettersen-->
@@ -2229,7 +2178,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Spjelkavik, Øystein, Asbjørn Grimsmo, Svenn-Erik Mamelund & Gudrun Rudningen-->
             <!--Primary contributor: Øystein Spjelkavik-->
@@ -2283,7 +2231,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Reichborn-Kjennerud, Kristin-->
             <!--Primary contributor: Kristin Reichborn-Kjennerud-->
@@ -2325,7 +2272,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Ellingsen, Dag & Vilde Hoff Bernstrøm-->
             <!--Primary contributor: Dag Ellingsen-->
@@ -2371,7 +2317,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Bergene, Ann Cecilie, Vilde Hoff Bernstrøm & Arild Henrik Steen-->
             <!--Primary contributor: Ann Cecilie Bergene-->
@@ -2421,7 +2366,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Fossestøl, Knut & Karen-Sofie Pettersen-->
             <!--Primary contributor: Knut Fossestøl-->
@@ -2467,7 +2411,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Grimsmo, Asbjørn, Anders Underthun & Øystein Fossen-->
             <!--Primary contributor: Asbjørn Grimsmo-->
@@ -2517,7 +2460,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Schafft, Angelika-->
             <!--Primary contributor: Angelika Schafft-->
@@ -2559,7 +2501,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Asbjørn Grimsmo, Svenn-Erik Mamelund & Øystein Spjelkavik-->
             <!--Primary contributor: Svenn-Erik Mamelund Asbjørn Grimsmo-->
@@ -2605,7 +2546,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Pettersen, Karen-Sofie & Øystein Spjelkavik i samarbeid med Proba samfunnsanalyse-->
             <!--Primary contributor: Karen-Sofie Pettersen-->
@@ -2651,7 +2591,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Ellingsen, Dag, Linn Andersen, Audun Gleinsvik, Marthe Rosenvinge Ervik, Tor Egil Viblemo & Fredrik L. Ellingsen-->
             <!--Primary contributor: Dag Ellingsen-->
@@ -2713,7 +2652,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Bergene, Anne Cecilie, Ingar Brattbakk, Cathrine Egeland & Arild Henrik Steen-->
             <!--Primary contributor: Anne Cecilie Bergene-->
@@ -2767,7 +2705,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Mamelund, Svenn-Erik & Dag Ellingsen-->
             <!--Primary contributor: Svenn-Erik Mamelund-->
@@ -2813,7 +2750,6 @@
                <titles>
                   <title>AFI-fou-resultater</title>
                </titles>
-               <issn>AFI-fou-resultater</issn>
             </series_metadata>
             <!--Contributors: Ellingsen, Dag, Karen-Sofie Pettersen, Linn Andersen & Tor-Egil Viblemo-->
             <!--Primary contributor: Dag Ellingsen-->

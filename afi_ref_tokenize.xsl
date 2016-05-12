@@ -22,7 +22,11 @@
 
 	<xsl:function name="hfw:getISSN" as="xs:string">
 		<xsl:param name="input_string" as="xs:string"/>
-		<xsl:value-of select="replace($input_string, '^.+?ISSN\s*(.+)\s*?$' , '$1')"/>
+		<xsl:choose>
+			<xsl:when test="matches($input_string, 'ISSN')"><xsl:value-of select="replace($input_string, '^.+?ISSN\s*(.+)\s*?$' , '$1')"/></xsl:when>
+			<xsl:otherwise><xsl:value-of select="''"/></xsl:otherwise>
+		</xsl:choose>
+		
 	</xsl:function>
 
 	<xsl:function name="hfw:getPublisherLoc" as="xs:string">
@@ -44,7 +48,6 @@
 			<xsl:when test="matches($input_string, '[Ff][Oo][Uu]')">
 				<xsl:value-of select="replace($input_string, '^.+?([Ff][Oo][Uu]-[^ \d]+\s*[^.]+).+$' , '$1')"/>
 			</xsl:when>
-			<xsl:otherwise><xsl:value-of select="'!!!!!!!!!!!!!!!!'"/></xsl:otherwise>
 		</xsl:choose>
 		
 	</xsl:function>
