@@ -4,8 +4,8 @@
            version="4.3.4"
            xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd">
    <head>
-      <doi_batch_id>hioa_20160512143946</doi_batch_id>
-      <timestamp>20160512143946</timestamp>
+      <doi_batch_id>hioa_20160512145435</doi_batch_id>
+      <timestamp>20160512145435</timestamp>
       <depositor>
          <depositor_name>Eirik Hanssen</depositor_name>
          <email_address>ojs@hioa.no</email_address>
