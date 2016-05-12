@@ -4,8 +4,8 @@
            version="4.3.4"
            xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd">
    <head>
-      <doi_batch_id>hioa_20160512154532</doi_batch_id>
-      <timestamp>20160512154532</timestamp>
+      <doi_batch_id>hioa_20160512172113</doi_batch_id>
+      <timestamp>20160512172113</timestamp>
       <depositor>
          <depositor_name>Eirik Hanssen</depositor_name>
          <email_address>ojs@hioa.no</email_address>
@@ -14,15 +14,7 @@
    </head>
    <body>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Heen, Hanne, Grethe Moen Johansen, Hans Christian Sørhaug-->
-            <!--Primary contributor: Hanne Heen-->
-            <!--Secondary contributors: Grethe Moen Johansen, Hans Christian Sørhaug-->
+         <report-paper_metadata language="no"><!--Contributors: Heen, Hanne, Grethe Moen Johansen, Hans Christian Sørhaug--><!--Primary contributor: Hanne Heen--><!--Secondary contributors: Grethe Moen Johansen, Hans Christian Sørhaug-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Hanne</given_name>
@@ -60,18 +52,10 @@
                <doi>http://doi.org/10.7577/afi/fou/1998/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/NORAD-en-laerende-organisasjon</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Schafft, Angelika-->
-            <!--Primary contributor: Angelika Schafft-->
-            <!--Secondary contributors: -->
+         <report-paper_metadata language="no"><!--Contributors: Schafft, Angelika--><!--Primary contributor: Angelika Schafft--><!--Secondary contributors: -->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Angelika</given_name>
@@ -101,18 +85,10 @@
                <doi>http://doi.org/10.7577/afi/fou/2002/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/New-start-for-ex-offenders-in-the-open-labour-market3</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Hilsen, Anne Inga, Kathrine Holstad & Katrine S. Hanssen-->
-            <!--Primary contributor: Anne Inga Hilsen-->
-            <!--Secondary contributors: Kathrine Holstad & Katrine S. Hanssen-->
+         <report-paper_metadata language="no"><!--Contributors: Hilsen, Anne Inga, Kathrine Holstad & Katrine S. Hanssen--><!--Primary contributor: Anne Inga Hilsen--><!--Secondary contributors: Kathrine Holstad & Katrine S. Hanssen-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Anne Inga</given_name>
@@ -150,18 +126,10 @@
                <doi>http://doi.org/10.7577/afi/fou/2003/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Bedre-trygghet-i-kollektivtransporten</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Uhrig, Bettina & Michael J. Evans-->
-            <!--Primary contributor: Bettina Uhrig-->
-            <!--Secondary contributors: Michael J. Evans-->
+         <report-paper_metadata language="no"><!--Contributors: Uhrig, Bettina & Michael J. Evans--><!--Primary contributor: Bettina Uhrig--><!--Secondary contributors: Michael J. Evans-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Bettina</given_name>
@@ -192,21 +160,13 @@
                <item_number>FoU-resultater 2003</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2003/2</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2003/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Strategies-for-inclusion-co-ordinated-approaches-for-quality-employment</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Hilsen, Anne Inga & Helle Suseg-->
-            <!--Primary contributor: Anne Inga Hilsen-->
-            <!--Secondary contributors: Helle Suseg-->
+         <report-paper_metadata language="no"><!--Contributors: Hilsen, Anne Inga & Helle Suseg--><!--Primary contributor: Anne Inga Hilsen--><!--Secondary contributors: Helle Suseg-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Anne Inga</given_name>
@@ -240,18 +200,10 @@
                <doi>http://doi.org/10.7577/afi/fou/2004/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Ungdom-motivasjon-og-muligheter-i-industribedrifter</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Uhrig, Bettina, Michael J. Evans, Kees Meijer-->
-            <!--Primary contributor: Bettina Uhrig-->
-            <!--Secondary contributors: Michael J. Evans, Kees Meijer-->
+         <report-paper_metadata language="no"><!--Contributors: Uhrig, Bettina, Michael J. Evans, Kees Meijer--><!--Primary contributor: Bettina Uhrig--><!--Secondary contributors: Michael J. Evans, Kees Meijer-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Bettina</given_name>
@@ -289,18 +241,10 @@
                <doi>http://doi.org/10.7577/afi/fou/2005/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Achievements-results-and-proposals-from-the-transnational-partnership-Strategies-for-Inclusion-co-ordinated-approaches-for-quality-employment</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Hilsen, Anne Inga & Britt Elin Strand-->
-            <!--Primary contributor: Anne Inga Hilsen-->
-            <!--Secondary contributors: Britt Elin Strand-->
+         <report-paper_metadata language="no"><!--Contributors: Hilsen, Anne Inga & Britt Elin Strand--><!--Primary contributor: Anne Inga Hilsen--><!--Secondary contributors: Britt Elin Strand-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Anne Inga</given_name>
@@ -334,18 +278,10 @@
                <doi>http://doi.org/10.7577/afi/fou/2006/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Fortellinger-om-aa-faa-det-til</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Schafft, Angelika & Kjetil Frøyland-->
-            <!--Primary contributor: Angelika Schafft-->
-            <!--Secondary contributors: Kjetil Frøyland-->
+         <report-paper_metadata language="no"><!--Contributors: Schafft, Angelika & Kjetil Frøyland--><!--Primary contributor: Angelika Schafft--><!--Secondary contributors: Kjetil Frøyland-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Angelika</given_name>
@@ -376,21 +312,13 @@
                <item_number>FoU-resultater 2006</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2006/2</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2006/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Veien-til-yrkeslivet-for-personer-under-legemiddelassistert-rehabilitering</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Schafft, Angelika & Ø. Spjelkavik-->
-            <!--Primary contributor: Angelika Schafft-->
-            <!--Secondary contributors: Ø. Spjelkavik-->
+         <report-paper_metadata language="no"><!--Contributors: Schafft, Angelika & Ø. Spjelkavik--><!--Primary contributor: Angelika Schafft--><!--Secondary contributors: Ø. Spjelkavik-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Angelika</given_name>
@@ -421,21 +349,13 @@
                <item_number>FoU-resultater 2006</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2006/3</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2006/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Arbeid-og-psykisk-helse</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Amble, Nina & Elisabeth Gjerberg-->
-            <!--Primary contributor: Nina Amble-->
-            <!--Secondary contributors: Elisabeth Gjerberg-->
+         <report-paper_metadata language="no"><!--Contributors: Amble, Nina & Elisabeth Gjerberg--><!--Primary contributor: Nina Amble--><!--Secondary contributors: Elisabeth Gjerberg-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Nina</given_name>
@@ -469,18 +389,10 @@
                <doi>http://doi.org/10.7577/afi/fou/2007/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hjerte-hode-hender</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Forsberg, Ellen-Marie, Christin Thea Wathne, Bjørg Aase Sørensen & Migle Gamperiene-->
-            <!--Primary contributor: Ellen-Marie Forsberg-->
-            <!--Secondary contributors: Christin Thea Wathne, Bjørg Aase Sørensen & Migle Gamperiene-->
+         <report-paper_metadata language="no"><!--Contributors: Forsberg, Ellen-Marie, Christin Thea Wathne, Bjørg Aase Sørensen & Migle Gamperiene--><!--Primary contributor: Ellen-Marie Forsberg--><!--Secondary contributors: Christin Thea Wathne, Bjørg Aase Sørensen & Migle Gamperiene-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Ellen-Marie</given_name>
@@ -519,21 +431,13 @@
                <item_number>FoU-artikler 2007</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2007/2</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2007/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-tilsynsmetodikken-i-Arbeidstilsynets-God-Vakt!-kampanje</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Salomon, Robert, Anne Inga Hilsen & Erik Whist-->
-            <!--Primary contributor: Robert Salomon-->
-            <!--Secondary contributors: Anne Inga Hilsen & Erik Whist-->
+         <report-paper_metadata language="no"><!--Contributors: Salomon, Robert, Anne Inga Hilsen & Whist, Erik--><!--Primary contributor: Robert Salomon--><!--Secondary contributors: Anne Inga Hilsen & Whist, Erik-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Robert</given_name>
@@ -544,8 +448,12 @@
                   <surname>Hilsen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_name>Erik</given_name>
-                  <surname>Whist</surname>
+                  <given_name>W</given_name>
+                  <surname>hist</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>E</given_name>
+                  <surname>rik</surname>
                </person_name>
             </contributors>
             <titles>
@@ -568,21 +476,13 @@
                <item_number>FoU-artikler 2007</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2007/3</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2007/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Capacity-Building-for-Employers-Organization-on-Productivity-and-Competitiveness</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Salomon, R., H. Løvdal & E. M. Osmundsen-->
-            <!--Primary contributor: R. Salomon-->
-            <!--Secondary contributors: H. Løvdal & E. M. Osmundsen-->
+         <report-paper_metadata language="no"><!--Contributors: Salomon, R., H. Løvdal & E. M. Osmundsen--><!--Primary contributor: R. Salomon--><!--Secondary contributors: H. Løvdal & E. M. Osmundsen-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>R.</given_name>
@@ -617,21 +517,13 @@
                <item_number>FoU-artikler 2007</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2007/4</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2007/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Workers-Education-Programme-on-Social-Dialogue-Social-Dialoge-and-Youth-Employment</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Steen, Jørgen Emaus & Arild H. Steen-->
-            <!--Primary contributor: Jørgen Emaus Steen-->
-            <!--Secondary contributors: Arild H. Steen-->
+         <report-paper_metadata language="no"><!--Contributors: Steen, Jørgen Emaus & Arild H. Steen--><!--Primary contributor: Jørgen Emaus Steen--><!--Secondary contributors: Arild H. Steen-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Jørgen Emaus</given_name>
@@ -662,21 +554,13 @@
                <item_number>FoU-artikler 2007</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2007/5</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2007/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-Kolslinjen</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Aas, I. H. Monrad-->
-            <!--Primary contributor: I. H. Monrad Aas-->
-            <!--Secondary contributors: -->
+         <report-paper_metadata language="no"><!--Contributors: Aas, I. H. Monrad--><!--Primary contributor: I. H. Monrad Aas--><!--Secondary contributors: -->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>I. H. Monrad</given_name>
@@ -703,21 +587,13 @@
                <item_number>FoU-artikler 2007</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2007/6</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2007/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/The-organizational-challenge-for-health-care</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Forsberg, Ellen-Marie-->
-            <!--Primary contributor: Ellen-Marie Forsberg-->
-            <!--Secondary contributors: -->
+         <report-paper_metadata language="no"><!--Contributors: Forsberg, Ellen-Marie--><!--Primary contributor: Ellen-Marie Forsberg--><!--Secondary contributors: -->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Ellen-Marie</given_name>
@@ -747,18 +623,10 @@
                <doi>http://doi.org/10.7577/afi/fou/2008/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Principles-of-animal-ethics-in-Scandinavian-animal-welfare-legislation-and-governance</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Hilsen, Anne Inga & Nina Amble-->
-            <!--Primary contributor: Anne Inga Hilsen-->
-            <!--Secondary contributors: Nina Amble-->
+         <report-paper_metadata language="no"><!--Contributors: Hilsen, Anne Inga & Nina Amble--><!--Primary contributor: Anne Inga Hilsen--><!--Secondary contributors: Nina Amble-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Anne Inga</given_name>
@@ -789,21 +657,13 @@
                <item_number>FoU-resultat 2008</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2008/2</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2008/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Review-of-the-Co-operation-between-NHO-and-APINDO-2003-2007</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Klemsdal, Lars & Helge Svare-->
-            <!--Primary contributor: Lars Klemsdal-->
-            <!--Secondary contributors: Helge Svare-->
+         <report-paper_metadata language="no"><!--Contributors: Klemsdal, Lars & Helge Svare--><!--Primary contributor: Lars Klemsdal--><!--Secondary contributors: Helge Svare-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Lars</given_name>
@@ -834,21 +694,13 @@
                <item_number>FoU-resultat 2008</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2008/3</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2008/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Batterieffekten</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Steen, Arild Henrik-->
-            <!--Primary contributor: Arild Henrik Steen-->
-            <!--Secondary contributors: -->
+         <report-paper_metadata language="no"><!--Contributors: Steen, Arild Henrik--><!--Primary contributor: Arild Henrik Steen--><!--Secondary contributors: -->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Arild Henrik</given_name>
@@ -875,21 +727,13 @@
                <item_number>FoU-resultat 2008</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2008/4</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2008/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Menneskerettigheter-fagforeningsrettigheter-og-demokrati</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Steinum, Trude-->
-            <!--Primary contributor: Trude Steinum-->
-            <!--Secondary contributors: -->
+         <report-paper_metadata language="no"><!--Contributors: Steinum, Trude--><!--Primary contributor: Trude Steinum--><!--Secondary contributors: -->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Trude</given_name>
@@ -916,21 +760,13 @@
                <item_number>FoU-resultat 2008</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2008/5</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2008/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hva-kan-vi-laere-av-gode-eksempler-paa-seniorpolitikk</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Amble, Nina & Elisabeth Gjerberg-->
-            <!--Primary contributor: Nina Amble-->
-            <!--Secondary contributors: Elisabeth Gjerberg-->
+         <report-paper_metadata language="no"><!--Contributors: Amble, Nina & Elisabeth Gjerberg--><!--Primary contributor: Nina Amble--><!--Secondary contributors: Elisabeth Gjerberg-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Nina</given_name>
@@ -964,18 +800,10 @@
                <doi>http://doi.org/10.7577/afi/fou/2009/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Livspuslespillet2</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Amble, Nina & Elisabeth Gjerberg-->
-            <!--Primary contributor: Nina Amble-->
-            <!--Secondary contributors: Elisabeth Gjerberg-->
+         <report-paper_metadata language="no"><!--Contributors: Amble, Nina & Elisabeth Gjerberg--><!--Primary contributor: Nina Amble--><!--Secondary contributors: Elisabeth Gjerberg-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Nina</given_name>
@@ -1006,21 +834,13 @@
                <item_number>FoU-resultat 2009</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2009/2</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2009/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hjerte-hode-hender-2.-utgave</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Amble, Nina & Øyvind Pålshaugen-->
-            <!--Primary contributor: Nina Amble-->
-            <!--Secondary contributors: Øyvind Pålshaugen-->
+         <report-paper_metadata language="no"><!--Contributors: Amble, Nina & Øyvind Pålshaugen--><!--Primary contributor: Nina Amble--><!--Secondary contributors: Øyvind Pålshaugen-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Nina</given_name>
@@ -1051,21 +871,13 @@
                <item_number>FoU-resultat 2009</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2009/3</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2009/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Sluttrapport-lederutviklingsprogrammet-Kunstens-kvinner</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Halrynjo, Sigtona, Arild Henrik Steen & Kjersti Thorbjørnsrud-->
-            <!--Primary contributor: Sigtona Halrynjo-->
-            <!--Secondary contributors: Arild Henrik Steen & Kjersti Thorbjørnsrud-->
+         <report-paper_metadata language="no"><!--Contributors: Halrynjo, Sigtona, Arild Henrik Steen & Kjersti Thorbjørnsrud--><!--Primary contributor: Sigtona Halrynjo--><!--Secondary contributors: Arild Henrik Steen & Kjersti Thorbjørnsrud-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Sigtona</given_name>
@@ -1100,21 +912,13 @@
                <item_number>FoU-resultat 2009</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2009/4</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2009/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2009</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Hilsen, Anne Inga & Nina Amble-->
-            <!--Primary contributor: Anne Inga Hilsen-->
-            <!--Secondary contributors: Nina Amble-->
+         <report-paper_metadata language="no"><!--Contributors: Hilsen, Anne Inga & Nina Amble--><!--Primary contributor: Anne Inga Hilsen--><!--Secondary contributors: Nina Amble-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Anne Inga</given_name>
@@ -1145,21 +949,13 @@
                <item_number>FoU-resultat 2009</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2009/5</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2009/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Prosjekt-Ny-tilrettelagt-turnus-for-renholdere-paa-Feiring-klinikken</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Thilesen, Ragnvald, Olgunn Ranserokken, Sveinung Skule, Marit Stenberg, Arild Henrik Steen & André Alfredsen-->
-            <!--Primary contributor: Ragnvald Thilesen-->
-            <!--Secondary contributors: Olgunn Ranserokken, Sveinung Skule, Marit Stenberg, Arild Henrik Steen & André Alfredsen-->
+         <report-paper_metadata language="no"><!--Contributors: Thilesen, Ragnvald, Olgunn Ranserokken, Sveinung Skule, Marit Stenberg, Arild Henrik Steen & André Alfredsen--><!--Primary contributor: Ragnvald Thilesen--><!--Secondary contributors: Olgunn Ranserokken, Sveinung Skule, Marit Stenberg, Arild Henrik Steen & André Alfredsen-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Ragnvald</given_name>
@@ -1206,21 +1002,13 @@
                <item_number>FoU-resultat 2009</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2009/6</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2009/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Paa-oppdrag</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Hilsen, Anne Inga & Reidun Eggesbø-->
-            <!--Primary contributor: Anne Inga Hilsen-->
-            <!--Secondary contributors: Reidun Eggesbø-->
+         <report-paper_metadata language="no"><!--Contributors: Hilsen, Anne Inga & Reidun Eggesbø--><!--Primary contributor: Anne Inga Hilsen--><!--Secondary contributors: Reidun Eggesbø-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Anne Inga</given_name>
@@ -1254,18 +1042,10 @@
                <doi>http://doi.org/10.7577/afi/fou/2010/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Samarbeid-om-mangfold</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Halrynjo, Sigtona & Arild Henrik Steen-->
-            <!--Primary contributor: Sigtona Halrynjo-->
-            <!--Secondary contributors: Arild Henrik Steen-->
+         <report-paper_metadata language="no"><!--Contributors: Halrynjo, Sigtona & Arild Henrik Steen--><!--Primary contributor: Sigtona Halrynjo--><!--Secondary contributors: Arild Henrik Steen-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Sigtona</given_name>
@@ -1296,21 +1076,13 @@
                <item_number>FoU-resultat 2010</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2010/2</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2010/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2010</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Rasmussen, Paal, Pål Klethagen & Helge Svare-->
-            <!--Primary contributor: Paal Rasmussen-->
-            <!--Secondary contributors: Pål Klethagen & Helge Svare-->
+         <report-paper_metadata language="no"><!--Contributors: Rasmussen, Paal, Pål Klethagen & Helge Svare--><!--Primary contributor: Paal Rasmussen--><!--Secondary contributors: Pål Klethagen & Helge Svare-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Paal</given_name>
@@ -1345,21 +1117,13 @@
                <item_number>FoU-resultat 2010</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2010/3</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2010/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Baerekraftige-familier-likestilte-livsloep</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Bergene, Ann Cecilie, Arild Henrik Steen & Migle Gamperiene-->
-            <!--Primary contributor: Ann Cecilie Bergene-->
-            <!--Secondary contributors: Arild Henrik Steen & Migle Gamperiene-->
+         <report-paper_metadata language="no"><!--Contributors: Bergene, Ann Cecilie, Arild Henrik Steen & Migle Gamperiene--><!--Primary contributor: Ann Cecilie Bergene--><!--Secondary contributors: Arild Henrik Steen & Migle Gamperiene-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Ann Cecilie</given_name>
@@ -1397,18 +1161,10 @@
                <doi>http://doi.org/10.7577/afi/fou/2011/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2011</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Enehaug, Heidi & Steinar Widding-->
-            <!--Primary contributor: Heidi Enehaug-->
-            <!--Secondary contributors: Steinar Widding-->
+         <report-paper_metadata language="no"><!--Contributors: Enehaug, Heidi & Steinar Widding--><!--Primary contributor: Heidi Enehaug--><!--Secondary contributors: Steinar Widding-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Heidi</given_name>
@@ -1439,21 +1195,13 @@
                <item_number>FoU-resultat 2011</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2011/2</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2011/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Spraakopplaering-i-bedrift</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Floer, Kristin Elisabeth & Jørgen Emaus Steen-->
-            <!--Primary contributor: Kristin Elisabeth Floer-->
-            <!--Secondary contributors: Jørgen Emaus Steen-->
+         <report-paper_metadata language="no"><!--Contributors: Floer, Kristin Elisabeth & Jørgen Emaus Steen--><!--Primary contributor: Kristin Elisabeth Floer--><!--Secondary contributors: Jørgen Emaus Steen-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Kristin Elisabeth</given_name>
@@ -1484,21 +1232,13 @@
                <item_number>FoU-resultat 2011</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2011/3</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2011/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Kolslinjen-800-89-333</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Hilsen, Anne Inga & Asbjørn Grimsmo-->
-            <!--Primary contributor: Anne Inga Hilsen-->
-            <!--Secondary contributors: Asbjørn Grimsmo-->
+         <report-paper_metadata language="no"><!--Contributors: Hilsen, Anne Inga & Asbjørn Grimsmo--><!--Primary contributor: Anne Inga Hilsen--><!--Secondary contributors: Asbjørn Grimsmo-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Anne Inga</given_name>
@@ -1529,21 +1269,13 @@
                <item_number>FoU-resultat 2011</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2011/4</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2011/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Underveisrapport-fra-prosjektet-Gravide-i-handelsnaeringen</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Svare, Helge & Lars Klemsdag-->
-            <!--Primary contributor: Helge Svare-->
-            <!--Secondary contributors: Lars Klemsdag-->
+         <report-paper_metadata language="no"><!--Contributors: Svare, Helge & Lars Klemsdag--><!--Primary contributor: Helge Svare--><!--Secondary contributors: Lars Klemsdag-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Helge</given_name>
@@ -1574,21 +1306,13 @@
                <item_number>FoU-resultat 2011</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2011/5</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2011/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Mestring-i-arbeidet</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Widding, Steinar, Asbjørn Grimsmo, Kirsti Jacobsen & Annik Apall Austad-->
-            <!--Primary contributor: Steinar Widding-->
-            <!--Secondary contributors: Asbjørn Grimsmo, Kirsti Jacobsen & Annik Apall Austad-->
+         <report-paper_metadata language="no"><!--Contributors: Widding, Steinar, Asbjørn Grimsmo, Kirsti Jacobsen & Annik Apall Austad--><!--Primary contributor: Steinar Widding--><!--Secondary contributors: Asbjørn Grimsmo, Kirsti Jacobsen & Annik Apall Austad-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Steinar</given_name>
@@ -1630,18 +1354,10 @@
                <doi>http://doi.org/10.7577/afi/fou/2012/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Conflict-prevention-and-Management</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Brøgger, Benedicte-->
-            <!--Primary contributor: Benedicte Brøgger-->
-            <!--Secondary contributors: -->
+         <report-paper_metadata language="no"><!--Contributors: Brøgger, Benedicte--><!--Primary contributor: Benedicte Brøgger--><!--Secondary contributors: -->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Benedicte</given_name>
@@ -1668,21 +1384,13 @@
                <item_number>FoU-resultat 2012</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2012/2</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2012/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluation-report-on-the-NECA-NHO-collaboration-program-2003-2011</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Widding, Steinar & Heidi Enehaug-->
-            <!--Primary contributor: Steinar Widding-->
-            <!--Secondary contributors: Heidi Enehaug-->
+         <report-paper_metadata language="no"><!--Contributors: Widding, Steinar & Heidi Enehaug--><!--Primary contributor: Steinar Widding--><!--Secondary contributors: Heidi Enehaug-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Steinar</given_name>
@@ -1713,21 +1421,13 @@
                <item_number>FoU-resultat 2012</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2012/3</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2012/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Livsfaseorienterte-personalstrategier-i-byggenaeringen</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Legard, Sveinung-->
-            <!--Primary contributor: Sveinung Legard-->
-            <!--Secondary contributors: -->
+         <report-paper_metadata language="no"><!--Contributors: Legard, Sveinung--><!--Primary contributor: Sveinung Legard--><!--Secondary contributors: -->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Sveinung</given_name>
@@ -1754,21 +1454,13 @@
                <item_number>FoU-resultat 2012</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2012/4</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2012/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Overgang-mellom-utdanning-og-arbeid-for-unge-med-nedsatt-funksjonsevne</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Schafft, Angelika & Øystein Spjelkavik-->
-            <!--Primary contributor: Angelika Schafft-->
-            <!--Secondary contributors: Øystein Spjelkavik-->
+         <report-paper_metadata language="no"><!--Contributors: Schafft, Angelika & Øystein Spjelkavik--><!--Primary contributor: Angelika Schafft--><!--Secondary contributors: Øystein Spjelkavik-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Angelika</given_name>
@@ -1799,21 +1491,13 @@
                <item_number>FoU-resultat 2012</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2012/5</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2012/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-prosjektet-Samordning-av-tiltak-for-tilbakefoering-fra-fengsel-til-kvalifiseringsprogram</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Schafft, Angelika.-->
-            <!--Primary contributor: Angelika. Schafft-->
-            <!--Secondary contributors: -->
+         <report-paper_metadata language="no"><!--Contributors: Schafft, Angelika.--><!--Primary contributor: Angelika. Schafft--><!--Secondary contributors: -->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Angelika.</given_name>
@@ -1840,21 +1524,13 @@
                <item_number>FoU-resultat 2012</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2012/6</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2012/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Jobpics</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Bergene, Ann Cecilie, Svenn-Erik Mamelund & Arild Henrik Steen-->
-            <!--Primary contributor: Ann Cecilie Bergene-->
-            <!--Secondary contributors: Svenn-Erik Mamelund & Arild Henrik Steen-->
+         <report-paper_metadata language="no"><!--Contributors: Bergene, Ann Cecilie, Svenn-Erik Mamelund & Arild Henrik Steen--><!--Primary contributor: Ann Cecilie Bergene--><!--Secondary contributors: Svenn-Erik Mamelund & Arild Henrik Steen-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Ann Cecilie</given_name>
@@ -1889,21 +1565,13 @@
                <item_number>FoU-resultat 2012</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2012/7</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2012/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2012</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Neumann, Cecilie Basberg-->
-            <!--Primary contributor: Cecilie Basberg Neumann-->
-            <!--Secondary contributors: -->
+         <report-paper_metadata language="no"><!--Contributors: Neumann, Cecilie Basberg--><!--Primary contributor: Cecilie Basberg Neumann--><!--Secondary contributors: -->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Cecilie Basberg</given_name>
@@ -1930,21 +1598,13 @@
                <item_number>FoU-resultat 2012</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2012/8</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2012/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Midtveisevaluering-av-prosjekt-for-universitetspedagogikk-ved-Universitetet-i-Stavanger</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Bergene, Ann Cecilie-->
-            <!--Primary contributor: Ann Cecilie Bergene-->
-            <!--Secondary contributors: -->
+         <report-paper_metadata language="no"><!--Contributors: Bergene, Ann Cecilie--><!--Primary contributor: Ann Cecilie Bergene--><!--Secondary contributors: -->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Ann Cecilie</given_name>
@@ -1971,21 +1631,13 @@
                <item_number>FoU-resultat 2012</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2012/9</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2012/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-fagbevegelse-for-fremtiden</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Fossen, Øystein, Eivind Falkum & Niri Talberg-->
-            <!--Primary contributor: Øystein Fossen-->
-            <!--Secondary contributors: Eivind Falkum & Niri Talberg-->
+         <report-paper_metadata language="no"><!--Contributors: Fossen, Øystein, Eivind Falkum & Niri Talberg--><!--Primary contributor: Øystein Fossen--><!--Secondary contributors: Eivind Falkum & Niri Talberg-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Øystein</given_name>
@@ -2023,18 +1675,10 @@
                <doi>http://doi.org/10.7577/afi/fou/2013/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-Verneombudstjenesten-i-Statoil-UPN</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Bergene, Ann Cecilie, Ida Drange, Cathrine Egeland, Svenn-Erik Mamelund & Arild Henrik Steen-->
-            <!--Primary contributor: Ann Cecilie Bergene-->
-            <!--Secondary contributors: Ida Drange, Cathrine Egeland, Svenn-Erik Mamelund & Arild Henrik Steen-->
+         <report-paper_metadata language="no"><!--Contributors: Bergene, Ann Cecilie, Ida Drange, Cathrine Egeland, Svenn-Erik Mamelund & Arild Henrik Steen--><!--Primary contributor: Ann Cecilie Bergene--><!--Secondary contributors: Ida Drange, Cathrine Egeland, Svenn-Erik Mamelund & Arild Henrik Steen-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Ann Cecilie</given_name>
@@ -2077,21 +1721,13 @@
                <item_number>FoU-resultat 2013</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2013/2</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2013/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2013</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Terjesen, Hans Christoffer Aargaard & Anne Inga Hilsen-->
-            <!--Primary contributor: Hans Christoffer Aargaard Terjesen-->
-            <!--Secondary contributors: Anne Inga Hilsen-->
+         <report-paper_metadata language="no"><!--Contributors: Terjesen, Hans Christoffer Aargaard & Anne Inga Hilsen--><!--Primary contributor: Hans Christoffer Aargaard Terjesen--><!--Secondary contributors: Anne Inga Hilsen-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Hans Christoffer Aargaard</given_name>
@@ -2122,21 +1758,13 @@
                <item_number>FoU-resultat 2013</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2013/3</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2013/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Samarbeid-om-redusert-sykefravaer-i-prosessindustrien</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Pettersen, Karen-Sofie & Øystein Spjelkavik-->
-            <!--Primary contributor: Karen-Sofie Pettersen-->
-            <!--Secondary contributors: Øystein Spjelkavik-->
+         <report-paper_metadata language="no"><!--Contributors: Pettersen, Karen-Sofie & Øystein Spjelkavik--><!--Primary contributor: Karen-Sofie Pettersen--><!--Secondary contributors: Øystein Spjelkavik-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Karen-Sofie</given_name>
@@ -2170,18 +1798,10 @@
                <doi>http://doi.org/10.7577/afi/fou/2014/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-Forsoeket-Arbeidsavklaringspenger-AAP-som-loennstilskudd</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Spjelkavik, Øystein, Asbjørn Grimsmo, Svenn-Erik Mamelund & Gudrun Rudningen-->
-            <!--Primary contributor: Øystein Spjelkavik-->
-            <!--Secondary contributors: Asbjørn Grimsmo, Svenn-Erik Mamelund & Gudrun Rudningen-->
+         <report-paper_metadata language="no"><!--Contributors: Spjelkavik, Øystein, Asbjørn Grimsmo, Svenn-Erik Mamelund & Gudrun Rudningen--><!--Primary contributor: Øystein Spjelkavik--><!--Secondary contributors: Asbjørn Grimsmo, Svenn-Erik Mamelund & Gudrun Rudningen-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Øystein</given_name>
@@ -2220,21 +1840,13 @@
                <item_number>FoU-resultat 2014</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2014/2</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2014/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-forsoeket-Kjerneoppgaver-i-NAV</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Reichborn-Kjennerud, Kristin-->
-            <!--Primary contributor: Kristin Reichborn-Kjennerud-->
-            <!--Secondary contributors: -->
+         <report-paper_metadata language="no"><!--Contributors: Reichborn-Kjennerud, Kristin--><!--Primary contributor: Kristin Reichborn-Kjennerud--><!--Secondary contributors: -->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Kristin</given_name>
@@ -2261,21 +1873,13 @@
                <item_number>FoU-resultat 2014</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2014/3</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2014/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-organisasjon-i-utvikling</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Ellingsen, Dag & Vilde Hoff Bernstrøm-->
-            <!--Primary contributor: Dag Ellingsen-->
-            <!--Secondary contributors: Vilde Hoff Bernstrøm-->
+         <report-paper_metadata language="no"><!--Contributors: Ellingsen, Dag & Vilde Hoff Bernstrøm--><!--Primary contributor: Dag Ellingsen--><!--Secondary contributors: Vilde Hoff Bernstrøm-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Dag</given_name>
@@ -2306,21 +1910,13 @@
                <item_number>FoU-resultat 2014</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2014/4</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2014/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Lederutdanning-innen-helse-og-omsorgssektoren</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Bergene, Ann Cecilie, Vilde Hoff Bernstrøm & Arild Henrik Steen-->
-            <!--Primary contributor: Ann Cecilie Bergene-->
-            <!--Secondary contributors: Vilde Hoff Bernstrøm & Arild Henrik Steen-->
+         <report-paper_metadata language="no"><!--Contributors: Bergene, Ann Cecilie, Vilde Hoff Bernstrøm & Arild Henrik Steen--><!--Primary contributor: Ann Cecilie Bergene--><!--Secondary contributors: Vilde Hoff Bernstrøm & Arild Henrik Steen-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Ann Cecilie</given_name>
@@ -2355,21 +1951,13 @@
                <item_number>FoU-resultat 2014</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2014/5</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2014/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2014</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Fossestøl, Knut & Karen-Sofie Pettersen-->
-            <!--Primary contributor: Knut Fossestøl-->
-            <!--Secondary contributors: Karen-Sofie Pettersen-->
+         <report-paper_metadata language="no"><!--Contributors: Fossestøl, Knut & Karen-Sofie Pettersen--><!--Primary contributor: Knut Fossestøl--><!--Secondary contributors: Karen-Sofie Pettersen-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Knut</given_name>
@@ -2400,21 +1988,13 @@
                <item_number>FoU-resultat 2014</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2014/6</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2014/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Nyskaping-i-demensomsorgen</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Grimsmo, Asbjørn, Anders Underthun & Øystein Fossen-->
-            <!--Primary contributor: Asbjørn Grimsmo-->
-            <!--Secondary contributors: Anders Underthun & Øystein Fossen-->
+         <report-paper_metadata language="no"><!--Contributors: Grimsmo, Asbjørn, Anders Underthun & Øystein Fossen--><!--Primary contributor: Asbjørn Grimsmo--><!--Secondary contributors: Anders Underthun & Øystein Fossen-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Asbjørn</given_name>
@@ -2449,21 +2029,13 @@
                <item_number>FoU-resultat 2014</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2014/7</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2014/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-kontrollert-framtid</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Schafft, Angelika-->
-            <!--Primary contributor: Angelika Schafft-->
-            <!--Secondary contributors: -->
+         <report-paper_metadata language="no"><!--Contributors: Schafft, Angelika--><!--Primary contributor: Angelika Schafft--><!--Secondary contributors: -->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Angelika</given_name>
@@ -2493,18 +2065,10 @@
                <doi>http://doi.org/10.7577/afi/fou/2015/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-ny-rolle-for-NAV-i-fengsel2</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Asbjørn Grimsmo, Svenn-Erik Mamelund & Øystein Spjelkavik-->
-            <!--Primary contributor: Svenn-Erik Mamelund Asbjørn Grimsmo-->
-            <!--Secondary contributors: Øystein Spjelkavik-->
+         <report-paper_metadata language="no"><!--Contributors: Asbjørn Grimsmo, Svenn-Erik Mamelund & Øystein Spjelkavik--><!--Primary contributor: Svenn-Erik Mamelund Asbjørn Grimsmo--><!--Secondary contributors: Øystein Spjelkavik-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Svenn-Erik Mamelund Asbjørn</given_name>
@@ -2535,29 +2099,21 @@
                <item_number>FoU-resultat 2015</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2015/2</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2015/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-forsoeket-Kjerneoppgaver-i-NAV2</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Pettersen, Karen-Sofie & Øystein Spjelkavik i samarbeid med Proba samfunnsanalyse-->
-            <!--Primary contributor: Karen-Sofie Pettersen-->
-            <!--Secondary contributors: Øystein Spjelkavik i samarbeid med Proba samfunnsanalyse-->
+         <report-paper_metadata language="no"><!--Contributors: Pettersen, Karen-Sofie & Øystein Spjelkavik--><!--Primary contributor: Karen-Sofie Pettersen--><!--Secondary contributors: Øystein Spjelkavik-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Karen-Sofie</given_name>
                   <surname>Pettersen</surname>
                </person_name>
                <person_name contributor_role="author" sequence="additional">
-                  <given_name>Øystein Spjelkavik i samarbeid med Proba</given_name>
-                  <surname>samfunnsanalyse</surname>
+                  <given_name>Øystein</given_name>
+                  <surname>Spjelkavik</surname>
                </person_name>
             </contributors>
             <titles>
@@ -2580,21 +2136,13 @@
                <item_number>FoU-resultat 2015</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2015/3</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2015/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-Forsoeket-Arbeidsavklaringspenger-AAP-som-loennstilskudd2</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Ellingsen, Dag, Linn Andersen, Audun Gleinsvik, Marthe Rosenvinge Ervik, Tor Egil Viblemo & Fredrik L. Ellingsen-->
-            <!--Primary contributor: Dag Ellingsen-->
-            <!--Secondary contributors: Linn Andersen, Audun Gleinsvik, Marthe Rosenvinge Ervik, Tor Egil Viblemo & Fredrik L. Ellingsen-->
+         <report-paper_metadata language="no"><!--Contributors: Ellingsen, Dag, Linn Andersen, Audun Gleinsvik, Marthe Rosenvinge Ervik, Tor Egil Viblemo & Fredrik L. Ellingsen--><!--Primary contributor: Dag Ellingsen--><!--Secondary contributors: Linn Andersen, Audun Gleinsvik, Marthe Rosenvinge Ervik, Tor Egil Viblemo & Fredrik L. Ellingsen-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Dag</given_name>
@@ -2641,21 +2189,13 @@
                <item_number>FoU-resultat 2015</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2015/4</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2015/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hvordan-skape-et-rettssikkert-lavterskeltilbud</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Bergene, Anne Cecilie, Ingar Brattbakk, Cathrine Egeland & Arild Henrik Steen-->
-            <!--Primary contributor: Anne Cecilie Bergene-->
-            <!--Secondary contributors: Ingar Brattbakk, Cathrine Egeland & Arild Henrik Steen-->
+         <report-paper_metadata language="no"><!--Contributors: Bergene, Anne Cecilie, Ingar Brattbakk, Cathrine Egeland & Arild Henrik Steen--><!--Primary contributor: Anne Cecilie Bergene--><!--Secondary contributors: Ingar Brattbakk, Cathrine Egeland & Arild Henrik Steen-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Anne Cecilie</given_name>
@@ -2694,21 +2234,13 @@
                <item_number>FoU-resultat 2015</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2015/5</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2015/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Norsk-arbeidsliv-2015</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Mamelund, Svenn-Erik & Dag Ellingsen-->
-            <!--Primary contributor: Svenn-Erik Mamelund-->
-            <!--Secondary contributors: Dag Ellingsen-->
+         <report-paper_metadata language="no"><!--Contributors: Mamelund, Svenn-Erik & Dag Ellingsen--><!--Primary contributor: Svenn-Erik Mamelund--><!--Secondary contributors: Dag Ellingsen-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Svenn-Erik</given_name>
@@ -2739,21 +2271,13 @@
                <item_number>FoU-resultat 2015</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2015/6</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2015/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Har-flygeledere-hoeyere-doedelighet-enn-sammenliknbare-yrkesgrupper</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
       <report-paper>
-         <report-paper_series_metadata language="no">
-            <series_metadata>
-               <titles>
-                  <title>AFI-fou-resultater</title>
-               </titles>
-            </series_metadata>
-            <!--Contributors: Ellingsen, Dag, Karen-Sofie Pettersen, Linn Andersen & Tor-Egil Viblemo-->
-            <!--Primary contributor: Dag Ellingsen-->
-            <!--Secondary contributors: Karen-Sofie Pettersen, Linn Andersen & Tor-Egil Viblemo-->
+         <report-paper_metadata language="no"><!--Contributors: Ellingsen, Dag, Karen-Sofie Pettersen, Linn Andersen & Tor-Egil Viblemo--><!--Primary contributor: Dag Ellingsen--><!--Secondary contributors: Karen-Sofie Pettersen, Linn Andersen & Tor-Egil Viblemo-->
             <contributors>
                <person_name contributor_role="author" sequence="first">
                   <given_name>Dag</given_name>
@@ -2792,10 +2316,10 @@
                <item_number>FoU-resultat 2015</item_number>
             </publisher_item>
             <doi_data>
-               <doi>http://doi.org/10.7577/afi/fou/2015/7</doi>
+               <doi>http://doi.org/10.7577/afi/fou/2015/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Terskler-i-barnevernet</resource>
             </doi_data>
-         </report-paper_series_metadata>
+         </report-paper_metadata>
       </report-paper>
    </body>
 </doi_batch>

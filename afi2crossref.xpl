@@ -53,10 +53,10 @@
 					<xsl:template match="body">
 						<body>
 							<xsl:apply-templates select="report-paper">
-								<xsl:sort select="report-paper_series_metadata/publication_date/year"/>
-								<xsl:sort select="xs:integer(replace(replace(replace(report-paper_series_metadata/publisher_item/item_number, '^.*?:(\d+)$','$1'), '\D',' '), '^\s+$', '0'))"/>
-								<xsl:sort select="xs:string(report-paper_series_metadata/contributors/person_name[sequence=first]/surname)"/>
-								<xsl:sort select="string-join((report-paper_series_metadata/contributors/person_name[sequence=additional]/surname),'')"/>
+								<xsl:sort select="descendant::publication_date/year[1]"/>
+								<xsl:sort select="xs:integer(replace(replace(replace(descendant::publisher_item/item_number[1], '^.*?:(\d+)$','$1'), '\D',' '), '^\s+$', '0'))"/>
+								<xsl:sort select="xs:string(descendant::contributors/person_name[sequence=first]/surname)"/>
+								<xsl:sort select="string-join((descendant::contributors/person_name[sequence=additional]/surname),'')"/>
 							</xsl:apply-templates>
 						</body>
 					</xsl:template>

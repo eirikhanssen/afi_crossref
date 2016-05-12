@@ -29,24 +29,26 @@
     </xsl:function>
     
     <xsl:template match="doi">
+        <xsl:variable name="current_year" select="../../publication_date/year"/>
         <xsl:variable name="doi_seq">
             <!-- if there is a sequence after year, use it, otherwise, use the sequence of the entry with the same year -->
             <xsl:variable name="item_number_seq">
                 <xsl:value-of select="replace(../../publisher_item/item_number, '^.*?:(\d+)$','$1')"/>
             </xsl:variable>
-          
             <xsl:variable name="current_report_seq_in_year">
-                <xsl:variable name="current_year" select="../../publication_date/year"/>
                 <xsl:value-of select="count(ancestor::report-paper/preceding-sibling::report-paper[report-paper_series_metadata/publication_date/year = $current_year])+1"/>
             </xsl:variable>
-            
             <xsl:choose>
-                <xsl:when test="matches($item_number_seq,'^\d+$')"><xsl:value-of select="$item_number_seq"/></xsl:when>
-                <xsl:otherwise><xsl:value-of select="$current_report_seq_in_year"/></xsl:otherwise>
+                <!--<xsl:when test="$item_number_seq != ''"><xsl:value-of select="$item_number_seq"/></xsl:when>-->
+                <xsl:when test="matches($item_number_seq,'^\d+$')">
+                    <xsl:value-of select="$item_number_seq"/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="$current_report_seq_in_year"/>
+                </xsl:otherwise>
             </xsl:choose>
             
         </xsl:variable>
-        
         <doi><xsl:value-of select="hfw:generateDoi(../../publisher_item/item_number, $doi_seq)"/></doi>
     </xsl:template>
     
