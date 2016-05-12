@@ -85,8 +85,8 @@
 					<year><xsl:value-of select="$year"/></year>	
 				</publication_date>
 				<publisher>
-					<publisher_place><xsl:value-of select="$publisher_place"/></publisher_place>
 					<publisher_name><xsl:value-of select="$publisher_name"/></publisher_name>
+					<publisher_place><xsl:value-of select="$publisher_place"/></publisher_place>
 				</publisher>
 				<institution>
 					<institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
@@ -100,7 +100,7 @@
 					</xsl:if>
 				</publisher_item>
 				<doi_data>
-					<doi><xsl:comment>TODO</xsl:comment></doi>
+					<doi></doi>
 					<resource><xsl:value-of select="$uri"/></resource>
 				</doi_data>
 			</report-paper_series_metadata>

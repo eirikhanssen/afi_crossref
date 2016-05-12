@@ -38,8 +38,6 @@
 	</xsl:variable>
 	<xsl:template name="main">
 		<doi_batch version="4.3.4" xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd"><xsl:text>&#xa;</xsl:text>
-			<xsl:comment>TODO: remember to add namespace to doi_batch!</xsl:comment><xsl:text>&#xa;</xsl:text>
-			<xsl:comment>xmlns="http://www.crossref.org/schema/4.3.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.4" xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd"</xsl:comment><xsl:text>&#xa;</xsl:text>
 			<head>
 				<doi_batch_id><xsl:value-of select="concat('hioa_',$timestamp)"/></doi_batch_id>
 				<timestamp><xsl:value-of select="$timestamp"/></timestamp>

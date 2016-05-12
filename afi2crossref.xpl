@@ -95,9 +95,5 @@
 		</p:input>
 	</p:xslt>
 	
-
-	<!-- TODO: 
-		- add namespace!
-	-->
 	<p:identity/>
 </p:declare-step>

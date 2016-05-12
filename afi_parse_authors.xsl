@@ -81,7 +81,7 @@
 		<xsl:variable name="contributors">
 		<contributors>
 			<person_name contributor_role="{$contributor_role}" sequence="first">
-				<given_names><xsl:value-of select="hfw:getGivenNamesFromContributorString($primary_contributor)"/></given_names>
+				<given_name><xsl:value-of select="hfw:getGivenNamesFromContributorString($primary_contributor)"/></given_name>
 				<surname><xsl:value-of select="hfw:getSurnameFromContributorString($primary_contributor)"/></surname>
 			</person_name>
 			<xsl:for-each select="tokenize($secondary_contributors, '(\s*,\s*)|(\s+og\s+)|(\s*&amp;\s*)')">
