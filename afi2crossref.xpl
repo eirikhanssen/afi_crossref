@@ -84,8 +84,20 @@
 		</p:input>
 	</p:xslt>
 
+	<p:xslt name="add_crossref_ns" version="2.0">
+		<!-- get source from previous transform -->
+		<p:input port="source"/>
+		<p:input port="stylesheet">
+			<p:document href="add_crossref_ns.xsl"/>
+		</p:input>
+		<p:input port="parameters">
+			<p:empty/>
+		</p:input>
+	</p:xslt>
+	
+
 	<!-- TODO: 
-		- assign doi
+		- add namespace!
 	-->
 	<p:identity/>
 </p:declare-step>

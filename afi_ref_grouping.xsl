@@ -11,7 +11,7 @@
 	xmlns:sm="https://github.com/eirikhanssen/odf2jats/stylemap"
 	xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0"
 	xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0"
-	exclude-result-prefixes="xs sm style office text table fo draw svg xlink xsi mml hfw">
+	exclude-result-prefixes="xs sm style office text table fo draw svg xlink mml hfw">
 	<xsl:output method="xml" indent="yes" omit-xml-declaration="yes"/>
 	<xsl:param name="folder"/>
 	<xsl:param name="timestamp"/>
@@ -37,7 +37,7 @@
 		<xsl:sequence select="$style_doc//style:style, $content_doc//style:style"/>
 	</xsl:variable>
 	<xsl:template name="main">
-		<doi_batch><xsl:text>&#xa;</xsl:text>
+		<doi_batch version="4.3.4" xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd"><xsl:text>&#xa;</xsl:text>
 			<xsl:comment>TODO: remember to add namespace to doi_batch!</xsl:comment><xsl:text>&#xa;</xsl:text>
 			<xsl:comment>xmlns="http://www.crossref.org/schema/4.3.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.4" xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd"</xsl:comment><xsl:text>&#xa;</xsl:text>
 			<head>
