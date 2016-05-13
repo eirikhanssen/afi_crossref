@@ -17,11 +17,12 @@
                 <xsl:when test="matches($input_string, '[Ff][Oo][Uu]')">fou/</xsl:when>
                 <xsl:when test="matches($input_string, '[Rr]apport')">rapport/</xsl:when>
                 <xsl:when test="matches($input_string, '[Ss]kriftserie')">skriftserie/</xsl:when>
+            	<xsl:when test="matches($input_string, '[Nn]otat')">notat/</xsl:when>
             </xsl:choose>
         </xsl:variable>
         <xsl:variable name="year_seq_separator">
             <xsl:choose>
-                <xsl:when test="matches($doi_suffix, 'rapport')">:</xsl:when>
+                <xsl:when test="matches($doi_suffix, 'rapport|notat|skriftserie')">:</xsl:when>
                 <xsl:otherwise>/</xsl:otherwise>
             </xsl:choose>
         </xsl:variable>

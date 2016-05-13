@@ -48,6 +48,9 @@
 			<xsl:when test="matches($input_string, '[Ff][Oo][Uu]-')">
 				<xsl:value-of select="replace($input_string, '^.+?([Ff][Oo][Uu]-[^ \d]+\s*[^.]+).+$' , '$1')"/>
 			</xsl:when>
+			<xsl:when test="matches($input_string, '[Aa][Ff][Ii]-[Nn]otat')">
+				<xsl:value-of select="replace($input_string, '^.+?([Aa][Ff][Ii]-[^ \d]+\s*[^.]+).+$' , '$1')"/>
+			</xsl:when>
 			<xsl:otherwise>
 				<xsl:value-of select="' '"/>
 			</xsl:otherwise>
