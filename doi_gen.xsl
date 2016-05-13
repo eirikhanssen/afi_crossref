@@ -22,7 +22,7 @@
         </xsl:variable>
         <xsl:variable name="year_seq_separator">
             <xsl:choose>
-                <xsl:when test="matches($doi_suffix, 'rapport|notat|skriftserie')">:</xsl:when>
+                <xsl:when test="matches($doi_suffix, 'rapport|notat')">:</xsl:when>
                 <xsl:otherwise>/</xsl:otherwise>
             </xsl:choose>
         </xsl:variable>
