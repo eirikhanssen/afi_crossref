@@ -2445,16 +2445,15 @@
                </person_name>
             </contributors>
             <titles>
-               <title/>
+            	<title>LEAN i solnedgang. Vekst og fall i RECs Waferfabrikk på Herøya.</title>
             </titles>
             <publication_date media_type="online"><!--TODO: What about printed publication date?-->
                <year>2012</year>
             </publication_date>
             <publisher>
-               <publisher_name>LEAN i solnedgang</publisher_name>
-               <publisher_place>Bygdås, Arne &amp; Eivind Falkum (2012)</publisher_place>
+            	<publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
             </publisher>
-            
             <publisher_item>
                <item_number>AFI-rapport 2012:18</item_number>
             </publisher_item>

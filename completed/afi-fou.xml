@@ -65,7 +65,7 @@
                <year>2002</year>
             </publication_date>
             <publisher>
-               <publisher_name>Work Research Institute</publisher_name>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
             
@@ -117,24 +117,24 @@
       <report-paper>
          <report-paper_metadata language="no"><!--Contributors: Uhrig, Bettina & Michael J. Evans--><!--Primary contributor: Bettina Uhrig--><!--Secondary contributors: Michael J. Evans-->
             <contributors>
-               <person_name contributor_role="author" sequence="first">
+               <person_name contributor_role="editor" sequence="first">
                   <given_name>Bettina</given_name>
                   <surname>Uhrig</surname>
                </person_name>
-               <person_name contributor_role="author" sequence="additional">
+               <person_name contributor_role="editor" sequence="additional">
                   <given_name>Michael J.</given_name>
                   <surname>Evans</surname>
                </person_name>
             </contributors>
             <titles>
-               <title/>
+            	<title>Strategies for Inclusion - co-ordinated approaches for quality employment -Phase I. Handbook of good practice.</title>
             </titles>
             <publication_date media_type="online"><!--TODO: What about printed publication date?-->
                <year>2003</year>
             </publication_date>
             <publisher>
-               <publisher_name>Strategies for Inclusion - co-ordinated approaches for quality employment -Phase I</publisher_name>
-               <publisher_place>Uhrig, Bettina &amp; Michael J. Evans (eds.) (2003)</publisher_place>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
             </publisher>
             
             <publisher_item>
@@ -201,7 +201,7 @@
                <year>2005</year>
             </publication_date>
             <publisher>
-               <publisher_name>Work Research Institute</publisher_name>
+            	<publisher_name>Arbeidsforskningsinstuttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
             
@@ -505,7 +505,7 @@
                <year>2007</year>
             </publication_date>
             <publisher>
-               <publisher_name>Work Research Institute</publisher_name>
+            	<publisher_name>Arbeidsforskningsinstuttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
             
@@ -865,7 +865,7 @@
                <year>2009</year>
             </publication_date>
             <publisher>
-               <publisher_name>Høgskolen i Oslo</publisher_name>
+            	<publisher_name>Arbeidsforskningsinstuttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
             
@@ -1163,14 +1163,14 @@
                </person_name>
             </contributors>
             <titles>
-               <title/>
+            	<title>Conflict Prevention and Management. A Survival Kit for Small Workplaces.</title>
             </titles>
             <publication_date media_type="online"><!--TODO: What about printed publication date?-->
                <year>2012</year>
             </publication_date>
             <publisher>
-               <publisher_name>Conflict Prevention and Management</publisher_name>
-               <publisher_place>Widding, Steinar, Asbjørn Grimsmo, Kirsti Jacobsen &amp; Annik Apall Austad (2012)</publisher_place>
+            	<publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
             </publisher>
             
             <publisher_item>
@@ -1311,14 +1311,14 @@
                </person_name>
             </contributors>
             <titles>
-               <title/>
+            	<title>Jobpics – et billedbasert interesseutforskingsverktøy. Erfaringsrapport.</title>
             </titles>
             <publication_date media_type="online"><!--TODO: What about printed publication date?-->
                <year>2012</year>
             </publication_date>
             <publisher>
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
-               <publisher_place>Schafft, Angelika. (2012). Jobpics – et billedbasert interesseutforskingsverktøy. Erfaringsrapport. Oslo</publisher_place>
+               <publisher_place>Oslo</publisher_place>
             </publisher>
             
             <publisher_item>
