@@ -37,10 +37,3 @@ lookbehind og lookahead
 (?<=[(]\d\d\d\d[)]:\s).+?(?=\s*Oslo:)
 
 kursiver!
-
-
-Sett inn årstall:
-
-^([^()]+?)(:)(.+?)(AFI-notat\s*)(\d\d\d\d)(:\d+)
-Erstatt:
-$1 ($5)$2$3$4$5$6
