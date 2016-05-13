@@ -1,0 +1,3302 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.4"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+           version="4.3.4"
+           xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd">
+   <head>
+      <doi_batch_id>hioa_20160513152429</doi_batch_id>
+      <timestamp>20160513152429</timestamp>
+      <depositor>
+         <depositor_name>Eirik Hanssen</depositor_name>
+         <email_address>ojs@hioa.no</email_address>
+      </depositor>
+      <registrant>HiOA</registrant>
+   </head>
+   <body>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-Notater</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Salomon, Robert-->
+            <!--Primary contributor: Robert Salomon-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Robert</given_name>
+                  <surname>Salomon</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Det fleksible arbeidslivet - utviklingstrekk og synspunkter.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2000</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2000:2</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2000:2</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Det-fleksible-arbeidslivet</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Salomon, Robert, Christin Thea Wathne, Øystein Gullvåg Holter-->
+            <!--Primary contributor: Robert Salomon-->
+            <!--Secondary contributors: Christin Thea Wathne, Øystein Gullvåg Holter-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Robert</given_name>
+                  <surname>Salomon</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Christin Thea</given_name>
+                  <surname>Wathne</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Øystein Gullvåg</given_name>
+                  <surname>Holter</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Omstillinger og sluttvederlag i staten: erfaringer fra et forprosjekt.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2003</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2003:1</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2003:1</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Omstillinger-og-sluttvederlag-i-staten</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Hilsen, Anne Inga, Trude Steinum, Elisabeth Gjerberg-->
+            <!--Primary contributor: Anne Inga Hilsen-->
+            <!--Secondary contributors: Trude Steinum, Elisabeth Gjerberg-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Anne Inga</given_name>
+                  <surname>Hilsen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Trude</given_name>
+                  <surname>Steinum</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Elisabeth</given_name>
+                  <surname>Gjerberg</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Utredning om omstilling.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2004</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2004:3</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2004:3</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Utredning-om-omstilling</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Enehaug, Heidi, Aslaug Hetle, Gjøril Seierstad-->
+            <!--Primary contributor: Heidi Enehaug-->
+            <!--Secondary contributors: Aslaug Hetle, Gjøril Seierstad-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Heidi</given_name>
+                  <surname>Enehaug</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Aslaug</given_name>
+                  <surname>Hetle</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Gjøril</given_name>
+                  <surname>Seierstad</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Når menn velger menn, og kvinner velger menn… Synspunkter på bruk av kvinnelige ressurser i norsk filmbransje – rapport fra et forprosjekt.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2004</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2004:5</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2004:5</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Naar-menn-velger-menn-og-kvinner-velger-menn</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Spjelkavik, Øystein, Kjetil Frøyland, Michael J. Evans-->
+            <!--Primary contributor: Øystein Spjelkavik-->
+            <!--Secondary contributors: Kjetil Frøyland, Michael J. Evans-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Øystein</given_name>
+                  <surname>Spjelkavik</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Kjetil</given_name>
+                  <surname>Frøyland</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Michael J.</given_name>
+                  <surname>Evans</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Supported employment in Norway - a national mainstream programme.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2004</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2004:6</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2004:6</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Supported-employment-in-Norway</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Schafft, Angelika, Kjetil Frøyland, Øystein Spjelkavik-->
+            <!--Primary contributor: Angelika Schafft-->
+            <!--Secondary contributors: Kjetil Frøyland, Øystein Spjelkavik-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Angelika</given_name>
+                  <surname>Schafft</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Kjetil</given_name>
+                  <surname>Frøyland</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Øystein</given_name>
+                  <surname>Spjelkavik</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Evaluering av arbeidsmarkedssatsingen for sosialhjelpsmottakere. Delrapport 2.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2005</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2005:1</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2005:1</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-arbeidsmarkedssatsingen-for-sosialhjelpsmottakere</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Frøyland, Kjetil-->
+            <!--Primary contributor: Kjetil Frøyland-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Kjetil</given_name>
+                  <surname>Frøyland</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Arbeidsliv og rus. Kunnskapsstatus anno 2005.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2005</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2005:3</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2005:3</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Arbeidsliv-og-rus</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Spjelkavik, Øystein, Steinar Widding-->
+            <!--Primary contributor: Øystein Spjelkavik-->
+            <!--Secondary contributors: Steinar Widding-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Øystein</given_name>
+                  <surname>Spjelkavik</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Steinar</given_name>
+                  <surname>Widding</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Funksjonshemmet i arbeidslivet - fortsatt usynlig? : en oppfølgingsstudie av "Informasjonsprosjektet om arbeidstakere som er funksjonshemmet" (1998-2001).</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2005</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2005:4</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2005:4</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Funksjonshemmet-i-arbeidslivet-fortsatt-usynlig</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Schafft, Angelika-->
+            <!--Primary contributor: Angelika Schafft-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Angelika</given_name>
+                  <surname>Schafft</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Skandinavisk faglitteratur om arbeidsliv og psykisk helse: en summarisk oversikt og utvalgte eksempler.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2005</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2005:6</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2005:6</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Skandinavisk-faglitteratur-om-arbeidsliv-og-psykisk-helse</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Deichman-Sørensen, Trine-->
+            <!--Primary contributor: Trine Deichman-Sørensen-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Trine</given_name>
+                  <surname>Deichman-Sørensen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Selvkvalifisering i arbeidslivet: en kvalitativ undersøkelse av overgangen mellom utdanning og arbeidsliv. Hovedfunn og sammendrag.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2005</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2005:7</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2005:7</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Selvkvalifisering-i-arbeidslivet</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Frøyland, Kjetil & Øystein Spjelkavik-->
+            <!--Primary contributor: Kjetil Frøyland-->
+            <!--Secondary contributors: Øystein Spjelkavik-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Kjetil</given_name>
+                  <surname>Frøyland</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Øystein</given_name>
+                  <surname>Spjelkavik</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Individuell Oppfølging: sluttevaluering av et forsøksprosjekt i Østfold.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2006</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2006:1</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2006:1</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Individuell-Oppfoelging</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Frøyland, Kjetil-->
+            <!--Primary contributor: Kjetil Frøyland-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Kjetil</given_name>
+                  <surname>Frøyland</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Supported employment or segregated rehabilitation?: vocational rehabilitation and the idea of "rapid job placement": a literature review.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2006</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2006:2</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2006:2</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Supported-employment-or-segregated-rehabilitation-Vocational-rehabilitation-and-the-idea-of-rapid-job-placement</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Widding, Steinar & Henrik D. Finsrud-->
+            <!--Primary contributor: Steinar Widding-->
+            <!--Secondary contributors: Henrik D. Finsrud-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Steinar</given_name>
+                  <surname>Widding</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Henrik D.</given_name>
+                  <surname>Finsrud</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Fylkeskommunen og kommunene i samarbeid: evaluering av utviklingskontrakter mellom fylkeskommunen og kommunene i Vestfold.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2006</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2006:3</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2006:3</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Fylkeskommunen-og-kommunene-i-samarbeid</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Gamperiene, Migle & Helga Bull-->
+            <!--Primary contributor: Migle Gamperiene-->
+            <!--Secondary contributors: Helga Bull-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Migle</given_name>
+                  <surname>Gamperiene</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Helga</given_name>
+                  <surname>Bull</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Jakten på de gode modeller: inkludering av funksjonshemmede i det europeiske arbeidslivet.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2006</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2006:4</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2006:4</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Jakten-paa-de-gode-modeller</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Holte, Hilde H. & Asbjørn Grimsmo-->
+            <!--Primary contributor: Hilde H. Holte-->
+            <!--Secondary contributors: Asbjørn Grimsmo-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Hilde H.</given_name>
+                  <surname>Holte</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Asbjørn</given_name>
+                  <surname>Grimsmo</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Arbeidsmiljø i skole og barnehage, en bibliografi for perioden 1995 – 2006.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2006</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2006:5</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2006:5</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Arbeidsmiljoe-i-skole-og-barnehage-en-bibliografi-for-perioden-1995-2006</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Bjørnholt, Margunn & Hanne Heen-->
+            <!--Primary contributor: Margunn Bjørnholt-->
+            <!--Secondary contributors: Hanne Heen-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Margunn</given_name>
+                  <surname>Bjørnholt</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Hanne</given_name>
+                  <surname>Heen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Fjernledelse i Statens vegvesen.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2007</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2007:1</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2007:1</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Fjernledelse-i-Statens-vegvesen</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Hansen, Inger Lise Skog & Jørgen Svalund-->
+            <!--Primary contributor: Inger Lise Skog Hansen-->
+            <!--Secondary contributors: Jørgen Svalund-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Inger Lise Skog</given_name>
+                  <surname>Hansen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Jørgen</given_name>
+                  <surname>Svalund</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Funksjonshemmede på arbeidsmarkedet: et oversiktsbilde.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2007</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Fafo og Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2007:2</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2007:2</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Funksjonshemmede-paa-arbeidsmarkedet</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Fosstenløkken, Siw-->
+            <!--Primary contributor: Siw Fosstenløkken-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Siw</given_name>
+                  <surname>Fosstenløkken</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Det gode skolebygg: en sammenlikning av nasjonale tverrfaglige prosjekt i Sverige, Danmark, USA og Australia.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2007</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2007:3</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2007:3</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Det-gode-skolebygg</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Spjelkavik, Øystein-->
+            <!--Primary contributor: Øystein Spjelkavik-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Øystein</given_name>
+                  <surname>Spjelkavik</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Unge funksjonshemmede på praksisplass og i jobb: evaluering av "Unge, fysisk funksjonshemmede i arbeid - hvordan hindre barrierer skolearbeidsliv?".</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2007</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2007:4</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2007:4</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Unge-funksjonshemmede-paa-praksisplass-og-i-jobb</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Fossestøl, Knut-->
+            <!--Primary contributor: Knut Fossestøl-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Knut</given_name>
+                  <surname>Fossestøl</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Den revitaliserte arbeidslinja - en linje eller to?: redegjørelse for forskjeller og likheter mellom en effektivitetsorientert og en rettferdighetsorientert forståelse av arbeidslinja.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2007</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2007:5</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2007:5</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Den-revitaliserte-arbeidslinja-en-linje-eller-to</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Fossestøl, Knut-->
+            <!--Primary contributor: Knut Fossestøl-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Knut</given_name>
+                  <surname>Fossestøl</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Omstilling av opptreningsinstitusjonene: evaluering av tilskudd/prøveprosjekt for utvikling av tilbud/tjenester innenfor blant annet arbeidsrettet rehabilitering.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2007</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2007:6</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2007:6</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Omstilling-av-opptreningsinstitusjonene</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Bull, Helga & Tone Alm Andreassen-->
+            <!--Primary contributor: Helga Bull-->
+            <!--Secondary contributors: Tone Alm Andreassen-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Helga</given_name>
+                  <surname>Bull</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Tone Alm</given_name>
+                  <surname>Andreassen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Oppfølgingsundersøkelse om ansettelse av funksjonshemmede i staten.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2007</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2007:7</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2007:7</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Oppfoelgingsundersoekelse-om-ansettelse-av-funksjonshemmede-i-staten</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Spjelkavik, Øystein & Michael J. Evans-->
+            <!--Primary contributor: Øystein Spjelkavik-->
+            <!--Secondary contributors: Michael J. Evans-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Øystein</given_name>
+                  <surname>Spjelkavik</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Michael J.</given_name>
+                  <surname>Evans</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Impression of supported employment: a study of some European supported employment services and their activities.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2007</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2007:8</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2007:8</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Impression-of-Supported-Employment</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Andreassen, Tone Alm & Cathrine Egeland-->
+            <!--Primary contributor: Tone Alm Andreassen-->
+            <!--Secondary contributors: Cathrine Egeland-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Tone Alm</given_name>
+                  <surname>Andreassen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Cathrine</given_name>
+                  <surname>Egeland</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Et råd for framtiden?: posisjon og arbeidsform for Statens råd for funksjonshemmede i et endret politisk felt.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2007</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2007:9</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2007:9</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Et-raad-for-framtiden</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Steinum, Trude, Anne Inga Hilsen & Helga Bull-->
+            <!--Primary contributor: Trude Steinum-->
+            <!--Secondary contributors: Anne Inga Hilsen & Helga Bull-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Trude</given_name>
+                  <surname>Steinum</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Anne Inga</given_name>
+                  <surname>Hilsen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Helga</given_name>
+                  <surname>Bull</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Kunnskapsstatus for programmet FARVE (forsøksmidler arbeid og velferd): tema: å øke den gjennomsnittlige avgangsalderen.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2007</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2007:10</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2007:10</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Kunnskapsstatus-for-programmet-FARVE-forsoeksmidler-arbeid-og-velferd</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Gamperiene, Migle, Asbjørn Grimsmo & Bjørg Aase Sørensen-->
+            <!--Primary contributor: Migle Gamperiene-->
+            <!--Secondary contributors: Asbjørn Grimsmo & Bjørg Aase Sørensen-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Migle</given_name>
+                  <surname>Gamperiene</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Asbjørn</given_name>
+                  <surname>Grimsmo</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Bjørg Aase</given_name>
+                  <surname>Sørensen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Programmet FARVE (Forsøksmidler arbeid og velferd): kunnskapsstatus tema 1: sykefravær.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2007</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2007:11</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2007:11</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Programmet-FARVE-Forsoeksmidler-arbeid-og-velferd</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Andreassen, Tone Alm, Hilde Haualand & Steinar Widding-->
+            <!--Primary contributor: Tone Alm Andreassen-->
+            <!--Secondary contributors: Hilde Haualand & Steinar Widding-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Tone Alm</given_name>
+                  <surname>Andreassen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Hilde</given_name>
+                  <surname>Haualand</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Steinar</given_name>
+                  <surname>Widding</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Funksjonshemming og arbeidsliv i tre bransjer: sysselsettingsmuligheter og funksjonshemmende barrierer i byggebransjen, IKT-bransjen og helsesektoren.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2007</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2007:12</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2007:12</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Funksjonshemming-og-arbeidsliv-i-tre-bransjer</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Schafft, Angelika-->
+            <!--Primary contributor: Angelika Schafft-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Angelika</given_name>
+                  <surname>Schafft</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Klok av skade. Evaluering av tiltaket ”Medarbeider med brukererfaring” i Bergen.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2008</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2008:1</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2008:1</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Klok-av-skade</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Amble, Nina-->
+            <!--Primary contributor: Nina Amble-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Nina</given_name>
+                  <surname>Amble</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Evaluering av 3-3-turnus i Harstad kommune.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2008</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2008:2</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2008:2</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-3-3-turnus-i-Harstad-kommune</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Drange, Ida & Nina Amble-->
+            <!--Primary contributor: Ida Drange-->
+            <!--Secondary contributors: Nina Amble-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Ida</given_name>
+                  <surname>Drange</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Nina</given_name>
+                  <surname>Amble</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Kartlegging av deltidsarbeid i Drammen kommune - pleie og omsorgssektoren.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2008</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2008:3</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2008:3</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Kartlegging-av-deltidsarbeid-i-Drammen-kommune</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Amble, Nina-->
+            <!--Primary contributor: Nina Amble-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Nina</given_name>
+                  <surname>Amble</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Forsøk og erfaringer med arbeidstidsordninger som reduserer uønsket deltid i turnus – en oppsummering.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2008</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2008:4</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2008:4</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Forsoek-og-erfaringer-med-arbeidstidsordninger-som-reduserer-uoensket-deltid-i-turnus</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Enehaug, Heidi, Anne Inga Hilsen & Trude Steinum-->
+            <!--Primary contributor: Heidi Enehaug-->
+            <!--Secondary contributors: Anne Inga Hilsen & Trude Steinum-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Heidi</given_name>
+                  <surname>Enehaug</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Anne Inga</given_name>
+                  <surname>Hilsen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Trude</given_name>
+                  <surname>Steinum</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Særaldersgrenser og virksomhetenes handlingsrom. Rapport fra en empirisk undersøkelse i fire virksomhter.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2008</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2008:5</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2008:5</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Saeraldersgrenser-og-virksomhetenes-handlingsrom</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Forsberg, Ellen-Marie, Ida Drange & Nina Amble-->
+            <!--Primary contributor: Ellen-Marie Forsberg-->
+            <!--Secondary contributors: Ida Drange & Nina Amble-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Ellen-Marie</given_name>
+                  <surname>Forsberg</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Ida</given_name>
+                  <surname>Drange</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Nina</given_name>
+                  <surname>Amble</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Faktaundersøkelse om rekruttering av kvinner til ledelse i domstolene.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2008</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2008:6</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2008:6</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Faktaundersoekelse-om-rekruttering-av-kvinner-til-ledelse-i-domstolene</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Schafft, Angelika-->
+            <!--Primary contributor: Angelika Schafft-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Angelika</given_name>
+                  <surname>Schafft</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Undersøkelse blant pårørende til mennesker med psykiske lidelser i Oslo.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2008</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2008:7</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2008:7</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Undersoekelse-blant-paaroerende-til-mennesker-med-psykiske-lidelser-i-Oslo</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Halrynjo, Sigtona-->
+            <!--Primary contributor: Sigtona Halrynjo-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Sigtona</given_name>
+                  <surname>Halrynjo</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Kjønn, karriere og omsorgsansvar blant jurister.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2008</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2008:8</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2008:8</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Kjoenn-karriere-og-omsorgsansvar-blant-jurister</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Enehaug, Heidi, Migle Gamperiene & Asbjørn Grimsmo-->
+            <!--Primary contributor: Heidi Enehaug-->
+            <!--Secondary contributors: Migle Gamperiene & Asbjørn Grimsmo-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Heidi</given_name>
+                  <surname>Enehaug</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Migle</given_name>
+                  <surname>Gamperiene</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Asbjørn</given_name>
+                  <surname>Grimsmo</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Arbeidsmiljøet i barnehagen.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2008</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2008:9</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2008:9</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Arbeidsmiljoeet-i-barnehagen</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Andreassen, Tone Alm-->
+            <!--Primary contributor: Tone Alm Andreassen-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Tone Alm</given_name>
+                  <surname>Andreassen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Organisering for helhetlig tjenesteyting. Organisatoriske valg og variasjon i lokale NAV-kontor.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2008</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2008:10</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2008:10</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Organisering-for-helhetlig-tjenesteyting</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Wathne, Christin Thea, Liv Finstad, Ida Drange-->
+            <!--Primary contributor: Christin Thea Wathne-->
+            <!--Secondary contributors: Liv Finstad, Ida Drange-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Christin Thea</given_name>
+                  <surname>Wathne</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Liv</given_name>
+                  <surname>Finstad</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Ida</given_name>
+                  <surname>Drange</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Vilkår for oppgaveløsning i politiet - et spørsmål om risiko- og belastningshåndtering.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2008</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2008:11</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2008:11</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Vilkaar-for-oppgaveloesning-i-politiet</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Lyng, Selma Therese-->
+            <!--Primary contributor: Selma Therese Lyng-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Selma Therese</given_name>
+                  <surname>Lyng</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Opp eller ut. En kvalitativ rapport om kvinnelige advokaters vei ut av bransjen.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2008</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2008:12</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2008:12</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Opp-eller-ut2</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Enehaug, Heidi, Migle Gamperiene, Aslaug Hetle, Morten Wærsted & Dag Bruusgaard-->
+            <!--Primary contributor: Heidi Enehaug-->
+            <!--Secondary contributors: Migle Gamperiene, Aslaug Hetle, Morten Wærsted & Dag Bruusgaard-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Heidi</given_name>
+                  <surname>Enehaug</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Migle</given_name>
+                  <surname>Gamperiene</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Aslaug</given_name>
+                  <surname>Hetle</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Morten</given_name>
+                  <surname>Wærsted</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Dag</given_name>
+                  <surname>Bruusgaard</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Arbeidsmiljø og helse i renholdsbransjen.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2008</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2008:13</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2008:13</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Arbeidsmiljoe-og-helse-i-renholdsbransjen</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Heen, Hanne & Margunn Bjørnholt-->
+            <!--Primary contributor: Hanne Heen-->
+            <!--Secondary contributors: Margunn Bjørnholt-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Hanne</given_name>
+                  <surname>Heen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Margunn</given_name>
+                  <surname>Bjørnholt</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Hvorfor slutter ledere i Statens vegvesen?</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2008</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2008:14</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2008:14</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hvorfor-slutter-ledere-i-Statens-vegvesen</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Klemsdal, Lars-->
+            <!--Primary contributor: Lars Klemsdal-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Lars</given_name>
+                  <surname>Klemsdal</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Integreringsprosessen på det lokale NAV-kontoret. Første fase av iverksettelsen av NAV-reformen.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2008</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2008:15</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2008:15</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Integreringsprosessen-paa-det-lokale-NAV-kontoret</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Spjelkavik, Øystein-->
+            <!--Primary contributor: Øystein Spjelkavik-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Øystein</given_name>
+                  <surname>Spjelkavik</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Fokus på nye muligheter - evaluering av et kurs ved Mølla Kompetansesenter.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2008</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2008:16</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2008:16</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Fokus-paa-nye-muligheter</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Skarpaas, Ingebjørg & Ingrid Rusnes-->
+            <!--Primary contributor: Ingebjørg Skarpaas-->
+            <!--Secondary contributors: Ingrid Rusnes-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Ingebjørg</given_name>
+                  <surname>Skarpaas</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Ingrid</given_name>
+                  <surname>Rusnes</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Evaluering av sentralforvaltningens trainee-program for høyt utdannede personer med funksjonsnedsettelse.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2008</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2008:17</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2008:17</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-sentralforvaltningens-trainee-program-for-hoeyt-utdannede-personer-med-funksjonsnedsettelse</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Wathne, Christin Thea, Øystein Fossen, Trude Steinum & Thoralf Ulrik Qvale-->
+            <!--Primary contributor: Christin Thea Wathne-->
+            <!--Secondary contributors: Øystein Fossen, Trude Steinum & Thoralf Ulrik Qvale-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Christin Thea</given_name>
+                  <surname>Wathne</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Øystein</given_name>
+                  <surname>Fossen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Trude</given_name>
+                  <surname>Steinum</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Thoralf Ulrik</given_name>
+                  <surname>Qvale</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Medvirkningsbasert organisasjonsutvikling - praktiske metoder for bedriftsutvikling.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2008</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2008:18</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2008:18</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Medvirkningsbasert-organisasjonsutvikling</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Enehaug, Heidi, Migle Gamperiene & Ali Osman-->
+            <!--Primary contributor: Heidi Enehaug-->
+            <!--Secondary contributors: Migle Gamperiene & Ali Osman-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Heidi</given_name>
+                  <surname>Enehaug</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Migle</given_name>
+                  <surname>Gamperiene</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Ali</given_name>
+                  <surname>Osman</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Entreprenørskap blant innvandrere - evaluering av to etablerersentre.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2009</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2009:1</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2009:1</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Entreprenoerskap-blant-innvandrere</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Andreassen, Tone Alm, Kristin Reichborn-Kjennerud-->
+            <!--Primary contributor: Tone Alm Andreassen-->
+            <!--Secondary contributors: Kristin Reichborn-Kjennerud-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Tone Alm</given_name>
+                  <surname>Andreassen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Kristin</given_name>
+                  <surname>Reichborn-Kjennerud</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Utvikling og utfordringer i lokale NAV-kontor.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2009</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2009:2</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2009:2</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Utvikling-og-utfordringer-i-lokale-NAV-kontor</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Wathne, Christin Thea-->
+            <!--Primary contributor: Christin Thea Wathne-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Christin Thea</given_name>
+                  <surname>Wathne</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Hva kan vi lære av gode eksempler på sykefraværsarbeid?</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2009</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2009:3</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2009:3</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hva-kan-vi-laere-av-gode-eksempler-paa-sykefravaersarbeid</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Sørensen, Bjørg Aase & Steinar Webjørnsen-->
+            <!--Primary contributor: Bjørg Aase Sørensen-->
+            <!--Secondary contributors: Steinar Webjørnsen-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Bjørg Aase</given_name>
+                  <surname>Sørensen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Steinar</given_name>
+                  <surname>Webjørnsen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Når egeninnsats er viktig. Inkluderende tiltak i medievirksomhet.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2009</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2009:4</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2009:4</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Naar-egeninnsats-er-viktig</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Sørensen, Bjørg Aase & Asbjørn Grimsmo-->
+            <!--Primary contributor: Bjørg Aase Sørensen-->
+            <!--Secondary contributors: Asbjørn Grimsmo-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Bjørg Aase</given_name>
+                  <surname>Sørensen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Asbjørn</given_name>
+                  <surname>Grimsmo</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>HiO – Arbeidsmiljø i utvikling - HiO 2008.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2009</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2009:5</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2009:5</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/HiO-Arbeidsmiljoe-i-utvikling</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Reichborn-Kjennerud, Kristin-->
+            <!--Primary contributor: Kristin Reichborn-Kjennerud-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Kristin</given_name>
+                  <surname>Reichborn-Kjennerud</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Seniortiltak i Ås kommune. Hva er grunnene til at seniorene står i jobb?</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2009</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2009:6</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2009:6</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Seniortiltak-i-AAs-kommune</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Schafft, Angelika, Øystein Spjelkavik & Sveinung Legard-->
+            <!--Primary contributor: Angelika Schafft-->
+            <!--Secondary contributors: Øystein Spjelkavik & Sveinung Legard-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Angelika</given_name>
+                  <surname>Schafft</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Øystein</given_name>
+                  <surname>Spjelkavik</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Sveinung</given_name>
+                  <surname>Legard</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Evaluering av Kvalifiseringsprogrammet  - Underveisrapport.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2009</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2009:7</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2009:7</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-ny-mulighet-brukernes-opplevelse-av-Kvalifiseringsprogrammet-i-NAV</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Widding, Steinar-->
+            <!--Primary contributor: Steinar Widding-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Steinar</given_name>
+                  <surname>Widding</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Arbeidslivet og personer med ervervet døvblindhet.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2009</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2009:8</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2009:8</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Arbeidslivet-og-personer-med-ervervet-doevblindhet</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Reichborn-Kjennerud, Kristin-->
+            <!--Primary contributor: Kristin Reichborn-Kjennerud-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Kristin</given_name>
+                  <surname>Reichborn-Kjennerud</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Hensiktsmessig oppgavedeling. En mulighetsstudie i skole-, barnehage- og helsesektoren.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2009</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2009:9</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2009:9</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hensiktsmessig-oppgavedeling</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Klemsdal, Lars & Toril Brethvas-->
+            <!--Primary contributor: Lars Klemsdal-->
+            <!--Secondary contributors: Toril Brethvas-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Lars</given_name>
+                  <surname>Klemsdal</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Toril</given_name>
+                  <surname>Brethvas</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Læringssamtalen fra ord til handling. Om utvikling av læringssamtalen som pedagogisk grep i oppvekstenhetene i Arendal: Utviklingsprosess og –produkt.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2009</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2009:10</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2009:10</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Laeringssamtalen-fra-ord-til-handling</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Reichborn-Kjennerud-->
+            <!--Primary contributor: Reichborn-Kjennerud-->
+            <!--Secondary contributors: Reichborn-Kjennerud-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>R</given_name>
+                  <surname>eichborn-Kjennerud</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>R</given_name>
+                  <surname>eichborn-Kjennerud</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>En ny mulighet – brukernes opplevelse av Kvalifiseringsprogrammet i NAV.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2009</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2009:11</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2009:11</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-ny-mulighet-brukernes-opplevelse-av-Kvalifiseringsprogrammet-i-NAV</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Grimsmo, Asbjørn-->
+            <!--Primary contributor: Asbjørn Grimsmo-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Asbjørn</given_name>
+                  <surname>Grimsmo</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Arbeidsmiljøundersøkelse i NAV.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2009</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2009:12</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2009:12</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Arbeidsmiljoeundersoekelse-i-NAV</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Neumann, Cecilie Basberg-->
+            <!--Primary contributor: Cecilie Basberg Neumann-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Cecilie Basberg</given_name>
+                  <surname>Neumann</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>LINK. Evaluering av et hjemmebasert hjelpetiltak.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2010</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2010:1</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2010:1</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/LINK</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Rusnes, Ingrid-->
+            <!--Primary contributor: Ingrid Rusnes-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Ingrid</given_name>
+                  <surname>Rusnes</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Arbeidsrettede tiltak for unge med funksjonsnedsettelser - en kunnskapsoversikt.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2010</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2010:2</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2010:2</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Arbeidsrettede-tiltak-for-unge-med-funksjonsnedsettelser</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Hilsen, Anne Inga & Anlaug Botnen-->
+            <!--Primary contributor: Anne Inga Hilsen-->
+            <!--Secondary contributors: Anlaug Botnen-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Anne Inga</given_name>
+                  <surname>Hilsen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Anlaug</given_name>
+                  <surname>Botnen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>”Vi må ikke glemme at vi er høye, mørke og sterke…” Seniorprosjekt Sykehuset Telemark 2007-2009.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2010</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2010:3</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2010:3</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Vi-maa-ikke-glemme-at-vi-er-hoeye-moerke-og-sterke2</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Reichborn-Kjennerud, Kristin, Migle Gamperiene & Anne Inga Hilsen-->
+            <!--Primary contributor: Kristin Reichborn-Kjennerud-->
+            <!--Secondary contributors: Migle Gamperiene & Anne Inga Hilsen-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Kristin</given_name>
+                  <surname>Reichborn-Kjennerud</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Migle</given_name>
+                  <surname>Gamperiene</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Anne Inga</given_name>
+                  <surname>Hilsen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Ekstra fridager til seniorer. Hvordan brukes de, hva betyr de og bidrar de til å holde seniorene i jobb?</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2010</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2010:4</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2010:4</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Ekstra-fridager-til-seniorer</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Schafft, Angelika-->
+            <!--Primary contributor: Angelika Schafft-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Angelika</given_name>
+                  <surname>Schafft</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Evaluering av prosjektet ”Yrkesmessig rehabilitering av somaliere i khatbruker-miljøer".</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2010</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2010:5</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2010:5</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-prosjektet-Yrkesmessig-rehabilitering-av-somaliere-i-khatbruker-miljoeer</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Schafft, Angelika & Øystein Spjelkavik-->
+            <!--Primary contributor: Angelika Schafft-->
+            <!--Secondary contributors: Øystein Spjelkavik-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Angelika</given_name>
+                  <surname>Schafft</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Øystein</given_name>
+                  <surname>Spjelkavik</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Arbeidsgiverlos. Evaluering av pilotprosjekt – underveisrapport.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2010</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2010:6</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2010:6</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Arbeidsgiverlos-Underveisrapport</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Holte, Hilde H. & Anne Inga Hilsen-->
+            <!--Primary contributor: Hilde H. Holte-->
+            <!--Secondary contributors: Anne Inga Hilsen-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Hilde H.</given_name>
+                  <surname>Holte</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Anne Inga</given_name>
+                  <surname>Hilsen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Kvinners holdninger til tidligpensjonering.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2010</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2010:7</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2010:7</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Kvinners-holdninger-til-tidligpensjonering</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Gamperiene, Migle, Anne Inga Hilsen & Ingebjørg Skarpaas-->
+            <!--Primary contributor: Migle Gamperiene-->
+            <!--Secondary contributors: Anne Inga Hilsen & Ingebjørg Skarpaas-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Migle</given_name>
+                  <surname>Gamperiene</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Anne Inga</given_name>
+                  <surname>Hilsen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Ingebjørg</given_name>
+                  <surname>Skarpaas</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Hvis bare helsa holder... En kartleggingsstudie av kvinners helse, arbeidsevne og holdninger til pensjonering.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2010</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2010:8</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2010:8</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hvis-bare-helsa-holder</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Skarpaas, Ingebjørg-->
+            <!--Primary contributor: Ingebjørg Skarpaas-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Ingebjørg</given_name>
+                  <surname>Skarpaas</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Helse- og arbeidsaksen i et komparativt perspektiv. Institusjonelle og organisatoriske modeller for å bygge ned grenser mellom helsesektoren og trygde-/arbeidsmarkedsetater i Finland.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2010</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2010:9</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2010:9</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Helse-og-arbeidsaksen-i-et-komparativt-perspektiv</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Fossestøl, Knut-->
+            <!--Primary contributor: Knut Fossestøl-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Knut</given_name>
+                  <surname>Fossestøl</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Omstilling og utvikling av private opptrenings- og rehabiliteringsinstitusjoner.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2010</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2010:10</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2010:10</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Omstilling-og-utvikling-av-private-opptrenings-og-rehabiliteringsinstitusjoner</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Fossestøl, Knut & Heidi Enehaug-->
+            <!--Primary contributor: Knut Fossestøl-->
+            <!--Secondary contributors: Heidi Enehaug-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Knut</given_name>
+                  <surname>Fossestøl</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Heidi</given_name>
+                  <surname>Enehaug</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Konservative praktikere eller avantgardistiske byråkrater. Workshop i Oslo 6. juni 2008 om barnevernets FoU-strategi.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2010</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2010:11</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2010:11</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Konservative-praktikere-eller-avantgardistiske-byraakrater</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Fossestøl, Knut & Tone Alm Andreassen-->
+            <!--Primary contributor: Knut Fossestøl-->
+            <!--Secondary contributors: Tone Alm Andreassen-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Knut</given_name>
+                  <surname>Fossestøl</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Tone Alm</given_name>
+                  <surname>Andreassen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Rehabilitering med arbeid som mål – et organisatorisk perspektiv. Refleksjoner om styringsutfordringer og kunnskapsbehov.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2010</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2010:12</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2010:12</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Rehabilitering-med-arbeid-som-maal-et-organisatorisk-perspektiv</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Norvoll, Reidun & Knut Fossestøl-->
+            <!--Primary contributor: Reidun Norvoll-->
+            <!--Secondary contributors: Knut Fossestøl-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Reidun</given_name>
+                  <surname>Norvoll</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Knut</given_name>
+                  <surname>Fossestøl</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Funksjonshemmede og arbeid. En kunnskapsstatus.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2010</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2010:13</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2010:13</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Funksjonshemmede-og-arbeid</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Reichborn-Kjennerud, Kristin-->
+            <!--Primary contributor: Kristin Reichborn-Kjennerud-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Kristin</given_name>
+                  <surname>Reichborn-Kjennerud</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Faste grep om helsa i hektiske kontor. En undersøkelse av helsesekretærenes arbeidsforhold ved fastlegekontor.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2010</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2010:14</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2010:14</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Faste-grep-om-helsa-i-hektiske-kontor</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Pettersen, Karen-Sofie-->
+            <!--Primary contributor: Karen-Sofie Pettersen-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Karen-Sofie</given_name>
+                  <surname>Pettersen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Ledelse og lederutdanning i kommunenes helse og omsorgstjeneste. Resultater fra en kartleggingsstudie.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2010</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2010:15</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2010:15</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Ledelse-og-lederutdanning-i-kommunenes-helse-og-omsorgstjeneste</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Halrynjo, Sigtona & Arild H. Steen-->
+            <!--Primary contributor: Sigtona Halrynjo-->
+            <!--Secondary contributors: Arild H. Steen-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Sigtona</given_name>
+                  <surname>Halrynjo</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Arild H.</given_name>
+                  <surname>Steen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Deltid, kompetanse og inkludering – tilstand og muligheter. En analyse blant arbeidstakere i offentlig sektor uten høyere utdanning.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2010</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2010:16</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2010:16</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Deltid-kompetanse-og-inkludering-tilstand-og-muligheter</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Halrynjo, Sigtona-->
+            <!--Primary contributor: Sigtona Halrynjo-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Sigtona</given_name>
+                  <surname>Halrynjo</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>På vei ut? Hva kjennetegner arbeidstakere som tror de er på vei ut av arbeidslivet?</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2011</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2011:1</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2011:1</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Paa-vei-ut</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Gjerberg, Elisabet & Nina Amble-->
+            <!--Primary contributor: Elisabet Gjerberg-->
+            <!--Secondary contributors: Nina Amble-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Elisabet</given_name>
+                  <surname>Gjerberg</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Nina</given_name>
+                  <surname>Amble</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Refleksjon, handling og mestring. Et forsknings- og utviklingsprosjekt 2005-2011.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2011</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2011:2</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2011:2</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Refleksjon-handling-og-mestring</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Skarpaas, Ingebjørg & Reidun Norvoll-->
+            <!--Primary contributor: Ingebjørg Skarpaas-->
+            <!--Secondary contributors: Reidun Norvoll-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Ingebjørg</given_name>
+                  <surname>Skarpaas</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Reidun</given_name>
+                  <surname>Norvoll</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Kvalitet i skjermet sektor. Om kvalitetsvurdering og kvalitetsstyring i tiltak for personer med nedsatt arbeidsevne.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2011</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2011:3</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2011:3</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Kvalitet-i-skjermet-sektor</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Egeland, Cathrine & Cecile Basberg Neumann-->
+            <!--Primary contributor: Cathrine Egeland-->
+            <!--Secondary contributors: Cecile Basberg Neumann-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Cathrine</given_name>
+                  <surname>Egeland</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Cecile Basberg</given_name>
+                  <surname>Neumann</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Regionale sentre for likestilling og mangfold. Evalueringsrapport.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2011</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2011:4</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2011:4</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Regionale-sentre-for-likestilling-og-mangfold</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Andreassen, Tone Alm, Sveinung Legard & Amund Lie-->
+            <!--Primary contributor: Tone Alm Andreassen-->
+            <!--Secondary contributors: Sveinung Legard & Amund Lie-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Tone Alm</given_name>
+                  <surname>Andreassen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Sveinung</given_name>
+                  <surname>Legard</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Amund</given_name>
+                  <surname>Lie</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Forvaltningsenheter i NAV. Etableringsprosess og konsekvenser for oppgaveløsningen. Dokumentasjonsrapport.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2011</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2011:5</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2011:5</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Forvaltningsenheter-i-NAV</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Gamperiene, Migle & Asbjørn Grimsmo-->
+            <!--Primary contributor: Migle Gamperiene-->
+            <!--Secondary contributors: Asbjørn Grimsmo-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Migle</given_name>
+                  <surname>Gamperiene</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Asbjørn</given_name>
+                  <surname>Grimsmo</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Sårbare svaner? Arbeidsmiljøundersøkelsen blant ballettdanserne i Den Norske Opera og Ballett/Nasjonalballetten.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2011</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2011:6</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2011:6</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Saarbare-svaner</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Legard, Sveinung, Asbjørn Grimsmo & Tone Alm Andreassen-->
+            <!--Primary contributor: Sveinung Legard-->
+            <!--Secondary contributors: Asbjørn Grimsmo & Tone Alm Andreassen-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Sveinung</given_name>
+                  <surname>Legard</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Asbjørn</given_name>
+                  <surname>Grimsmo</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Tone Alm</given_name>
+                  <surname>Andreassen</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Lønns- og arbeidsvilkår for kommunalt ansatte i NAV-kontor.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2011</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2011:7</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2011:7</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Loenns-og-arbeidsvilkaar-for-kommunalt-ansatte-i-NAV-kontor</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Pettersen, Karen-Sofie & Reidun Norvoll-->
+            <!--Primary contributor: Karen-Sofie Pettersen-->
+            <!--Secondary contributors: Reidun Norvoll-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Karen-Sofie</given_name>
+                  <surname>Pettersen</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Reidun</given_name>
+                  <surname>Norvoll</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>SAK i Innlandet. En utredning av fagmiljøene ved Innlandshøgskolenes helse- og sosialavdelinger med fokus på muligheter for faglig synergi.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2011</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2011:8</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2011:8</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/SAK-i-Innlandet</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Norvoll, Reidun & Tonje Lossius Husum-->
+            <!--Primary contributor: Reidun Norvoll-->
+            <!--Secondary contributors: Tonje Lossius Husum-->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Reidun</given_name>
+                  <surname>Norvoll</surname>
+               </person_name>
+               <person_name contributor_role="author" sequence="additional">
+                  <given_name>Tonje Lossius</given_name>
+                  <surname>Husum</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Som natt og dag? Om forskjeller i forståelse mellom misfornøyde brukere og ansatte om bruk av tvang.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2011</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2011:9</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2011:9</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Som-natt-og-dag</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+      <report-paper>
+         <report-paper_series_metadata language="no">
+            <series_metadata>
+               <titles>
+                  <title>AFI-notat</title>
+               </titles>
+               <issn>0801-7816</issn>
+            </series_metadata>
+            <!--Contributors: Norvoll, Reidun-->
+            <!--Primary contributor: Reidun Norvoll-->
+            <!--Secondary contributors: -->
+            <contributors>
+               <person_name contributor_role="author" sequence="first">
+                  <given_name>Reidun</given_name>
+                  <surname>Norvoll</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Jeg vil ikke stå utenfor. Arbeid og utdanning sett med brukernes øyne.</title>
+            </titles>
+            <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+               <year>2011</year>
+            </publication_date>
+            <publisher>
+               <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+               <publisher_place>Oslo</publisher_place>
+            </publisher>
+            <publisher_item>
+               <item_number>AFI-notat 2011:10</item_number>
+            </publisher_item>
+            <doi_data>
+               <doi>10.7577/afi/notat/2011:10</doi>
+               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Jeg-vil-ikke-staa-utenfor</resource>
+            </doi_data>
+         </report-paper_series_metadata>
+      </report-paper>
+   </body>
+</doi_batch>
+
