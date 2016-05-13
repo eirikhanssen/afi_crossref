@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <doi_batch xmlns="http://www.crossref.org/schema/4.3.4"
            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
            xmlns:xsd="http://www.w3.org/2001/XMLSchema"
@@ -44,12 +45,7 @@
                <publisher_name>Høgskolen i Oslo</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <doi_data>
                <doi>10.7577/afi/skriftserie/2000/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Arbeidsmiljoe-og-omstilling</resource>
@@ -83,12 +79,7 @@
                <publisher_name>Universitetet i Oslo</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <doi_data>
                <doi>10.7577/afi/skriftserie/2004/1</doi>
                <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Brukermedvirkning-politikk-og-velferdsstat</resource>
@@ -97,4 +88,3 @@
       </report-paper>
    </body>
 </doi_batch>
-

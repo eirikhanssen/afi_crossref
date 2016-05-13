@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <doi_batch xmlns="http://www.crossref.org/schema/4.3.4"
            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
            xmlns:xsd="http://www.w3.org/2001/XMLSchema"
@@ -39,12 +40,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultater 1998</item_number>
             </publisher_item>
@@ -72,12 +68,7 @@
                <publisher_name>Work Research Institute</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultater 2002</item_number>
             </publisher_item>
@@ -113,12 +104,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultater 2003</item_number>
             </publisher_item>
@@ -150,12 +136,7 @@
                <publisher_name>Strategies for Inclusion - co-ordinated approaches for quality employment -Phase I</publisher_name>
                <publisher_place>Uhrig, Bettina &amp; Michael J. Evans (eds.) (2003)</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultater 2003</item_number>
             </publisher_item>
@@ -187,12 +168,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultater 2004</item_number>
             </publisher_item>
@@ -228,12 +204,7 @@
                <publisher_name>Work Research Institute</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultater 2005</item_number>
             </publisher_item>
@@ -265,12 +236,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultater 2006</item_number>
             </publisher_item>
@@ -302,12 +268,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultater 2006</item_number>
             </publisher_item>
@@ -339,12 +300,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultater 2006</item_number>
             </publisher_item>
@@ -376,12 +332,7 @@
                <publisher_name>Arbeidsforskningsinstituttet og Sosial- og helsedirektoratet (distributør)</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2007</item_number>
             </publisher_item>
@@ -421,12 +372,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-artikler 2007</item_number>
             </publisher_item>
@@ -466,12 +412,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-artikler 2007</item_number>
             </publisher_item>
@@ -507,12 +448,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-artikler 2007</item_number>
             </publisher_item>
@@ -544,12 +480,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-artikler 2007</item_number>
             </publisher_item>
@@ -577,12 +508,7 @@
                <publisher_name>Work Research Institute</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-artikler 2007</item_number>
             </publisher_item>
@@ -610,12 +536,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2008</item_number>
             </publisher_item>
@@ -647,12 +568,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2008</item_number>
             </publisher_item>
@@ -684,12 +600,7 @@
                <publisher_name>Kirkens Bymisjon</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2008</item_number>
             </publisher_item>
@@ -717,12 +628,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2008</item_number>
             </publisher_item>
@@ -750,12 +656,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2008</item_number>
             </publisher_item>
@@ -787,12 +688,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2009</item_number>
             </publisher_item>
@@ -824,12 +720,7 @@
                <publisher_name>Arbeidsforskningsinstituttet og Sosial- og helsedirektoratet (distributør)</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2009</item_number>
             </publisher_item>
@@ -861,12 +752,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2009</item_number>
             </publisher_item>
@@ -902,12 +788,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2009</item_number>
             </publisher_item>
@@ -939,12 +820,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2009</item_number>
             </publisher_item>
@@ -992,12 +868,7 @@
                <publisher_name>Høgskolen i Oslo</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2009</item_number>
             </publisher_item>
@@ -1029,12 +900,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2010</item_number>
             </publisher_item>
@@ -1066,12 +932,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2010</item_number>
             </publisher_item>
@@ -1107,12 +968,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2010</item_number>
             </publisher_item>
@@ -1148,12 +1004,7 @@
                <publisher_name>Arbeidsforskningsinstuttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2011</item_number>
             </publisher_item>
@@ -1185,12 +1036,7 @@
                <publisher_name>Arbeidsforskningsinstuttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2011</item_number>
             </publisher_item>
@@ -1222,12 +1068,7 @@
                <publisher_name>Arbeidsforskningsinstuttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2011</item_number>
             </publisher_item>
@@ -1259,12 +1100,7 @@
                <publisher_name>Arbeidsforskningsinstuttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2011</item_number>
             </publisher_item>
@@ -1296,12 +1132,7 @@
                <publisher_name>Arbeidsforskningsinstuttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2011</item_number>
             </publisher_item>
@@ -1341,12 +1172,7 @@
                <publisher_name>Conflict Prevention and Management</publisher_name>
                <publisher_place>Widding, Steinar, Asbjørn Grimsmo, Kirsti Jacobsen &amp; Annik Apall Austad (2012)</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2012</item_number>
             </publisher_item>
@@ -1374,12 +1200,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2012</item_number>
             </publisher_item>
@@ -1411,12 +1232,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2012</item_number>
             </publisher_item>
@@ -1444,12 +1260,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2012</item_number>
             </publisher_item>
@@ -1481,12 +1292,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2012</item_number>
             </publisher_item>
@@ -1514,12 +1320,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Schafft, Angelika. (2012). Jobpics – et billedbasert interesseutforskingsverktøy. Erfaringsrapport. Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2012</item_number>
             </publisher_item>
@@ -1555,12 +1356,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2012</item_number>
             </publisher_item>
@@ -1588,12 +1384,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2012</item_number>
             </publisher_item>
@@ -1621,12 +1412,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2012</item_number>
             </publisher_item>
@@ -1662,12 +1448,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2013</item_number>
             </publisher_item>
@@ -1711,12 +1492,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2013</item_number>
             </publisher_item>
@@ -1748,12 +1524,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2013</item_number>
             </publisher_item>
@@ -1785,12 +1556,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2014</item_number>
             </publisher_item>
@@ -1830,12 +1596,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2014</item_number>
             </publisher_item>
@@ -1863,12 +1624,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2014</item_number>
             </publisher_item>
@@ -1900,12 +1656,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2014</item_number>
             </publisher_item>
@@ -1941,12 +1692,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2014</item_number>
             </publisher_item>
@@ -1978,12 +1724,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2014</item_number>
             </publisher_item>
@@ -2019,12 +1760,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2014</item_number>
             </publisher_item>
@@ -2052,12 +1788,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2015</item_number>
             </publisher_item>
@@ -2089,12 +1820,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2015</item_number>
             </publisher_item>
@@ -2126,12 +1852,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2015</item_number>
             </publisher_item>
@@ -2179,12 +1900,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2015</item_number>
             </publisher_item>
@@ -2224,12 +1940,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2015</item_number>
             </publisher_item>
@@ -2261,12 +1972,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2015</item_number>
             </publisher_item>
@@ -2306,12 +2012,7 @@
                <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
                <publisher_place>Oslo</publisher_place>
             </publisher>
-            <institution>
-               <institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
-               <institution_acronym>HiOA</institution_acronym>
-               <institution_place>Oslo</institution_place>
-               <institution_department>Arbeidsforskningsinstituttet</institution_department>
-            </institution>
+            
             <publisher_item>
                <item_number>FoU-resultat 2015</item_number>
             </publisher_item>
@@ -2323,4 +2024,3 @@
       </report-paper>
    </body>
 </doi_batch>
-
