@@ -112,14 +112,14 @@
 			</publisher>
 		</xsl:variable>
 		
-		<xsl:variable name="institution_seq">
+		<!--<xsl:variable name="institution_seq">
 			<institution>
 				<institution_name>Oslo and Akershus University College of Applied Sciences</institution_name>
 				<institution_acronym>HiOA</institution_acronym>
 				<institution_place>Oslo</institution_place>
 				<institution_department>Arbeidsforskningsinstituttet</institution_department>
 			</institution>
-		</xsl:variable>
+		</xsl:variable>-->
 		
 		<xsl:variable name="publisher_item_seq">
 			<publisher_item>
@@ -147,7 +147,7 @@
 								$title_seq, 
 								$publication_date_seq, 
 								$publisher_seq, 
-								$institution_seq, 
+								(:$institution_seq,:) 
 								$publisher_item_seq, 
 								$doi_data_seq"/>
 						</report-paper_series_metadata>
@@ -160,7 +160,7 @@
 								$title_seq, 
 								$publication_date_seq, 
 								$publisher_seq, 
-								$institution_seq, 
+								(:$institution_seq, :)
 								$publisher_item_seq, 
 								$doi_data_seq"/>
 						</report-paper_metadata>
