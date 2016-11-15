@@ -5,8 +5,8 @@
            version="4.3.4"
            xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd">
    <head>
-      <doi_batch_id>hioa_20160512175811</doi_batch_id>
-      <timestamp>20160512175811</timestamp>
+      <doi_batch_id>hioa_20161115104500</doi_batch_id>
+   	<timestamp>20161115104500</timestamp>
       <depositor>
          <depositor_name>Eirik Hanssen</depositor_name>
          <email_address>ojs@hioa.no</email_address>
@@ -1843,7 +1843,7 @@
                </person_name>
             </contributors>
             <titles>
-               <title>E valuering av «Forsøket Arbeidsavklarings penger (AAP) som lønnstilskudd”. Delrapport 2.</title>
+               <title>Evaluering av «Forsøket Arbeidsavklarings penger (AAP) som lønnstilskudd”. Delrapport 2.</title>
             </titles>
             <publication_date media_type="online"><!--TODO: What about printed publication date?-->
                <year>2015</year>

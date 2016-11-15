@@ -4,8 +4,8 @@
            version="4.3.4"
            xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd">
    <head>
-      <doi_batch_id>hioa_20160514022047</doi_batch_id>
-      <timestamp>20160514022047</timestamp>
+   	<doi_batch_id>hioa_20161115104600</doi_batch_id>
+   	<timestamp>20161115104600</timestamp>
       <depositor>
          <depositor_name>Eirik Hanssen</depositor_name>
          <email_address>ojs@hioa.no</email_address>
@@ -1667,7 +1667,8 @@
                </person_name>
             </contributors>
             <titles>
-               <title>Integreringsprosessen på det lokale NAV-kontoret. Første fase av iverksettelsen av NAV-reformen.</title>
+               <title>Integreringsprosessen på det lokale NAV-kontoret.</title>
+            <subtitle>Tidlig fase av iverksettelsen av NAV-reformen.</subtitle>
             </titles>
             <publication_date media_type="online"><!--TODO: What about printed publication date?-->
                <year>2008</year>
@@ -2085,7 +2086,7 @@
             </publisher_item>
             <doi_data>
                <doi>10.7577/afi/notat/2009:7</doi>
-               <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/En-ny-mulighet-brukernes-opplevelse-av-Kvalifiseringsprogrammet-i-NAV</resource>
+            	<resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Evaluering-av-Kvalifiseringsprogrammet-underveisrapport</resource>
             </doi_data>
          </report-paper_series_metadata>
       </report-paper>
@@ -2915,7 +2916,8 @@
                </person_name>
             </contributors>
             <titles>
-               <title>På vei ut? Hva kjennetegner arbeidstakere som tror de er på vei ut av arbeidslivet?</title>
+               <title>På vei ut?</title>
+            	<subtitle>Hva kjennetegner arbeidstakere på vei ut av arbeidslivet?</subtitle>
             </titles>
             <publication_date media_type="online"><!--TODO: What about printed publication date?-->
                <year>2011</year>
