@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.4"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+           version="4.3.4"
+           xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd">
+   <head>
+      <doi_batch_id>hioa_20161109143610</doi_batch_id>
+      <timestamp>20161109143610</timestamp>
+      <depositor>
+         <depositor_name>Eirik Hanssen</depositor_name>
+         <email_address>ojs@hioa.no</email_address>
+      </depositor>
+      <registrant>HiOA</registrant>
+   </head>
+   <body>
+       <report-paper>
+           <report-paper_series_metadata language="no">
+               <series_metadata>
+                   <titles>
+                       <title>AFI-Rapporter</title>
+                   </titles>
+                   <issn>0807-0865</issn>
+               </series_metadata>
+               <!--Contributors: Falkum, Eivind & Arild H. Steen-->
+               <!--Primary contributor: Eivind Falkum-->
+               <!--Secondary contributors: Arild H. Steen-->
+               <contributors>
+                   <person_name contributor_role="author" sequence="first">
+                       <given_name>Eivind</given_name>
+                       <surname>Falkum</surname>
+                   </person_name>
+                   <person_name contributor_role="author" sequence="additional">
+                       <given_name>Arild H.</given_name>
+                       <surname>Steen</surname>
+                   </person_name>
+               </contributors>
+               <titles>
+                   <title>Høgskolen i Telemark og TEL-TEK. Utredning om fremtidig samarbeid.</title>
+               </titles>
+               <publication_date media_type="online"><!--TODO: What about printed publication date?-->
+                   <year>2015</year>
+               </publication_date>
+               <publisher>
+                   <publisher_name>Arbeidsforskningsinstituttet</publisher_name>
+                   <publisher_place>Oslo</publisher_place>
+               </publisher>
+               <publisher_item>
+                   <item_number>AFI-rapport 2015:2</item_number>
+               </publisher_item>
+               <doi_data>
+                   <doi>10.7577/afi/rapport/2015:2</doi>
+                   <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/AFI/Publikasjoner-AFI/Hoegskolen-i-Telemark-og-TEL-TEK</resource>
+               </doi_data>
+           </report-paper_series_metadata>
+       </report-paper>
+   </body>
+</doi_batch>
